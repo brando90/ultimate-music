@@ -28,7 +28,7 @@ STEP 2. PREPARE THE FILES (no gate)
 
 Create these files, then commit and push to `main`:
 
-1. `docs/artist-profile.md`: artist name (suggested default Brando Miranda; ask Brando to confirm it before any account step, because it is public), a bio of about 150 words, professional and artistic in tone, true and with no hype (a Stanford AI PhD student who arranged Metallica for his school orchestra at sixteen and recast it as jazz with AI sixteen years later; link his site https://brando90.github.io/brandomiranda/), genre Jazz, a 3000 x 3000 avatar and a header brief (uses `cover_3000.jpg` for now).
+1. `docs/artist-profile.md` (a draft already exists; check it against the facts, fix anything inaccurate, keep the release title written in one place only): artist name (suggested default Brando Miranda; ask Brando to confirm it before any account step, because it is public), a bio of about 150 words, professional and artistic in tone, true and with no hype (a Stanford AI PhD student who arranged Metallica for his school orchestra at sixteen and recast it as jazz with AI sixteen years later; link his site https://brando90.github.io/brandomiranda/), genre Jazz, a 3000 x 3000 avatar and a header brief (uses `cover_3000.jpg` for now).
 2. `docs/spotify-setup.md`: the exact steps below with the real screens as you meet them, and a log of each gate, with date and time.
 3. `tracks/the-day-that-never-comes-bebop.md`: update the checklist and status as steps finish.
 
@@ -78,7 +78,7 @@ After Brando types GO UPLOAD, and only then, submit the release. Save the confir
 
 STEP 8. WHEN IT IS LIVE (a later session)
 
-Find the song on Spotify, copy its link into the track notes file, then claim the artist profile in Spotify for Artists (https://artists.spotify.com): `BRANDO MUST DO:` for the Spotify sign-in; add photo, bio and links from `docs/artist-profile.md`.
+Find the song on Spotify, copy its link into the track notes file, then claim the artist profile in Spotify for Artists (https://artists.spotify.com): `BRANDO MUST DO:` for the Spotify sign-in; add photo, bio and links from `docs/artist-profile.md` (it already exists on main; in step 2 check and refine it, do not recreate it).
 
 At the end of each session print one line: `TLDR-end: [Music: Spotify first release] <what is done, which gate is next>`.
 
