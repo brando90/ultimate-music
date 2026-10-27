@@ -28,16 +28,15 @@ STEP 2. PREPARE THE FILES (no gate)
 
 Create these files, then commit and push to `main`:
 
-1. `docs/artist-profile.md` (a draft already exists; check it against the facts, fix anything inaccurate, keep the release title written in one place only): artist name (suggested default Brando Miranda; ask Brando to confirm it before any account step, because it is public), a bio of about 150 words, professional and artistic in tone, true and with no hype (a Stanford AI PhD student who arranged Metallica for his school orchestra at sixteen and recast it as jazz with AI sixteen years later; link his site https://brando90.github.io/brandomiranda/), genre Jazz, a 3000 x 3000 avatar and a header brief (uses `cover_3000.jpg` for now).
+1. `docs/artist-profile.md` (a draft already exists; check it against the facts, fix anything inaccurate, keep the release title written in one place only): artist name (confirmed by Brando on Oct 27: `Brando Miranda Garay`, spelled exactly like that), a bio of about 150 words, professional and artistic in tone, true and with no hype (a Stanford AI PhD student who arranged Metallica for his school orchestra at sixteen and recast it as jazz with AI sixteen years later; link his site https://brando90.github.io/brandomiranda/), genre Jazz, a 3000 x 3000 avatar and a header brief (uses `cover_3000.jpg` for now).
 2. `docs/spotify-setup.md`: the exact steps below with the real screens as you meet them, and a log of each gate, with date and time.
 3. `tracks/the-day-that-never-comes-bebop.md`: update the checklist and status as steps finish.
 
-STEP 3. GATE: CHECK TWO FACTS WITH BRANDO (no gate word yet)
+STEP 3. GATE: CHECK ONE FACT WITH BRANDO (no gate word yet)
 
 Ask Brando, in one message, for:
 
-- the Suno plan that made this song (free or paid) and the date. Songs made on Suno's free plan are for personal, non-commercial use only (Suno help center, see `docs/for-profit-vs-nonprofit.md` section 5). If it was free, say clearly that releasing it through a distributor breaks that term, and let Brando decide; do not decide for him.
-- the artist name to use.
+- the date Brando downloaded the song from Suno (record it in `tracks/the-day-that-never-comes-bebop.md`). The plan question is answered: Brando confirmed on Oct 27 that the song was made on a paid Suno plan ("I paid it, it was paid at the time"), so commercial release rights apply; see `docs/for-profit-vs-nonprofit.md` section 5. Do not ask about the plan or the artist name again; the artist name is `Brando Miranda Garay`.
 
 Also ask him to listen to the WAV once in full and tell you if the start or the end needs a fix.
 
@@ -64,8 +63,8 @@ STEP 6. DRAFT THE RELEASE (still not submitted)
 In RouteNote, start a new release as a draft:
 
 - Release title: `The Day That Never Comes (Jazz Quintet Suite)` (Brando's final choice on Oct 27; he may drop "Suite" if he says so, so repeat the title to him before GO UPLOAD). Track title: exactly `The Day That Never Comes` (not "MP3", not "jazz"), because RouteNote requires a cover to carry the original title. If RouteNote's live form forces the release title to equal the track title for a single, stop with a `BRANDO MUST DO:` line asking Brando to choose: the exact original title, or release it as a one-track EP or album under his title if the form allows.
-- Primary artist: the confirmed name. Release type: single. Genre: Jazz. Language: instrumental. Explicit: no.
-- Mark it as a cover. Credit the original songwriters (James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo) in the composition credit and only the performer (Brando Miranda, via AI) in the recording credit; C line and P line follow RouteNote's cover rules in `docs/for-profit-vs-nonprofit.md` section 4.
+- Primary artist: `Brando Miranda Garay`. Release type: single. Genre: Jazz. Language: instrumental. Explicit: no.
+- Mark it as a cover. Credit the original songwriters (James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo) in the composition credit and only the performer (Brando Miranda Garay, via AI) in the recording credit; C line and P line follow RouteNote's cover rules in `docs/for-profit-vs-nonprofit.md` section 4.
 - If asked whether AI was used, answer truthfully: the recording is Suno AI output made from Brando's own arrangement.
 - Upload `the-day-that-never-comes-bebop-44k-16bit.wav` and `cover_3000.jpg`.
 - Release date at least 7 days ahead.

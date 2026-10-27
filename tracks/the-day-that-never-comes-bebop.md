@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/tracks/the-day-that-never-comes-bebop.md>
 
-- **Status:** prepared candidate; Brando Miranda confirmed, Premier plan at creation verified; account setup and full listening check pending; nothing submitted
+- **Status:** prepared candidate; artist name Brando Miranda Garay confirmed, paid Suno plan at creation (Brando, 10-27-2026; Premier receipt found); account setup and full listening check pending; nothing submitted
 - **Type:** cover (original artist: Metallica; composition by James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo; verified against Metallica’s official song catalog)
 - **Created with:** Suno (account `brandojazz`)
 - **Date started:** 2026-05-07
@@ -85,7 +85,7 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 - [x] Stereo audio format and duration verified locally.
 - [x] Artwork dimensions and appearance inspected; upscale softness remains.
 - [x] All four songwriter names verified with [Metallica](https://www.metallica.com/songs/the-day-that-never-comes.html).
-- [x] Brando confirms public artist name: Brando Miranda.
+- [x] Brando confirms public artist name: Brando Miranda Garay.
 - [x] Suno Premier coverage at creation verified from the matching account’s receipt.
 - [ ] Historical download date established.
 - [ ] Brando listens in full and confirms the start and ending.

@@ -12,6 +12,8 @@ This repo holds Brando's music: ideas, arrangements, prompts, release notes and 
 2. **Later:** if the catalog grows and earnings matter, move to DistroKid (paid, about $25 a year as a labeled best guess; check the current price before signing up).
 3. **After the first release:** claim the artist profile in Spotify for Artists.
 
+Artist name: Brando Miranda Garay. The first song, "The Day That Never Comes", was made on a paid Suno plan, so commercial release rights apply; it is AI-made, not a studio recording. Profile text lives in `docs/artist-profile.md`.
+
 Covers need a cover-song license from the distributor before release. Original songs do not.
 
 ## Layout

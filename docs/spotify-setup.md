@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/spotify-setup.md>
 
-**TLDR:** The local release candidate passed checksum, audio-format and artwork-dimension checks. Brando Miranda is confirmed, an existing Spotify listener account was found, and Premier coverage at Suno creation was verified. RouteNote signup awaits user-entered credentials and submission; listening and distribution checks remain pending.
+**TLDR:** The local release candidate passed checksum, audio-format and artwork-dimension checks. Brando Miranda Garay is the confirmed artist name (Brando, 10-27-2026, after the earlier note below), an existing Spotify listener account was found, and Premier coverage at Suno creation was verified. RouteNote signup awaits user-entered credentials and submission; listening and distribution checks remain pending.
 
 ## Assignment and current state
 
@@ -53,7 +53,7 @@ Future runs: check for new instructions or user answers, retain this log, and do
 
 ## Account findings (10-27-2026 10:10 PDT)
 
-- **User decision:** Use Brando Miranda publicly; proceed with free account setup and inspect the historical Suno plan. This is explicit account authorization; no special gate word is needed. It does not authorize a distributor upload, submission or purchase.
+- **User decision:** Use Brando Miranda publicly (later superseded: Brando's final answer at 10:09 to the artist-name question is `Brando Miranda Garay`, spelled exactly); proceed with free account setup and inspect the historical Suno plan. This is explicit account authorization; no special gate word is needed. It does not authorize a distributor upload, submission or purchase.
 - **Spotify:** The native Mac app is signed in as Brando Miranda Garay and shows Premium. No new listener account is needed; no subscription was changed. The browser account page required sign-in, so browser authentication for a later artist claim remains unverified.
 - **Suno identity:** Signed-in profile is `brandojazz`, handle `@ultimate_brando9`, and owns the exact candidate song `f991d6df-ade7-4c1a-9561-2dedaa4179c7`. Settings show Free today; the song page displays creation on 05-07-2026 at 12:26 p.m.
 - **Historical plan:** A Suno receipt in the matching music mailbox states **Suno Premier**, covering **05-07-2026–06-07-2026**, paid on 05-07-2026. Gmail shows receipt arrival at 12:17 p.m., before the song’s displayed 12:26 p.m. timestamp. Coverage on the creation date is established by the receipt; the two displayed times provide supporting sequence evidence, with no separate timezone audit. Receipt identifiers, payment details and the email body are deliberately excluded from this public repository.
