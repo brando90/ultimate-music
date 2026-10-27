@@ -33,7 +33,7 @@ A Metallica arrangement is a cover, not an original. Facts checked Oct 27, 2026 
 **DistroKid (paid, later)**
 - $12 per year per cover song; every plan includes cover licensing. At upload choose Songwriter > "another artist wrote it". DistroKid gets a compulsory mechanical license and deducts 12.7 cents per song sold in the US for the songwriter (via the Harry Fox Agency). You must use DistroKid's license even if you hold your own. (https://distrokid.com/product/cover-song-licensing)
 
-**Practical reading for the first upload (a labeled best guess, not legal advice):** RouteNote to Spotify only, with the five license-needed territories excluded, needs no license on RouteNote's rules. Selling or streaming in the US needs the $12 per song license. 
+**Practical reading for the first upload (a labeled best guess, not legal advice):** on RouteNote's rules, a release sent only to Spotify (or only to the nine stores above) needs no license in any territory. Adding other stores in the US, Canada, Mexico, India or Pakistan needs the $12 per song license.
 
 **Suno terms:** songs made on a free Suno plan may not be allowed for commercial release; check Suno's current terms and Brando's plan before uploading. Also check whether Suno accepts an upload of a copyrighted song as input.
 
