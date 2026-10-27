@@ -19,4 +19,3 @@ In the repo brando90/ultimate-music, set up my artist presence for Spotify.
 Notes for whoever runs it:
 
 - Read docs/for-profit-vs-nonprofit.md too: it holds the distributor fees, the cover-song license rules for the Metallica arrangement, and Suno's commercial-use terms, which the setup steps must respect.
-- Origin: the prompt text was sent to Brando on WhatsApp on Oct 27, 2026 at 09:35, after he asked for a Codex prompt to create his Spotify.
