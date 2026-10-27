@@ -43,6 +43,6 @@ It meets `docs/release-checklist.md` section 1 on format, peaks (under 0 dB, tru
 
 1. **Suno plan.** Songs made on the free plan are for personal, non-commercial use only. Which plan made this song is not recorded. See `docs/for-profit-vs-nonprofit.md` section 5.
 2. **Cover license.** It is a Metallica cover. Brando said about $12 for the mechanical license is fine; nothing has been bought. See section 4 of the same doc.
-3. **Release and artist name.** Release title chosen by Brando on Oct 27: *Ultimate Metallica: A Jazz Orchestra Suite* (he may change it); the track title stays exactly *The Day That Never Comes* because RouteNote requires covers to carry the original title. The title says "orchestra" while this recording is a Suno bebop quintet. Artist name not set; suggested default: Brando Miranda.
+3. **Release and artist name.** Release title chosen by Brando on Oct 27: *The Day That Never Comes (Jazz Quintet Suite)* (final; he may drop "Suite"); the track title stays exactly *The Day That Never Comes* because RouteNote requires covers to carry the original title. Artist name not set; suggested default: Brando Miranda.
 4. **Rights note on this repo.** The repo is public and holds an arrangement of a copyrighted song plus this recording; the open question in `experiments/2026-10-27_suno-beautify/README.md` still stands.
 5. **AI disclosure.** The recording is Suno AI output made from Brando's own arrangement; if a distributor or Spotify asks, say so.

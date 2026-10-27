@@ -1,4 +1,4 @@
-# Codex prompt: Spotify artist account and first release (Ultimate Metallica: A Jazz Orchestra Suite)
+# Codex prompt: Spotify artist account and first release (The Day That Never Comes (Jazz Quintet Suite))
 
 Suggested model and effort: GPT-5.6 Sol (Codex), high reasoning effort. The job needs a browser; run it in Codex with browser or computer-use tools on Brando's Mac, from a clone of `brando90/ultimate-music`. If Codex has no browser tool, it must say so in its first reply and stop after step 2 (prepare the files); it must not pretend to have done the web steps.
 
@@ -8,7 +8,7 @@ Paste everything between the two lines into Codex.
 
 You are helping Brando Miranda put his first song on Spotify. Work in a clone of the GitHub repo brando90/ultimate-music. Commit straight to `main`: no branches, no pull requests, never delete a file, never force-push. Proofread everything you write; the name is spelled Miranda.
 
-The release: "Ultimate Metallica: A Jazz Orchestra Suite". It holds one track so far: "The Day That Never Comes", a bebop jazz recast (made with Suno) of Brando's own 2010 school-orchestra arrangement of Metallica's song of the same name. It is a cover.
+The release: "The Day That Never Comes (Jazz Quintet Suite)". It holds one track so far: "The Day That Never Comes", a Suno-generated bebop quintet recast of Brando's own 2010 school-orchestra arrangement of Metallica's song of the same name. It is a cover.
 
 HARD RULES
 
@@ -63,7 +63,7 @@ STEP 6. DRAFT THE RELEASE (still not submitted)
 
 In RouteNote, start a new release as a draft:
 
-- Release title: `Ultimate Metallica: A Jazz Orchestra Suite` (Brando's choice on Oct 27; he may change it, so repeat it to him before GO UPLOAD). Track title: exactly `The Day That Never Comes` (not "MP3", not "jazz"), because RouteNote requires a cover to carry the original title. If RouteNote's live form forces the release title to equal the track title for a single, stop with a `BRANDO MUST DO:` line asking Brando to choose: the exact original title, or release it as a one-track EP or album under his title if the form allows.
+- Release title: `The Day That Never Comes (Jazz Quintet Suite)` (Brando's final choice on Oct 27; he may drop "Suite" if he says so, so repeat the title to him before GO UPLOAD). Track title: exactly `The Day That Never Comes` (not "MP3", not "jazz"), because RouteNote requires a cover to carry the original title. If RouteNote's live form forces the release title to equal the track title for a single, stop with a `BRANDO MUST DO:` line asking Brando to choose: the exact original title, or release it as a one-track EP or album under his title if the form allows.
 - Primary artist: the confirmed name. Release type: single. Genre: Jazz. Language: instrumental. Explicit: no.
 - Mark it as a cover. Credit the original songwriters (James Hetfield and Lars Ulrich) in the composition credit and only the performer (Brando Miranda, via AI) in the recording credit; C line and P line follow RouteNote's cover rules in `docs/for-profit-vs-nonprofit.md` section 4.
 - If asked whether AI was used, answer truthfully: the recording is Suno AI output made from Brando's own arrangement.
@@ -88,5 +88,5 @@ Notes for whoever runs it:
 
 - Nothing in this prompt has been run. As of the commit that added it, no account exists, nothing has been uploaded and nothing has been bought.
 - Codex is not the only way: Brando's agent on its own computer can run the browser steps as well, with the same gates. Codex on his Mac has the advantage that he is already signed in to his own browser there.
-- The release title is Brando's pick; the recording itself is a bebop quintet from Suno (its style tags say "no orchestra"), so "Jazz Orchestra Suite" describes the arrangement's origin more than this recording. Say so to Brando once, in the title question, and let him decide.
+- The release title is Brando's final pick (Oct 27): he chose "Jazz Quintet Suite" because the recording is a bebop quintet from Suno, not an orchestra. Credits say Suno-generated bebop quintet recast of Metallica.
 - Facts about fees and cover rules come from `docs/for-profit-vs-nonprofit.md`, which labels each as verified or unverified. Re-read the live pages before paying.
