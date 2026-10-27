@@ -81,8 +81,8 @@ Sources: [Suno help center, Rights and Ownership](https://help.suno.com/en/categ
 - **Per-stream pay** is roughly $0.003 to $0.005 on Spotify. This is a guess from memory, labeled as such; real payout varies by listener country and plan.
 - **Small numbers:** 100,000 streams at $0.004 is about $400 before the distributor's cut. This is arithmetic on the guessed rate.
 - **Composition royalties** (the songwriting side) go to the songwriter or publisher through a performing-rights organization and the mechanical license. For a cover, they belong to Metallica's publishers, not Brando. For an original, Brando would register with a PRO (ASCAP, BMI) to collect them.
-- **US tax basics, not advice:** music income counts as self-employment or business income, reported on a Schedule C. It can carry self-employment tax. Distributors collect a W-9 and may send a 1099 above a threshold. Keep the distributor fees, license fees, Suno subscription and mastering costs as expenses. A tax professional should confirm, especially given Brando's Stanford fellowship and visa situation, if any applies.
-- **Nonprofit "for fun" path:** on RouteNote Free the track can still earn small royalties. Even without a payout threshold being reached, earned income can be reportable, so keep the statements.
+- **US tax basics, not advice:** music income counts as self-employment or business income, reported on a Schedule C. It can carry self-employment tax. Distributors collect a W-9 and may send a 1099 above a threshold. Keep the distributor fees, license fees, Suno subscription and mastering costs as expenses. A tax professional should confirm.
+- **"For fun" path:** a RouteNote Free track can still earn small royalties. Earned income can be reportable even when small, so keep the statements.
 
 ## 7. Open items
 
