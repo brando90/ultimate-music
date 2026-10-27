@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/artist-profile.md>
 
-**TLDR:** Draft public profile; artist name and release rights await confirmation. Songwriter credits have been checked against Metallica’s official song catalog.
+**TLDR:** Draft public profile; Brando Miranda is the confirmed artist name. Distribution checks remain pending. Songwriter credits have been checked against Metallica’s official song catalog.
 
 Source of truth for the public text on Spotify for Artists, RouteNote and any other page. Copy from here; do not retype. Proofread before use: the name is spelled Miranda.
 
@@ -19,7 +19,7 @@ To drop "Suite", edit only that line, then use the new title wherever `prompts/c
 
 ## Artist
 
-- **Artist name (public):** Brando Miranda. Brando confirms this before any account step.
+- **Artist name (public):** Brando Miranda. Confirmed directly by Brando on 10-27-2026.
 - **Website:** https://brando90.github.io/brandomiranda/
 
 ### Bio (draft)
@@ -43,7 +43,7 @@ It is a cover of a Metallica composition, made as a personal music project. Dist
 - **Audio:** Suno-generated, bebop jazz, ensemble described as a quintet. It is not an orchestra and not a studio recording. Length 3:01.92. File: `experiments/2026-10-27_first-release/the-day-that-never-comes-bebop-44k-16bit.wav`.
 - **Cover art:** `experiments/2026-10-27_first-release/cover_3000.jpg`, 3000 x 3000, a plain upscale of Suno's 1024 x 1024 image, so it is soft at full size. Replace it if a sharper image becomes available.
 - **Earnings:** none claimed. Brando said he is not making money from this release.
-- **Suno plan:** still unknown. Songs from Suno's free plan are non-commercial only, so the plan that made this song must be confirmed before any release (see `docs/for-profit-vs-nonprofit.md`, section 5).
+- **Suno plan at creation:** Premier. A receipt in the account’s mailbox covers 05-07-2026 through 06-07-2026 and predates the displayed song-creation time on 05-07-2026. The account is Free as of 10-27-2026. Download date and final distribution checks remain pending; current Free status does not establish the historical plan.
 - **Credits to enter:** Original composition: James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo (as listed in [Metallica’s official song catalog](https://www.metallica.com/songs/the-day-that-never-comes.html)). Arrangement (2010 school-orchestra score): Brando Miranda. Audio generated with Suno.
 
 ## Images

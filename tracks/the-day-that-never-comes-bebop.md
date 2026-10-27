@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/tracks/the-day-that-never-comes-bebop.md>
 
-- **Status:** prepared candidate; awaiting artist name, Suno plan confirmation and full listening check; nothing submitted
+- **Status:** prepared candidate; Brando Miranda confirmed, Premier plan at creation verified; account setup and full listening check pending; nothing submitted
 - **Type:** cover (original artist: Metallica; composition by James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo; verified against Metallica’s official song catalog)
 - **Created with:** Suno (account `brandojazz`)
 - **Date started:** 2026-05-07
@@ -71,7 +71,7 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 ## Rights (open items, must be settled before upload)
 
 1. **Cover license.** This is a new recording of Metallica's composition, so it is a cover. Per `docs/for-profit-vs-nonprofit.md`: RouteNote can send a cover to Spotify without a mechanical license, but the release then has to exclude the USA, Canada, Mexico, India and Pakistan for other stores, or carry a mechanical license (current price and terms require verification; see `docs/for-profit-vs-nonprofit.md`). Original songwriters go in the composition credit (C line), performers only in the P line.
-2. **Suno plan terms.** The page does not show which Suno plan made this song on May 7, 2026. If it was a free plan, Suno's terms may not allow commercial release. Brando checks the plan on that date (Suno account, billing history) and writes the answer here. Until then distribution rights remain unresolved and upload is pending.
+2. **Suno plan terms.** Premier coverage on 05-07-2026 is verified by a receipt covering 05-07-2026 through 06-07-2026. The receipt arrived at 12:17 p.m.; the signed-in song page displays creation at 12:26 p.m. that day. Current account status is Free (10-27-2026). Historical download date and final rights checks remain pending; see `docs/spotify-setup.md`.
 3. **AI disclosure.** Check the distributor's current rule on AI-generated music when filling in the release form, and answer it truthfully.
 
 ## Notes
@@ -85,9 +85,12 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 - [x] Stereo audio format and duration verified locally.
 - [x] Artwork dimensions and appearance inspected; upscale softness remains.
 - [x] All four songwriter names verified with [Metallica](https://www.metallica.com/songs/the-day-that-never-comes.html).
-- [ ] Brando confirms the public artist name and the Suno plan at generation/download.
+- [x] Brando confirms public artist name: Brando Miranda.
+- [x] Suno Premier coverage at creation verified from the matching account’s receipt.
+- [ ] Historical download date established.
 - [ ] Brando listens in full and confirms the start and ending.
-- [ ] Account setup authorized; existing account state checked.
+- [x] Free account setup authorized; existing Spotify listener account found.
+- [ ] RouteNote signup completed and verified after the user credential step.
 - [ ] Rights, store selection and any license settled before upload.
 - [ ] Upload and submission authorized and verified.
 
