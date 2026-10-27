@@ -1,7 +1,9 @@
 # The Day That Never Comes (bebop jazz recast)
 
-- **Status:** draft (liked by Brando; not mastered, nothing submitted)
-- **Type:** cover (original artist: Metallica; composition by James Hetfield and Lars Ulrich, as credited on the original release)
+**Doc link:** <https://github.com/brando90/ultimate-music/blob/main/tracks/the-day-that-never-comes-bebop.md>
+
+- **Status:** prepared candidate; awaiting artist name, Suno plan confirmation and full listening check; nothing submitted
+- **Type:** cover (original artist: Metallica; composition by James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo; verified against Metallica’s official song catalog)
 - **Created with:** Suno (account `brandojazz`)
 - **Date started:** 2026-05-07
 - **Date released:** not released
@@ -53,26 +55,40 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 
 ## Mastering
 
-- Loudness (LUFS): not done
-- True peak (dB): not done
+- Integrated loudness: -14.0 loudness units relative to full scale (LUFS), reported in the candidate README; not independently remeasured on this Mac.
+- True peak: -2.5 decibels relative to full scale (dBFS), reported in the candidate README; not independently remeasured. Sample peak independently measured at -2.494 dBFS; zero clipped samples.
 - Format: 44.1 kHz, 16-bit WAV
-- Local file: `exports/the-day-that-never-comes-bebop/the-day-that-never-comes-bebop_v1_master.wav` (planned, does not exist yet)
+- Verified local file: `experiments/2026-10-27_first-release/the-day-that-never-comes-bebop-44k-16bit.wav`; 44.1 kHz, 16-bit, stereo, 181.92 seconds. Checksum matches the candidate README.
 
 ## Release
 
 - Distributor: RouteNote free tier (planned, nothing uploaded; needs Brando's yes to upload)
 - ISRC / UPC: assigned by the distributor
-- Cover art file: not made
+- Cover art file: `experiments/2026-10-27_first-release/cover_3000.jpg`; verified 3000 × 3000 pixels.
 - Spotify link: none
-- License needed (cover songs): yes, see "Rights" below
+- Cover licensing: depends on stores and territories; see "Rights" and `docs/spotify-setup.md`.
 
 ## Rights (open items, must be settled before upload)
 
-1. **Cover license.** This is a new recording of Metallica's composition, so it is a cover. Per `docs/for-profit-vs-nonprofit.md`: RouteNote can send a cover to Spotify without a mechanical license, but the release then has to exclude the USA, Canada, Mexico, India and Pakistan for other stores, or carry a mechanical license (about $12 per song through Affordable Song Licensing). Original songwriters go in the composition credit (C line), performers only in the P line.
-2. **Suno plan terms.** The page does not show which Suno plan made this song on May 7, 2026. If it was a free plan, Suno's terms may not allow commercial release. Brando checks the plan on that date (Suno account, billing history) and writes the answer here. Until then the upload stays a for-fun decision only.
+1. **Cover license.** This is a new recording of Metallica's composition, so it is a cover. Per `docs/for-profit-vs-nonprofit.md`: RouteNote can send a cover to Spotify without a mechanical license, but the release then has to exclude the USA, Canada, Mexico, India and Pakistan for other stores, or carry a mechanical license (current price and terms require verification; see `docs/for-profit-vs-nonprofit.md`). Original songwriters go in the composition credit (C line), performers only in the P line.
+2. **Suno plan terms.** The page does not show which Suno plan made this song on May 7, 2026. If it was a free plan, Suno's terms may not allow commercial release. Brando checks the plan on that date (Suno account, billing history) and writes the answer here. Until then distribution rights remain unresolved and upload is pending.
 3. **AI disclosure.** Check the distributor's current rule on AI-generated music when filling in the release form, and answer it truthfully.
 
 ## Notes
 
 - This is a good first upload because Brando already likes it, but it is a cover, so it carries the extra rights step. An original Suno song would have a shorter path. Brando decides.
 - If the Suno title is changed to drop "MP3", do it in Suno (More options, rename) so the downloaded file name is clean.
+
+## Preparation checklist (10-27-2026)
+
+- [x] Candidate checksum matches the documented SHA-256 (Secure Hash Algorithm, 256-bit) digest.
+- [x] Stereo audio format and duration verified locally.
+- [x] Artwork dimensions and appearance inspected; upscale softness remains.
+- [x] All four songwriter names verified with [Metallica](https://www.metallica.com/songs/the-day-that-never-comes.html).
+- [ ] Brando confirms the public artist name and the Suno plan at generation/download.
+- [ ] Brando listens in full and confirms the start and ending.
+- [ ] Account setup authorized; existing account state checked.
+- [ ] Rights, store selection and any license settled before upload.
+- [ ] Upload and submission authorized and verified.
+
+Execution log: [Spotify setup](../docs/spotify-setup.md).
