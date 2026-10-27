@@ -41,6 +41,6 @@ Brando's music: song ideas, arrangements (including Metallica-style orchestral a
 ## Naming and tone (Brando, Oct 27)
 
 - Everything is professional in tone and presentation: titles, file names, notes, cover art text, commit messages, release copy. Artistic, never sloppy or jokey.
-- The title has to be "ultimate". Every release carries "Ultimate" in its title. Current release title: **Ultimate Metallica: A Jazz Orchestra Suite**. Brando can change it; the rule is that "Ultimate" stays in the title.
+- Titles are excellent, professional and artistic. They keep the song's own name (for the Metallica jazz cover, "The Day That Never Comes"). No word is required in a title; the word "ultimate" does not have to appear. Current release title: **The Day That Never Comes (Jazz Orchestra Suite)**. Brando can change it.
 - Never put "MP3" or any other file-type suffix (WAV, MIDI, PDF) in a song or release title. Titles are the song's name only, for example "The Day That Never Comes", not "The Day That Never Comes MP3".
 - Never delete a file without Brando's yes. Add new versions beside old ones.
