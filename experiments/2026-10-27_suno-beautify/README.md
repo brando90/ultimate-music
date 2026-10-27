@@ -6,7 +6,7 @@ Take Brando's 2010 school-orchestra arrangement of Metallica's *The Day That Nev
 
 ## Inputs
 
-- Audio input for Suno: `tracks/metallica-orchestra/the-day-that-never-comes-sibelius-playback.mp3` (Sibelius playback of the score).
+- Audio input for Suno: the Sibelius playback MP3 of the score. It was removed from the repo tip on 2026-10-27 at Brando's request; it is in git history (commit 61df2bc) and on his website: https://brando90.github.io/brandomiranda/assets/metallica_goes_jazz/the-day-that-never-comes-sibelius-playback.mp3
 - Reference: the 31-page score PDF in the same folder.
 - A MIDI would be a better input but does not exist yet (see the notes file there).
 - Existing jazz prompts from the May 2026 blog post: `source-jazz-prompts-from-website.md` (not used here; this experiment goes orchestral, not jazz).

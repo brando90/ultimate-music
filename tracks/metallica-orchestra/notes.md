@@ -13,7 +13,7 @@
 | `the-day-that-never-comes-score.pdf` | Full score, 31 pages | https://brando90.github.io/brandomiranda/assets/metallica_goes_jazz/the-day-that-never-comes-score.pdf |
 | `the-day-that-never-comes.sib` | Sibelius project file | https://brando90.github.io/brandomiranda/assets/metallica_goes_jazz/the-day-that-never-comes.sib |
 | `the-day-that-never-comes-sibelius-4.sib` | Same piece saved in the Sibelius 4 format | https://brando90.github.io/brandomiranda/assets/metallica_goes_jazz/the-day-that-never-comes-sibelius-4.sib |
-| `the-day-that-never-comes-sibelius-playback.mp3` | Sibelius sample-library playback of the score (128 kbps, 44.1 kHz stereo, about 5.5 MB). This is a mock-up, not a real ensemble recording | https://brando90.github.io/brandomiranda/assets/metallica_goes_jazz/the-day-that-never-comes-sibelius-playback.mp3 |
+| (removed from the repo tip on 2026-10-27 at Brando's request; still in git history at commit 61df2bc) `the-day-that-never-comes-sibelius-playback.mp3` | Sibelius sample-library playback of the score (128 kbps, 44.1 kHz stereo, about 5.5 MB). This is a mock-up, not a real ensemble recording | https://brando90.github.io/brandomiranda/assets/metallica_goes_jazz/the-day-that-never-comes-sibelius-playback.mp3 |
 
 The page that links them is Brando's blog post "Metallica Goes Jazz: A 2010 High School Arrangement, Reanimated by AI" (May 7, 2026): https://brando90.github.io/brandomiranda/2026/05/07/metallica-goes-jazz.html
 
