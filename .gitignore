@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local audio exports (see exports/README.md)
+exports/*
+!exports/README.md

@@ -20,7 +20,10 @@ Covers need a cover-song license from the distributor before release. Original s
 |---|---|
 | `tracks/` | One notes file per song, copied from `tracks/TEMPLATE.md` |
 | `docs/release-checklist.md` | Step by step checklist from master to live on Spotify |
-| `agents/AGENTS.md` | Notes for AI agents working in this repo |
+| `AGENTS.md`, `CLAUDE.md` | Instructions for AI agents (CLAUDE.md points to AGENTS.md) |
+| `experiments/` | One folder per experiment (Suno prompts, take logs) |
+| `midi-music-library/` | MIDI-to-score archive |
+| `exports/` | Local audio exports, git-ignored |
 
 ## Rules of thumb
 
