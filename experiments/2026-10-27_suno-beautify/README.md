@@ -2,7 +2,7 @@
 
 ## Goal
 
-Take Brando's 2010 school-orchestra arrangement of Metallica's *The Day That Never Comes* (`tracks/metallica-orchestra/`) and beautify it with Suno, so it sounds like a professional San Francisco-style orchestra instead of a Sibelius mock-up. If one take is good enough, make it the **first for-fun upload** to Spotify through the RouteNote free tier. Money, maybe later.
+Take Brando's 2010 school-orchestra arrangement of Metallica's *The Day That Never Comes* (`tracks/metallica-orchestra/`) and beautify it with Suno, so it sounds like a professional San Francisco-style orchestra instead of a Sibelius mock-up. The score is q=124, "Gently"; see `prompts.md` for what the score contains. If one take is good enough, make it the **first for-fun upload** to Spotify through the RouteNote free tier. Money, maybe later.
 
 ## Inputs
 
@@ -32,12 +32,11 @@ A Metallica arrangement is a cover, not an original. Facts checked Oct 27, 2026 
 
 **DistroKid (paid, later)**
 - $12 per year per cover song; every plan includes cover licensing. At upload choose Songwriter > "another artist wrote it". DistroKid gets a compulsory mechanical license and deducts 12.7 cents per song sold in the US for the songwriter (via the Harry Fox Agency). You must use DistroKid's license even if you hold your own. (https://distrokid.com/product/cover-song-licensing)
-- DistroKid's support pages say licensing can take up to 14 business days and that covers are not for sale in India, Pakistan, Mexico or Canada (streaming allowed). Source: DistroKid support (support.distrokid.com), found through search, not opened on this run.
 
-**Practical reading for the first upload (a labeled best guess, not legal advice):** RouteNote to Spotify only, with the five license-needed territories excluded, needs no license on RouteNote's rules. Selling or streaming in the US needs the $12 per song license. The song's publishers and Metallica's side are separate from the distributor's rules.
+**Practical reading for the first upload (a labeled best guess, not legal advice):** RouteNote to Spotify only, with the five license-needed territories excluded, needs no license on RouteNote's rules. Selling or streaming in the US needs the $12 per song license. 
 
 **Suno terms:** songs made on a free Suno plan may not be allowed for commercial release; check Suno's current terms and Brando's plan before uploading. Also check whether Suno accepts an upload of a copyrighted song as input.
 
 ## Open question for Brando (copyright exposure)
 
-This public repo now contains the arrangement files: the score PDF, both `.sib` files and the MP3 playback of an arrangement of a copyrighted Metallica song. The same files are already public on Brando's website and in his public `brandomiranda` repo, so this adds no new exposure beyond them, but it is a second public copy. Options: make `ultimate-music` private, or keep the arrangement files out of the public repo. Nothing has been deleted; Brando decides.
+This public repo now holds another public copy of the arrangement of a copyrighted Metallica song: the score PDF, both `.sib` files and the MP3 playback. Copies of the same files are also public on Brando's website and in his public `brandomiranda` repo. Two options: (1) make `ultimate-music` private, or (2) remove the arrangement files from this repo (the files stay in `brandomiranda`; the notes file would link to them). Nothing has been deleted; Brando decides.

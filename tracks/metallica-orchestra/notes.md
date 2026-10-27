@@ -2,7 +2,7 @@
 
 - **Status:** draft (arrangement exists; beautify experiment not yet run)
 - **Type:** cover / arrangement (original song by Metallica, 2008, album *Death Magnetic*)
-- **Created with:** Sibelius 4, by Brando in 2010 at Greengates (high school orchestra); a Suno experiment from May 2026 recast it in jazz styles
+- **Created with:** Sibelius; a Suno experiment from May 2026 recast it in jazz styles
 - **Date started:** 2010 (arrangement); 2026-10-27 (this folder)
 - **Date released:** not released
 
@@ -21,7 +21,9 @@ The same files, plus a 35 MB WAV of the playback (left out of this repo because 
 
 ## What the arrangement is
 
-A hand-written school-orchestra arrangement: strings carry the clean intro lines, brass and winds handle the rhythmic hits, percussion holds the long-form structure. From the blog post: Brando wrote it in Sibelius 4 at age 16 while referencing a MIDI of the song by ear.
+A hand-written arrangement, "Arranged by Brando Miranda" on the score. The blog post says: "In 2010, as a high schooler at Greengates, I arranged Metallica's The Day That Never Comes by hand for the school orchestra" and "I was sixteen ... strings carrying the clean intro lines, brass and winds handling the rhythmic hits, percussion holding the long-form structure." On the workflow it says: "Sibelius 4. A laptop. A pirated MIDI rip of the song to reference by ear."
+
+What the score itself shows (pdftotext on the PDF, 31 pages): tempo q=124 marked "Gently"; "Intro" and "Bridge" markings; Am and Em harmony; dynamics from mp to ff; two "rit." marks near the end. Instruments: flute, clarinet, bassoon, four saxophones, two horns, trumpet, trombone, euphonium, glockenspiel, vibraphone, piano, two harps, strings and drum kit (no timpani).
 
 ## MIDI: not on the website
 

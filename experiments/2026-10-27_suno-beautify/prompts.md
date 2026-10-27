@@ -4,33 +4,44 @@ Style-field prompts, written in the same short, era-tagged, instrument-explicit 
 
 ## Universal add-on (paste at the end of any prompt)
 
-> instrumental only, no vocals, no electric guitar, no distortion, no rock drums
+> instrumental only, no vocals, no electric guitar, no distortion
+
+## What the score says (checked with pdftotext on the PDF)
+
+- Tempo: **q=124**, marked "Gently". Two "rit." marks near the end.
+- Rehearsal markings: "Intro" at the start and "Bridge" twice. Nothing else is labeled, so the structure tags below are guesses.
+- Key areas: Am and Em chords appear throughout.
+- Dynamics: mp, mf, f and ff all appear (f and mf most often).
+- Instruments: flute, clarinet, bassoon, soprano/alto/tenor/baritone saxophone, two horns in F, trumpet, trombone, euphonium, glockenspiel, vibraphone, piano, two harps, violins, viola, cello, contrabass and drum kit. There is **no timpani and no choir** in the score.
+
+All variants below use the score's tempo, 124 BPM, so the style field does not fight the audio input. If a take feels rushed, a half-time reading (62 BPM) is an alternative to try; that is a guess, not something in the score.
 
 ## Variants
 
 | ID | Style prompt | Suggested settings | Goal |
 |---|---|---|---|
-| O1 | Cinematic orchestral ballad, 66 BPM, warm string section carrying the melody, french horns and woodwinds, soft timpani, concert hall reverb, emotional slow build, film score | Audio input = playback MP3. High audio influence (keep the melody). Low weirdness. Instrumental on | Closest to the arrangement: same notes, real-orchestra sound |
-| O2 | Symphonic metal ballad in an acoustic orchestra, 66 BPM, lush strings and brass swells, cello lead in the verses, full brass climax, big timpani and cymbal crescendo, no electric guitar | Audio influence high, weirdness low to medium | Keep Metallica's dynamic arc (clean intro, slow burn, anthem finale) |
-| O3 | San Francisco Symphony style concert orchestra, live recording, 66 BPM, expressive violins and violas, rich cellos and basses, clear woodwind solos, dark romantic, 19th century romantic orchestration | Audio influence medium to high, weirdness medium | The "professional SF orchestra" sound |
-| O4 | Intimate chamber orchestra, 60 BPM, solo cello and piano with sparse strings, oboe countermelody, delicate, tender, studio recording | Audio influence high, weirdness low | Quiet, gentle version of the verses |
-| O5 | Epic trailer orchestra, 72 BPM, powerful low strings ostinato, soaring brass, huge percussion, choir-free, dramatic and heroic, film trailer score | Audio influence medium, weirdness medium | Bold finale, more drama than the original |
-| O6 | Neo-classical string quartet, 66 BPM, two violins, viola and cello, expressive vibrato, clean close-mic recording, melancholic | Audio influence high, weirdness low | Fallback if full orchestra sounds muddy |
+| O1 | Cinematic orchestral ballad, 124 BPM, warm string section carrying the melody, french horns and woodwinds, harp and glockenspiel colors, concert hall reverb, emotional slow build, film score | Audio input = playback MP3. High audio influence (keep the melody). Low weirdness. Instrumental on | Closest to the arrangement: same notes, real-orchestra sound |
+| O2 | Symphonic ballad for acoustic orchestra, 124 BPM, lush strings and brass swells, cello lead in the quiet parts, full brass and woodwind climax, soft drum kit and cymbal crescendo, no electric guitar | Audio influence high, weirdness low to medium | Keep the dynamic arc from the score (mp up to ff) |
+| O3 | Concert orchestra live recording, 124 BPM, expressive violins and violas, rich cellos and basses, clear woodwind and saxophone solos, dark romantic, professional symphony hall sound | Audio influence medium to high, weirdness medium | The "professional SF orchestra" sound |
+| O4 | Intimate chamber orchestra, 124 BPM, gentle, solo cello and piano with sparse strings, clarinet and flute countermelody, delicate, tender, studio recording | Audio influence high, weirdness low | Quiet, gentle version (the score is marked "Gently") |
+| O5 | Epic cinematic orchestra, 124 BPM, powerful low strings, soaring horns and trumpet, big percussion, dramatic and heroic, film trailer score, no choir | Audio influence medium, weirdness medium | Bold finale, more drama than the original |
+| O6 | Neo-classical string ensemble, 124 BPM, violins, viola and cello, expressive vibrato, clean close-mic recording, melancholic | Audio influence high, weirdness low | Fallback if the full orchestra sounds muddy |
 
 Add-on for muddy or synthetic results: "acoustic instruments only, real orchestra recording, natural dynamics, no synthesizers".
 
-## Lyrics field structure tags (instrumental; paste for any variant)
+## Lyrics field structure tags (guess, not from the score)
+
+The score labels only "Intro" and "Bridge", so this order is a starting guess. Check it against a take and adjust.
 
 ```
-[Intro - clean strings, sparse]
-[Theme - melody on strings]
+[Intro - gentle, sparse]
+[Theme - melody on strings and woodwinds]
 [Theme - melody continues, brass joins]
-[Build - dynamic growth, timpani]
+[Build - dynamic growth]
 [Theme - full orchestra]
-[Solo - lead instrument takes the anthemic melody]
 [Bridge - tension, dynamic dip]
 [Final Theme - full orchestra peak]
-[Outro - strings fade]
+[Outro - ritardando, fade]
 ```
 
 ## Evaluation checklist (per take)
@@ -38,7 +49,7 @@ Add-on for muddy or synthetic results: "acoustic instruments only, real orchestr
 Musical:
 - [ ] Melody and structure still match the score (play the take against the PDF)
 - [ ] Sounds like an acoustic orchestra, not a synth or a band
-- [ ] Dynamics: clear quiet intro, a real build, a big finale
+- [ ] Dynamics follow the score: gentle start (mp), builds through mf and f, loudest sections ff, ritardando at the end
 - [ ] No artifacts, glitches, vocals or cut-off ending
 
 Technical (before release):
