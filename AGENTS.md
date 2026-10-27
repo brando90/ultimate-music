@@ -33,6 +33,7 @@ Brando's music: song ideas, arrangements (including Metallica-style orchestral a
 - Proofread everything you write. No typos, and spell the name Miranda correctly.
 - Covers need a cover-song license from the distributor before release (RouteNote and DistroKid both offer one). A Metallica arrangement counts as a cover. Original songs do not need one. Check Suno's plan terms before releasing anything made there.
 - Never upload or submit a release to any distributor, and never spend money, without Brando's explicit yes.
+- Money: the only payment allowed is a ONE-TIME cover-song license of $30 or less in total (Brando, Oct 27), never yearly, recurring or renewing. Stop and tell Brando if the total is higher or any renewal appears. Checkout always stops so he sees the exact charge and enters his own card; never type or store card details. Any other spend needs his explicit yes.
 - Follow `docs/release-checklist.md` for every release: 44.1 kHz, 16-bit WAV, peaks under 0 dB, about -14 LUFS, cover art 3000 x 3000.
 - Every copy-paste prompt you give Brando for another agent carries a suggested model and reasoning effort.
 - Reports and messages to Brando: no TLDR at the top; end with one closing line, `TLDR-end: [project: task] ...`.

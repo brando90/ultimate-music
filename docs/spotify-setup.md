@@ -37,7 +37,7 @@ Folder: `experiments/2026-10-27_first-release/`.
 
 1. Confirm public artist name (proposed: Brando Miranda), Suno plan and generation/download dates, and Brando’s full listen.
 2. Account step: after approval, inspect existing Spotify access and RouteNote account state, reuse appropriate existing accounts or create the approved free accounts. Record actual screens and outcomes; handle any real sign-in challenge through the authorized workflow.
-3. Optional license step: only if selected and explicitly authorized, inspect Affordable Song Licensing’s live terms and total. Existing cap: one-time total at most $15, no recurring purchase. No payment authorized in this session.
+3. Optional license step: only if selected and explicitly authorized, inspect Affordable Song Licensing’s live terms and total. Existing cap: one-time total at most $30, no recurring purchase. No payment authorized in this session.
 4. Draft step: confirm title from the profile, all four songwriters, Suno disclosure, artwork rights, supported store/territory combination, and a release date at least seven days ahead. Upload requires Brando’s explicit authorization under AGENTS.md, including upload to a draft.
 5. Submission step: present the completed release for review, act on clear authorization for submission, then verify the actual receipt and update track status.
 6. After the release is live: record the Spotify link, claim the artist profile using the correct account, and apply the approved biography and images.

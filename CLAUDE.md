@@ -4,6 +4,8 @@ Read [AGENTS.md](AGENTS.md) first. It holds the purpose, repo layout, where audi
 
 Shared rules for all of Brando's agents: https://github.com/brando90/agents-config (`INDEX_RULES.md`). Where the two differ, `AGENTS.md` wins for music work.
 
+Money cap: the only allowed payment is a one-time cover-song license of $30 or less, never yearly or recurring; checkout stops so Brando enters his own card.
+
 Quick reminders: commit straight to `main` (pull with rebase first), never delete, proofread (Miranda), no release or spend without Brando's yes, end reports with `TLDR-end: [project: task] ...`.
 
 ## Naming and tone (Brando, Oct 27)
