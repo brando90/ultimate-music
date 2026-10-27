@@ -26,7 +26,7 @@ Copy this list into the song's notes file under `tracks/` and tick it off for ea
 ## 4. Rights
 
 - [ ] **Original song:** I own it (or it is clearly mine to release), and any AI tool terms allow distribution
-- [ ] **Cover song:** cover-song license bought through the distributor (RouteNote and DistroKid both offer one); original songwriters credited
+- [ ] **Cover song:** cover-song license (DistroKid sells one; RouteNote does not, so get a mechanical license elsewhere, e.g. Affordable Song Licensing, or exclude the USA, Canada, Mexico, India and Pakistan; see docs/for-profit-vs-nonprofit.md); original songwriters credited
 - [ ] Samples and loops cleared, if any
 - [ ] Suno plan and terms checked: songs made on a free plan may not be allowed for commercial release, so confirm before uploading
 
