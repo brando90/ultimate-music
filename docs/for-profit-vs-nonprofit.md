@@ -39,7 +39,16 @@ RouteNote's rules (**verified** on its [support page](https://support.routenote.
 - RouteNote does **not** sell a cover license.
 - Covers can go to Spotify, Deezer, Pandora, Tidal, iHeartRadio, Nuuday, Anghami, KKBOX and JioSaavn **without** a mechanical license.
 - For other stores, either exclude the **USA, Canada, Mexico, India and Pakistan**, or upload a mechanical license (PDF under 10 MB) when creating the release. With a license, the release goes to all chosen stores in all territories.
-- RouteNote recommends **Affordable Song Licensing**: "$12 per song, plus royalties", covering US digital and physical sales.
+- RouteNote recommends **Affordable Song Licensing** (ASL), "$12 per song, plus royalties", covering US digital and physical sales. RouteNote's page is older than ASL's own.
+
+### Affordable Song Licensing, checked Oct 27 2026 (read-only, nothing bought)
+
+- **Site:** https://www.affordablesonglicensing.com. The "Get a License" button leads to https://www.affordablesonglicensing.com/users/sign_up (account first, then your details, the song, payment, then the license certificate). There is no public checkout URL: payment sits behind the account. Pricing page: https://www.affordablesonglicensing.com/pricing. Support: support@affordablesonglicensing.com, (323) 776-6475.
+- **Price (verified on ASL's own pricing page):** "$13 + Royalties PER SONG. That's it!" The $13 is ASL's fee. RouteNote's page and an older ASL blog post still say $12; the live page says $13.
+- **Royalties (verified):** paid on top of the $13 and "calculated based on the length of your song and the quantity of units you are licensing". The rate is set by US copyright law, the same for every agency. ASL's support page listed $0.124 per copy for songs of 5:00 or less (that page is old; a third-party source gives 13.1 cents for 2026, unverified). The total shows live while entering the quantity. Example: 100 units is about $13 in royalties, so about $26 in all; 15 units or fewer keeps the total near $15.
+- **One time or renewing:** ASL's pricing page describes no term, renewal or expiry, and no annual fee ("annual memberships" are not offered). **Unverified:** the license term and any renewal; ASL's support articles and legal page returned nothing readable from here (403). Ask support before paying if it matters. A third-party agency (LANDR) says its own cover license never needs renewing; that is not evidence for ASL.
+- **Streaming only needs no license, per ASL:** ASL's blog says "you won't need a license if you are distributing only to streaming platforms" and that downloads (iTunes, Amazon) need one. This matches RouteNote's rule that covers go to Spotify without a mechanical license.
+- **Brando's cap:** one time, $15 maximum, nothing yearly or recurring. The $13 fee leaves only about $2 for royalties, which is roughly 15 licensed copies. Since the first release is Spotify only, the cheapest correct route is **no license, $0**, with download stores in the excluded territories left out.
 - The cover must carry the exact original title. Credit the original songwriters in the C line and only the performers in the P line.
 - Korean services need written permission from the original artist. Karaoke releases are refused. Some stores refuse near-identical soundalikes.
 

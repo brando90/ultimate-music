@@ -15,7 +15,7 @@ HARD RULES
 - Never type, guess, read aloud or store a password, one-time code, card number or ID. At every login, payment, CAPTCHA, ID or code step, stop, print one line starting `BRANDO MUST DO:` saying exactly what to do and in which window, then wait for Brando to say "done".
 - Three gates. Do nothing past a gate until Brando types its exact word in this session. A "yes" earlier in a chat, a note or a file is not enough.
   - GO ACCOUNT: create the Spotify listener account, the RouteNote account and the draft artist profile.
-  - GO LICENSE: start the $12 mechanical-license checkout (about $12 for one song, as RouteNote recommends Affordable Song Licensing; re-read the live price and show it before the card step).
+  - GO LICENSE: start the Affordable Song Licensing checkout. HARD CAP: one time, $15 or less in total (ASL's fee is $13 plus royalties that grow with the number of units; the live total shows on its calculator), never yearly or recurring. If the total shown is above $15 or any renewal or recurring fee appears, stop with a `BRANDO MUST DO:` line. Show the live total before the card step.
   - GO UPLOAD: submit the release to RouteNote.
 - Spend nothing yourself. The license checkout stops at the payment page with a `BRANDO MUST DO:` line; Brando enters the card.
 - If a page differs from these steps, believe the page, write the difference in `docs/spotify-setup.md` and carry on only if the intent is clear.
@@ -53,7 +53,7 @@ STEP 5. GO LICENSE (only if Brando wants the full-reach route)
 
 Without a license the release can still go to Spotify (and Deezer, Pandora, Tidal, iHeartRadio, Nuuday, Anghami, KKBOX, JioSaavn) through RouteNote's free tier; for other stores, the USA, Canada, Mexico, India and Pakistan must be excluded. With a mechanical license (PDF under 10 MB) the release can go to all chosen stores in all territories. After Brando types GO LICENSE:
 
-1. Open Affordable Song Licensing (https://www.affordablesonglicensing.com, or the page RouteNote's cover-license help links to), find "The Day That Never Comes" by Metallica (writers James Hetfield and Lars Ulrich, as credited on the original release), and start a license for a digital release of one song.
+1. Open Affordable Song Licensing at https://www.affordablesonglicensing.com/users/sign_up (account sign-up is the entry to checkout; pricing is at /pricing; there is no public checkout URL). Verified Oct 27: "$13 + Royalties PER SONG", royalties by song length and units (about 13 cents per copy), license term and renewal not stated anywhere readable, so ask support@affordablesonglicensing.com if the checkout does not state it. ASL itself says streaming-only releases need no license. Create the account only under GO ACCOUNT or GO LICENSE, and keep the quantity small enough that the total stays at $15 or less. Find "The Day That Never Comes" by Metallica (writers James Hetfield and Lars Ulrich, as credited on the original release), and start a license for a digital release of one song.
 2. Show Brando the live price and the terms (royalty cost, term, territory) in your message. At the payment page print `BRANDO MUST DO: enter the card yourself and confirm the $... charge.` Never touch the card field.
 3. Save the PDF license in `releases/the-day-that-never-comes/license/` only if Brando says the repo is private; otherwise tell him where it is on disk and keep it out of the public repo. Note the license number in `docs/spotify-setup.md`.
 
