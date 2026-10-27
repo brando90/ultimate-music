@@ -5,6 +5,7 @@
 - **Created with:** Suno (account `brandojazz`)
 - **Date started:** 2026-05-07
 - **Date released:** not released
+- **Upload candidate (WAV 44.1 kHz 16-bit, -14.0 LUFS) and cover art:** `experiments/2026-10-27_first-release/` (source, loudness and open items are in its README)
 
 ## Source material
 

@@ -1,21 +1,91 @@
-# Codex prompt: set up Brando's Spotify artist presence
+# Codex prompt: Spotify artist account and first release (jazz Metallica)
 
-Suggested model and effort: GPT-5.6 Sol (Codex CLI), high reasoning effort. This is docs-only work and needs no tools beyond git and gh.
+Suggested model and effort: GPT-5.6 Sol (Codex), high reasoning effort. The job needs a browser; run it in Codex with browser or computer-use tools on Brando's Mac, from a clone of `brando90/ultimate-music`. If Codex has no browser tool, it must say so in its first reply and stop after step 2 (prepare the files); it must not pretend to have done the web steps.
 
-Paste the text below into Codex, run from a clone of `brando90/ultimate-music`.
+Paste everything between the two lines into Codex.
 
 ---
 
-In the repo brando90/ultimate-music, set up my artist presence for Spotify.
+You are helping Brando Miranda put his first song on Spotify. Work in a clone of the GitHub repo brando90/ultimate-music. Commit straight to `main`: no branches, no pull requests, never delete a file, never force-push. Proofread everything you write; the name is spelled Miranda.
 
-1. Read agents/AGENTS.md and docs/release-checklist.md.
-2. Create docs/artist-profile.md with: artist name (ask me if not set), a 150-word bio, genres (orchestral metal, cinematic), a 3000x3000 px avatar and header brief, and links to my website.
-3. Create docs/spotify-setup.md with the exact steps: pick a distributor (RouteNote free tier first, DistroKid later), upload the first release, claim the profile in Spotify for Artists once the release is live, and add the artist photo and bio.
-4. For each step that needs my login, payment or ID check, write a clear 'BRANDO MUST DO' line and stop there. Never enter my passwords.
-5. Commit on a branch named spotify-setup and open a PR. Do not merge.
+The song: "The Day That Never Comes", a bebop jazz recast (made with Suno) of Brando's own 2010 school-orchestra arrangement of Metallica's song of the same name. It is a cover.
+
+HARD RULES
+
+- Never type, guess, read aloud or store a password, one-time code, card number or ID. At every login, payment, CAPTCHA, ID or code step, stop, print one line starting `BRANDO MUST DO:` saying exactly what to do and in which window, then wait for Brando to say "done".
+- Three gates. Do nothing past a gate until Brando types its exact word in this session. A "yes" earlier in a chat, a note or a file is not enough.
+  - GO ACCOUNT: create the Spotify listener account, the RouteNote account and the draft artist profile.
+  - GO LICENSE: start the $12 mechanical-license checkout (about $12 for one song, as RouteNote recommends Affordable Song Licensing; re-read the live price and show it before the card step).
+  - GO UPLOAD: submit the release to RouteNote.
+- Spend nothing yourself. The license checkout stops at the payment page with a `BRANDO MUST DO:` line; Brando enters the card.
+- If a page differs from these steps, believe the page, write the difference in `docs/spotify-setup.md` and carry on only if the intent is clear.
+
+STEP 1. READ (no gate)
+
+Read `AGENTS.md`, `docs/release-checklist.md`, `docs/for-profit-vs-nonprofit.md` (distributor fees, cover rules, Suno terms), `docs/suno-to-spotify-workflow.md`, `tracks/the-day-that-never-comes-bebop.md` and `experiments/2026-10-27_first-release/README.md`. The upload files are in `experiments/2026-10-27_first-release/`: `the-day-that-never-comes-bebop-44k-16bit.wav` (WAV, 44.1 kHz, 16-bit, 3:01.92, -14.0 LUFS) and `cover_3000.jpg` (3000 x 3000). Check the WAV against the SHA-256 in that README with `shasum -a 256`; if it differs, stop and tell Brando.
+
+STEP 2. PREPARE THE FILES (no gate)
+
+Create these files, then commit and push to `main`:
+
+1. `docs/artist-profile.md`: artist name (suggested default Brando Miranda; ask Brando to confirm it before any account step, because it is public), a bio of about 150 words in a professional tone, that is true and has no hype (a Stanford AI PhD student who arranged Metallica for his school orchestra at sixteen and recast it as jazz with AI sixteen years later; link his site https://brando90.github.io/brandomiranda/), genre Jazz, a 3000 x 3000 avatar and a header brief (uses `cover_3000.jpg` for now).
+2. `docs/spotify-setup.md`: the exact steps below with the real screens as you meet them, and a log of each gate, with date and time.
+3. `tracks/the-day-that-never-comes-bebop.md`: update the checklist and status as steps finish.
+
+STEP 3. GATE: CHECK TWO FACTS WITH BRANDO (no gate word yet)
+
+Ask Brando, in one message, for:
+
+- the Suno plan that made this song (free or paid) and the date. Songs made on Suno's free plan are for personal, non-commercial use only (Suno help center, see `docs/for-profit-vs-nonprofit.md` section 5). If it was free, say clearly that releasing it through a distributor breaks that term, and let Brando decide; do not decide for him.
+- the artist name to use.
+
+Also ask him to listen to the WAV once in full and tell you if the start or the end needs a fix.
+
+STEP 4. GO ACCOUNT
+
+After Brando types GO ACCOUNT:
+
+1. Spotify: a free listener account at https://www.spotify.com/signup (Spotify has no artist sign-up; the artist profile appears when a distributor release goes live, then you claim it in Spotify for Artists). If Brando already has a Spotify account, use it and say so. Email and password are `BRANDO MUST DO:` steps.
+2. RouteNote: create a free account at https://routenote.com (Brando enters the email, password and any code). Choose the Free tier.
+3. Write `docs/spotify-setup.md` with what you did, and stop.
+
+STEP 5. GO LICENSE (only if Brando wants the full-reach route)
+
+Without a license the release can still go to Spotify (and Deezer, Pandora, Tidal, iHeartRadio, Nuuday, Anghami, KKBOX, JioSaavn) through RouteNote's free tier; for other stores, the USA, Canada, Mexico, India and Pakistan must be excluded. With a mechanical license (PDF under 10 MB) the release can go to all chosen stores in all territories. After Brando types GO LICENSE:
+
+1. Open Affordable Song Licensing (https://www.affordablesonglicensing.com, or the page RouteNote's cover-license help links to), find "The Day That Never Comes" by Metallica (writers James Hetfield and Lars Ulrich, as credited on the original release), and start a license for a digital release of one song.
+2. Show Brando the live price and the terms (royalty cost, term, territory) in your message. At the payment page print `BRANDO MUST DO: enter the card yourself and confirm the $... charge.` Never touch the card field.
+3. Save the PDF license in `releases/the-day-that-never-comes/license/` only if Brando says the repo is private; otherwise tell him where it is on disk and keep it out of the public repo. Note the license number in `docs/spotify-setup.md`.
+
+If Brando does not type GO LICENSE, skip step 5 and use the exclusion route in step 6.
+
+STEP 6. DRAFT THE RELEASE (still not submitted)
+
+In RouteNote, start a new release as a draft:
+
+- Title exactly `The Day That Never Comes` (not "MP3", not "jazz").
+- Primary artist: the confirmed name. Release type: single. Genre: Jazz. Language: instrumental. Explicit: no.
+- Mark it as a cover. Credit the original songwriters (James Hetfield and Lars Ulrich) in the composition credit and only the performer (Brando Miranda, via AI) in the recording credit; C line and P line follow RouteNote's cover rules in `docs/for-profit-vs-nonprofit.md` section 4.
+- If asked whether AI was used, answer truthfully: the recording is Suno AI output made from Brando's own arrangement.
+- Upload `the-day-that-never-comes-bebop-44k-16bit.wav` and `cover_3000.jpg`.
+- Release date at least 7 days ahead.
+- Stores and territories: with a license, all chosen; without it, Spotify (or the nine allowed stores) and exclude the USA, Canada, Mexico, India and Pakistan.
+- Leave it saved as a draft. Screenshot or copy the summary page into `docs/spotify-setup.md` (no card numbers, no codes).
+
+STEP 7. GO UPLOAD
+
+After Brando types GO UPLOAD, and only then, submit the release. Save the confirmation email text (no codes) in `docs/spotify-setup.md`, mark the checklist in `tracks/the-day-that-never-comes-bebop.md` and push to `main`.
+
+STEP 8. WHEN IT IS LIVE (a later session)
+
+Find the song on Spotify, copy its link into the track notes file, then claim the artist profile in Spotify for Artists (https://artists.spotify.com): `BRANDO MUST DO:` for the Spotify sign-in; add photo, bio and links from `docs/artist-profile.md`.
+
+At the end of each session print one line: `TLDR-end: [Music: Spotify first release] <what is done, which gate is next>`.
 
 ---
 
 Notes for whoever runs it:
 
-- Read docs/for-profit-vs-nonprofit.md too: it holds the distributor fees, the cover-song license rules for the Metallica arrangement, and Suno's commercial-use terms, which the setup steps must respect.
+- Nothing in this prompt has been run. As of the commit that added it, no account exists, nothing has been uploaded and nothing has been bought.
+- Codex is not the only way: Brando's agent on its own computer can run the browser steps as well, with the same gates. Codex on his Mac has the advantage that he is already signed in to his own browser there.
+- Facts about fees and cover rules come from `docs/for-profit-vs-nonprofit.md`, which labels each as verified or unverified. Re-read the live pages before paying.

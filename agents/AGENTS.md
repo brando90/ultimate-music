@@ -12,6 +12,6 @@ Brando's music: song ideas, arrangements, Suno prompts and experiments, masterin
 - Never delete files. Add new versions beside old ones.
 - One notes file per song in `tracks/`, copied from `tracks/TEMPLATE.md`.
 - Follow `docs/release-checklist.md` for every release. Audio: 44.1 kHz, 16-bit WAV, peaks under 0 dB, about -14 LUFS. Cover art: 3000 x 3000.
-- Do not commit large audio files. Link to where they live.
+- Do not commit large audio files. Link to where they live. Exception: the first-release WAV and cover art in `experiments/2026-10-27_first-release/` (Brando asked for them in the repo).
 - Proofread everything. No typos, and spell the name Miranda correctly.
 - Never upload or submit a release to any distributor without Brando's explicit yes.
