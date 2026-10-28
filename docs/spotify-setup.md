@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/spotify-setup.md>
 
-**TLDR:** The local release candidate passed checksum, audio-format and artwork-dimension checks. Brando Miranda Garay is the confirmed artist name (Brando, 10-27-2026, after the earlier note below), an existing Spotify listener account was found, and Premier coverage at Suno creation was verified. RouteNote signup awaits user-entered credentials and submission; listening and distribution checks remain pending.
+**TLDR:** Publication is authorized. RouteNote Free to Spotify only is the selected route, with no separate mechanical-license purchase. Use Brando Miranda per the direct chat instruction; historical name reports are retained below. Signup credentials, source eligibility and the final listening check remain pending.
 
 ## Assignment and current state
 
@@ -37,8 +37,8 @@ Folder: `experiments/2026-10-27_first-release/`.
 
 1. Public artist name and Suno plan at creation are confirmed. Complete the download-date evidence and Brando’s full listen.
 2. Account setup was authorized directly on 10-27-2026. Reuse the existing Spotify listener account. RouteNote registration is prepared in Chrome; the user must enter the new password/security answer and complete submission. Verify the result and any email verification afterward.
-3. Optional license step: only if selected and explicitly authorized, inspect Affordable Song Licensing’s live terms and total. Existing cap: one-time total at most $30, no recurring purchase. No payment authorized in this session.
-4. Draft step: confirm title from the profile, all four songwriters, Suno disclosure, artwork rights, supported store/territory combination, and a release date at least seven days ahead. Upload requires Brando’s explicit authorization under AGENTS.md, including upload to a draft.
+3. Optional license step: only if selected and explicitly authorized, inspect Affordable Song Licensing’s live terms and total. Existing cap: one-time total at most $30, no recurring purchase. Brando approved the one-time payment on 10-28-2026, within the existing $30 total cap; checkout still stops for his card entry.
+4. Draft step: confirm title from the profile, all four songwriters, Suno disclosure, artwork rights, supported store/territory combination, and a release date at least seven days ahead. Brando explicitly authorized publishing this song on 10-28-2026; this includes the upload and submission sequence, subject to verified eligibility and any action-time tool requirements.
 5. Submission step: present the completed release for review, act on clear authorization for submission, then verify the actual receipt and update track status.
 6. After the release is live: record the Spotify link, claim the artist profile using the correct account, and apply the approved biography and images.
 
@@ -71,3 +71,21 @@ The user rescheduled the follow-up to 7 p.m. on 10-27-2026. The repository had n
 Reopened the signup page and filled the previously prepared username and music email. Password, security answer, verification challenge, agreement and submission remain for the user. The browser tool requires user entry and submission of new credentials, so no account was created by the agent. The tab is retained for that handoff; screenshot: `exports/the-day-that-never-comes-bebop/routenote-registration-10-27-2026-evening.png` (local, ignored).
 
 The one-time automation was deleted after this attempt. Resume on the user's completion message, verify the account and any email verification, then continue the remaining authorized steps. No music upload, release submission or purchase occurred.
+
+## Publication approval and route decision (10-28-2026)
+
+Brando directly approved moving forward and posting this Suno jazz song, accepted the one-time payment, and requested a Claude consultation. This authorizes the release workflow; it does not establish that signup, payment, upload or submission has happened. The existing one-time $30 total limit and user card-entry requirement remain in force.
+
+**Selected route:** RouteNote Free, Spotify only, with truthful cover and artificial-intelligence disclosure. No license purchase is needed for this store selection according to RouteNote’s [store/territory instructions](https://support.routenote.com/kb-article/how-do-i-format-stores-and-territories-for-a-cover-release-without-a-mechanical-license/), checked today: Spotify is exempt from the five-country exclusion. Do not automatically exclude the United States from Spotify. RouteNote’s [artificial-intelligence policy](https://support.routenote.com/kb-article/can-i-upload-ai-releases/) accepts some generated content, subject to moderation; it excludes content-recognition services, Korean partner stores and Amazon. Those stores are outside this release’s scope.
+
+**Credits correction:** RouteNote’s [cover metadata instructions](https://support.routenote.com/kb-article/can-i-upload-cover-songs-with-routenote/) distinguish the composition copyright line from publishing credits: use Metallica in the cover’s C line per that guidance, all four verified writers in publishing details, and the approved performing artist in the recording P line. The earlier instruction equating the C line with songwriter names is superseded.
+
+**Source evidence:** Local history of `brando90/brandomiranda` places the exact original audio blob in commit `deae315` at 05-07-2026 13:06:53 PDT. Its SHA-256 is `a05f2cb091f6069b29fb37aa0c0a36237bc212dd059e1faec985d30eb9b66ee6`, matching the candidate README. This establishes possession by that timestamp during Premier coverage; it does not independently prove the precise download channel. Suno’s [current terms](https://suno.com/terms), effective 09-03-2026, require permitted downloads and rights in submitted material. The older creation predates those terms; preserve the original evidence rather than assuming how later terms apply. The [public creation account](https://brando90.github.io/brandomiranda/2026/05/07/metallica-goes-jazz.html) describes using Brando’s own school arrangement. Exact uploaded source and eligibility still need verification before any rights attestation.
+
+The prepared RouteNote signup was reopened with username and music email. New password/security answer entry and final credential submission remain a mandatory user handoff under the browser tool policy. This is an access dependency, not a request to reapprove publication.
+
+**Claude consultation completed:** [Metallica cover release decision](https://claude.ai/chat/f172978c-7b27-49be-a98f-3dd9e111191a), using the signed-in Claude web interface showing Opus 5.5 / Extra. Claude independently recommended RouteNote Free, Spotify only, worldwide, no license purchase, truthful cover/AI disclosure, and verification of the source audio and permitted download before release. Its broad legal interpretations and third-party claims are advisory, not verified clearance; the route above rests on independently checked RouteNote pages. Its older $12 licensing quote is not used to authorize any purchase.
+
+**Name decision:** Use Brando Miranda, matching this chat’s direct user approval. Coworker commit `5eb98a7` reported Brando Miranda Garay; retain that provenance here rather than treating an assistant’s report as a new direct instruction. The draft public profile and execution prompt now use Brando Miranda. No public distributor metadata has been entered.
+
+**Next action:** After Brando completes signup, verify the account, inspect the exact Suno source/download provenance and finish the listening check, then prepare the approved Spotify-only release. Use the original track title; retain the chosen release title where the live form permits it. If submission includes new legal attestations, present the completed screen for the tool-required action-time confirmation. No upload, payment or submission has occurred.

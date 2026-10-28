@@ -28,7 +28,7 @@ STEP 2. PREPARE THE FILES (no gate)
 
 Create these files, then commit and push to `main`:
 
-1. `docs/artist-profile.md` (a draft already exists; check it against the facts, fix anything inaccurate, keep the release title written in one place only): artist name (confirmed by Brando on Oct 27: `Brando Miranda Garay`, spelled exactly like that), a bio of about 150 words, professional and artistic in tone, true and with no hype (a Stanford AI PhD student who arranged Metallica for his school orchestra at sixteen and recast it as jazz with AI sixteen years later; link his site https://brando90.github.io/brandomiranda/), genre Jazz, a 3000 x 3000 avatar and a header brief (uses `cover_3000.jpg` for now).
+1. `docs/artist-profile.md` (a draft already exists; check it against the facts, fix anything inaccurate, keep the release title written in one place only): artist name (`Brando Miranda`, selected from the direct Codex-chat approval; conflicting coworker report preserved in the setup log), a bio of about 150 words, professional and artistic in tone, true and with no hype (a Stanford AI PhD student who arranged Metallica for his school orchestra at sixteen and recast it as jazz with AI sixteen years later; link his site https://brando90.github.io/brandomiranda/), genre Jazz, a 3000 x 3000 avatar and a header brief (uses `cover_3000.jpg` for now).
 2. `docs/spotify-setup.md`: the exact steps below with the real screens as you meet them, and a log of each gate, with date and time.
 3. `tracks/the-day-that-never-comes-bebop.md`: update the checklist and status as steps finish.
 
@@ -36,7 +36,7 @@ STEP 3. GATE: CHECK ONE FACT WITH BRANDO (no gate word yet)
 
 Ask Brando, in one message, for:
 
-- the date Brando downloaded the song from Suno (record it in `tracks/the-day-that-never-comes-bebop.md`). The plan question is answered: Brando confirmed on Oct 27 that the song was made on a paid Suno plan ("I paid it, it was paid at the time"), so commercial release rights apply; see `docs/for-profit-vs-nonprofit.md` section 5. Do not ask about the plan or the artist name again; the artist name is `Brando Miranda Garay`.
+- the date Brando downloaded the song from Suno (record it in `tracks/the-day-that-never-comes-bebop.md`). The plan question is answered: Brando confirmed on Oct 27 that the song was made on a paid Suno plan ("I paid it, it was paid at the time"), so commercial release rights apply; see `docs/for-profit-vs-nonprofit.md` section 5. Do not ask about the plan or the artist name again; the artist name is `Brando Miranda`.
 
 Also ask him to listen to the WAV once in full and tell you if the start or the end needs a fix.
 
@@ -63,12 +63,12 @@ STEP 6. DRAFT THE RELEASE (still not submitted)
 In RouteNote, start a new release as a draft:
 
 - Release title: `The Day That Never Comes (Jazz Quintet Suite)` (Brando's final choice on Oct 27; he may drop "Suite" if he says so, so repeat the title to him before GO UPLOAD). Track title: exactly `The Day That Never Comes` (not "MP3", not "jazz"), because RouteNote requires a cover to carry the original title. If RouteNote's live form forces the release title to equal the track title for a single, stop with a `BRANDO MUST DO:` line asking Brando to choose: the exact original title, or release it as a one-track EP or album under his title if the form allows.
-- Primary artist: `Brando Miranda Garay`. Release type: single. Genre: Jazz. Language: instrumental. Explicit: no.
-- Mark it as a cover. Credit the original songwriters (James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo) in the composition credit and only the performer (Brando Miranda Garay, via AI) in the recording credit; C line and P line follow RouteNote's cover rules in `docs/for-profit-vs-nonprofit.md` section 4.
+- Primary artist: `Brando Miranda`. Release type: single. Genre: Jazz. Language: instrumental. Explicit: no.
+- Mark it as a cover. Enter Metallica in the C line per RouteNote’s cover guidance; credit James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo in publishing details, and Brando Miranda in the P line. Disclose Suno-generated audio truthfully; see the verified metadata correction in `docs/spotify-setup.md`.
 - If asked whether AI was used, answer truthfully: the recording is Suno AI output made from Brando's own arrangement.
 - Upload `the-day-that-never-comes-bebop-44k-16bit.wav` and `cover_3000.jpg`.
 - Release date at least 7 days ahead.
-- Stores and territories: with a license, all chosen; without it, Spotify (or the nine allowed stores) and exclude the USA, Canada, Mexico, India and Pakistan.
+- Stores and territories: Spotify only, worldwide. RouteNote’s store-specific cover instructions exempt Spotify from mechanical-license territory exclusions; see the 10-28-2026 execution update below.
 - Leave it saved as a draft. Screenshot or copy the summary page into `docs/spotify-setup.md` (no card numbers, no codes).
 
 STEP 7. GO UPLOAD
@@ -89,3 +89,7 @@ Notes for whoever runs it:
 - Codex is not the only way: Brando's agent on its own computer can run the browser steps as well, with the same gates. Codex on his Mac has the advantage that he is already signed in to his own browser there.
 - The release title is Brando's final pick (Oct 27): he chose "Jazz Quintet Suite" because the recording is a bebop quintet from Suno, not an orchestra. Credits say Suno-generated bebop quintet recast of Metallica.
 - Facts about fees and cover rules come from `docs/for-profit-vs-nonprofit.md`, which labels each as verified or unverified. Re-read the live pages before paying.
+
+## Execution update (10-28-2026)
+
+Brando directly approved publication and the one-time payment within the existing $30 limit. No additional special gate phrase is required. The selected route is RouteNote Free to Spotify only, worldwide; RouteNote’s store-specific guidance requires no separate mechanical license for Spotify, so keep the budget unspent. Use Brando Miranda from the direct chat instruction; the conflicting coworker name report remains documented in `docs/spotify-setup.md`. This update supersedes earlier gate-word, name and blanket territory-exclusion instructions. Platform-required user credential entry, action-time agreement confirmation and user card entry remain binding. Resume from the checkpoint, not from step 1.

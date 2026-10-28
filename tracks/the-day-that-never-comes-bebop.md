@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/tracks/the-day-that-never-comes-bebop.md>
 
-- **Status:** prepared candidate; artist name Brando Miranda Garay confirmed, paid Suno plan at creation (Brando, 10-27-2026; Premier receipt found); account setup and full listening check pending; nothing submitted
+- **Status:** prepared candidate; artist name Brando Miranda selected from direct chat approval, paid Suno plan at creation (Brando, 10-27-2026; Premier receipt found); account setup and full listening check pending; nothing submitted
 - **Type:** cover (original artist: Metallica; composition by James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo; verified against Metallica’s official song catalog)
 - **Created with:** Suno (account `brandojazz`)
 - **Date started:** 2026-05-07
@@ -62,7 +62,7 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 
 ## Release
 
-- Distributor: RouteNote free tier (planned, nothing uploaded; needs Brando's yes to upload)
+- Distributor: RouteNote free tier (Spotify-only route selected; upload and submission authorized 10-28-2026, nothing uploaded)
 - ISRC / UPC: assigned by the distributor
 - Cover art file: `experiments/2026-10-27_first-release/cover_3000.jpg`; verified 3000 × 3000 pixels.
 - Spotify link: none
@@ -70,7 +70,7 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 
 ## Rights (open items, must be settled before upload)
 
-1. **Cover license.** This is a new recording of Metallica's composition, so it is a cover. Per `docs/for-profit-vs-nonprofit.md`: RouteNote can send a cover to Spotify without a mechanical license, but the release then has to exclude the USA, Canada, Mexico, India and Pakistan for other stores, or carry a mechanical license (current price and terms require verification; see `docs/for-profit-vs-nonprofit.md`). Original songwriters go in the composition credit (C line), performers only in the P line.
+1. **Cover license.** This is a new recording of Metallica's composition, so it is a cover. Per `docs/for-profit-vs-nonprofit.md`: RouteNote can send a cover to Spotify without a mechanical license, but the release then has to exclude the USA, Canada, Mexico, India and Pakistan for other stores, or carry a mechanical license (current price and terms require verification; see `docs/for-profit-vs-nonprofit.md`). Per RouteNote’s current cover metadata guidance, Metallica goes in the C line, all four original songwriters go in publishing details, and the approved performing artist goes in the P line.
 2. **Suno plan terms.** Premier coverage on 05-07-2026 is verified by a receipt covering 05-07-2026 through 06-07-2026. The receipt arrived at 12:17 p.m.; the signed-in song page displays creation at 12:26 p.m. that day. Current account status is Free (10-27-2026). Historical download date and final rights checks remain pending; see `docs/spotify-setup.md`.
 3. **AI disclosure.** Check the distributor's current rule on AI-generated music when filling in the release form, and answer it truthfully.
 
@@ -85,13 +85,14 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 - [x] Stereo audio format and duration verified locally.
 - [x] Artwork dimensions and appearance inspected; upscale softness remains.
 - [x] All four songwriter names verified with [Metallica](https://www.metallica.com/songs/the-day-that-never-comes.html).
-- [x] Brando confirms public artist name: Brando Miranda Garay.
+- [x] Public artist name selected: Brando Miranda, per direct chat approval; conflicting coworker report preserved in setup log.
 - [x] Suno Premier coverage at creation verified from the matching account’s receipt.
 - [ ] Historical download date established.
 - [ ] Brando listens in full and confirms the start and ending.
 - [x] Free account setup authorized; existing Spotify listener account found.
 - [ ] RouteNote signup completed and verified after the user credential step.
 - [ ] Rights, store selection and any license settled before upload.
-- [ ] Upload and submission authorized and verified.
+- [x] Upload and submission authorized by Brando on 10-28-2026.
+- [ ] Actual upload and submission verified.
 
 Execution log: [Spotify setup](../docs/spotify-setup.md).
