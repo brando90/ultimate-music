@@ -5,7 +5,7 @@
 **TLDR:** Artist name/account setup authorized; Premier at creation verified. Continue from the RouteNote credential handoff.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 10-27-2026 10:19 PDT
+Last updated: 10-27-2026 19:01 PDT
 
 ## Goal
 - Prepare the first Spotify release following `prompts/codex-spotify.md`.
@@ -21,7 +21,7 @@ Last updated: 10-27-2026 10:19 PDT
 ## Next steps
 - [p 8/10] Read user replies and run `git fetch origin` before continuing; preserve concurrent work.
 - Resume at the remaining execution sequence in `docs/spotify-setup.md`; do not repeat completed preparation.
-- Automation cutoff: 10-27-2026 12:00 America/Los_Angeles; preserve state and stop at cutoff.
+- The user-requested 7 p.m. follow-up ran on 10-27-2026; the one-time automation was deleted afterward. Resume on a user reply.
 ## Brando to-do
 - Finish prepared RouteNote signup in Chrome; listen to the candidate in full.
 
@@ -29,3 +29,4 @@ Last updated: 10-27-2026 10:19 PDT
 - 10-27-2026 10:06 PDT -- Prepared and verified local assets; corrected songwriter credits; waiting for user facts and action approval.
 - 10-27-2026 10:10 PDT -- Artist name and free setup authorized; Premier receipt verified; RouteNote form prepared and handed off for new credentials.
 - 10-27-2026 10:19 PDT -- Synced `5eb98a7`; recorded artist-name source discrepancy. RouteNote still shows incomplete signup; preserved the handoff tab and did not repeat the user request.
+- 10-27-2026 19:01 PDT -- Evening attempt found no RouteNote session or matching confirmation email. Reopened and prepared signup in Chrome; credentials remain a user-only step. Deleted the one-time automation.
