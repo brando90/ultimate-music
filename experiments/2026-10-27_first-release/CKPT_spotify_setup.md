@@ -5,7 +5,7 @@
 **TLDR:** Publication authorized; Claude consulted. Spotify-only RouteNote Free selected, no license purchase. Signup reported complete; authenticated verification awaits vault unlock or sign-in.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 10-29-2026 12:00 PDT
+Last updated: 10-29-2026 12:05 PDT
 
 ## Goal
 - Prepare the first Spotify release following `prompts/codex-spotify.md`.
@@ -22,7 +22,7 @@ Last updated: 10-29-2026 12:00 PDT
 ## Next steps
 - [p 9/10] After unlock/sign-in, run `git fetch origin`; verify the RouteNote dashboard, then continue the authorized release.
 - Resume at the remaining execution sequence in `docs/spotify-setup.md`; do not repeat completed preparation.
-- The user-requested 7 p.m. follow-up ran on 10-27-2026; the one-time automation was deleted afterward. Resume on a user reply.
+- Email follow-up `ultimate-music-spotify-release-notifications` runs every six hours; notify once on verified submission and once with the live Spotify link, then delete it. Codex owns delivery; both notices pending.
 ## Brando to-do
 - Bring the reported dashboard into this Mac's connected Chrome profile, or identify its browser/device.
 
@@ -35,3 +35,4 @@ Last updated: 10-29-2026 12:00 PDT
 - 10-28-2026 09:35 PDT -- User reported signup complete. Login is logged out; no confirmation mail found; saved-login access reached a 1Password unlock prompt. Retained login handoff.
 - 10-29-2026 10:58 PDT -- Rechecked account access: login form and locked vault persist. Retained login handoff and confirmed the selected free route has no upfront/annual fee, artist keeps 85% of net revenue, and Spotify requires no separate mechanical-license purchase under RouteNote's policy. No upload, submission or payment.
 - 10-29-2026 12:00 PDT -- Brando reported dashboard access and reaffirmed upload authorization; connected browser still exposes Login. Traced Suno parent and verified strong waveform match to documented Sibelius playback; recorded current jazz-download dialog without unlocking it. Saved provenance evidence; no distributor upload or payment.
+- 10-29-2026 12:05 PDT -- Brando requested completion emails. Created and verified the active six-hour follow-up; submission and live-link emails remain pending, with private routing and receipt deduplication.
