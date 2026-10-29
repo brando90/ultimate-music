@@ -2,10 +2,10 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/experiments/2026-10-27_first-release/CKPT_spotify_setup.md>
 
-**TLDR:** Publication authorized; Claude consulted. Spotify-only RouteNote Free selected, no license purchase. Signup reported complete; authenticated verification awaits vault unlock or sign-in.
+**TLDR:** Publication authorized; Claude consulted. Spotify-only RouteNote Free selected, no license purchase. Vault unlocked, but no saved RouteNote login found; dashboard verification awaits sign-in.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 10-29-2026 12:28 PDT
+Last updated: 10-29-2026 13:09 PDT
 
 ## Goal
 - Prepare the first Spotify release following `prompts/codex-spotify.md`.
@@ -16,15 +16,15 @@ Last updated: 10-29-2026 12:28 PDT
 - Premier verified; exact original audio blob in `brandomiranda` commit `deae315` on 05-07-2026. Suno expressly retains prior paid rights; current Free download access does not invalidate them. Historical download channel unaudited.
 - Suno parent traced to Brando's account; full-waveform comparison strongly matches documented Sibelius playback. See `provenance-comparison-10-29-2026.json`.
 ## Stuck / blocked
-- User reports dashboard in this Mac's Chrome Brando profile; available/user-owned tab inventories and refreshed page still show Sign in. Awaiting exact @Chrome dashboard tab or URL; vault locked, internal Chrome password-manager access tool-blocked.
+- 1Password is unlocked; service-specific vault searches and website autofill found no RouteNote item. The protected dashboard redirects to Sign in; password remains empty. No matching signup mail found.
 - Use Brando Miranda from direct chat approval; conflicting coworker report preserved in the setup log.
 - Account creation reported by user, not yet independently verified; no distributor upload, purchase or release submission.
 ## Next steps
-- [p 9/10] After unlock/sign-in, run `git fetch origin`; verify the RouteNote dashboard, then continue the authorized release.
+- [p 10/10] After sign-in, run `git fetch origin`; verify the RouteNote dashboard, then continue the authorized release. Prepared login tab retained; verification challenge now loads.
 - Resume at the remaining execution sequence in `docs/spotify-setup.md`; do not repeat completed preparation.
 - Email follow-up `ultimate-music-spotify-release-notifications` runs every six hours; notify once on verified submission and once with the live Spotify link, then delete it. Codex owns delivery; both notices pending.
 ## Brando to-do
-- Share the dashboard tab via @Chrome or paste its exact URL so the browser mismatch can be resolved.
+- Enter the existing RouteNote password, complete the verification challenge and sign in on the prepared Chrome page. Another vault unlock is unnecessary.
 
 ## Log
 - 10-27-2026 10:06 PDT -- Prepared and verified local assets; corrected songwriter credits; waiting for user facts and action approval.
@@ -37,3 +37,4 @@ Last updated: 10-29-2026 12:28 PDT
 - 10-29-2026 12:00 PDT -- Brando reported dashboard access and reaffirmed upload authorization; connected browser still exposes Login. Traced Suno parent and verified strong waveform match to documented Sibelius playback; recorded current jazz-download dialog without unlocking it. Saved provenance evidence; no distributor upload or payment.
 - 10-29-2026 12:05 PDT -- Brando requested completion emails. Created and verified the active six-hour follow-up; submission and live-link emails remain pending, with private routing and receipt deduplication.
 - 10-29-2026 12:28 PDT -- Rechecked user-owned Chrome tabs and refreshed RouteNote after another dashboard report; Sign in persists. Requested exact tab/URL. Verified Suno transition language preserves earlier paid commercial rights; no new subscription needed solely due to current Free download display. Email watch remains active; no upload.
+- 10-29-2026 13:09 PDT -- Verified vault unlock; RouteNote/route searches and site autofill found no saved item. Music-mail searches found no signup message; verification challenge recovered after reload. Retained prepared login for existing password entry; no upload or submission.

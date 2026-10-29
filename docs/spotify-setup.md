@@ -8,8 +8,8 @@
 
 - Source: `prompts/codex-spotify.md` at incoming commit `ea60b73`; scheduled checks every 15 minutes until noon on 10-27-2026, America/Los_Angeles.
 - Public release title and draft biography: [artist profile](artist-profile.md). Track title: The Day That Never Comes.
-- Local preparation completed 10-27-2026 10:06 PDT. No account or checkout screens visited, no account created, no distributor draft created, no upload, payment or submission.
-- Browser account inspection completed; see the dated account findings below.
+- Local preparation completed 10-27-2026 10:06 PDT. No distributor draft, upload, payment or submission has been verified.
+- Latest account check, 10-29-2026: 1Password is unlocked, but no matching saved login was found; RouteNote still requires sign-in. See the dated findings below.
 
 ## Verified assets
 
@@ -123,3 +123,11 @@ Created the active in-chat follow-up `ultimate-music-spotify-release-notificatio
 Suno's [08-10-2026 transition announcement](https://suno.com/blog/suno-updates-tos) explicitly preserves commercial use for songs downloaded on paid plans, while applying the new download limits to future downloads of older songs. Its [guidance dated 12-17-2025](https://help.suno.com/en/articles/2425729) says rights to songs made while subscribed survive cancellation. The current Free / Unlock & Download screen therefore does not establish loss of previously granted rights or a need to buy another subscription. Use the already-held candidate, backed by Premier coverage and same-day original-file possession. Exact historical download mechanics remain unaudited; do not turn the present download-access screen into a new payment requirement.
 
 Brando again reported the dashboard open in Chrome's Brando profile. Checked both available tabs and user-owned tabs, inspected the native Chrome tab list, and refreshed the retained RouteNote page: only Sign in was exposed. 1Password remained locked and no task-specific credentials file was found. The browser security policy rejected opening Chrome's internal password-manager page; no workaround was attempted. Requested the exact dashboard tab via @Chrome or its URL to resolve the mismatch. Retained the normal RouteNote login page with the known username; screenshot `exports/the-day-that-never-comes-bebop/routenote-login-10-29-2026-1224.png` is local and ignored. No upload, submission or payment occurred; the existing email follow-up remains active.
+
+## Vault unlocked; existing password unavailable (10-29-2026 13:09 PDT)
+
+After Brando reported unlocking 1Password, the native app was verified unlocked. Searches for `routenote` and `route` returned no matching item; the RouteNote password-field menu independently displayed **No items to show**. A visit to RouteNote's authenticated Trends destination redirected to Sign in. These checks establish the available session and saved-login state, not whether signup succeeded elsewhere.
+
+In the matching music mailbox, `from:routenote.com` returned no messages; `in:anywhere routenote` returned one unrelated conversation and no signup or verification message. A secondary connected-mail search also found none. No private message contents or credentials were saved. The initially failing verification challenge recovered after reloading the login page.
+
+The existing-account login is retained in Chrome with the prepared username and an empty password field. Brando must supply the existing password and complete sign-in; another vault unlock will not resolve the missing login item. Screenshot: `exports/the-day-that-never-comes-bebop/routenote-login-unlocked-10-29-2026.png` (local, ignored). Resume directly at dashboard verification, then upload the prepared assets under the already approved free Spotify-only route. No duplicate signup, password reset, purchase, upload or submission occurred. The existing email follow-up remains responsible for verified submission and live-link notices.
