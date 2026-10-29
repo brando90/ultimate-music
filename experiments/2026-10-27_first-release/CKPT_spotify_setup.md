@@ -2,10 +2,10 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/experiments/2026-10-27_first-release/CKPT_spotify_setup.md>
 
-**TLDR:** Publication authorized; Claude consulted. Spotify-only RouteNote Free selected, no license purchase. Vault unlocked, but no saved RouteNote login found; dashboard verification awaits sign-in.
+**TLDR:** Publication authorized; Spotify-only RouteNote Free selected, no license purchase. Sign in was clicked after the verification checkbox was completed; RouteNote explicitly reported that the password field is required.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 10-29-2026 14:02 PDT
+Last updated: 10-29-2026 14:34 PDT
 
 ## Goal
 - Prepare the first Spotify release following `prompts/codex-spotify.md`.
@@ -16,15 +16,15 @@ Last updated: 10-29-2026 14:02 PDT
 - Premier verified; exact original audio blob in `brandomiranda` commit `deae315` on 05-07-2026. Suno expressly retains prior paid rights; current Free download access does not invalidate them. Historical download channel unaudited.
 - Suno parent traced to Brando's account; full-waveform comparison strongly matches documented Sibelius playback. See `provenance-comparison-10-29-2026.json`.
 ## Stuck / blocked
-- Brando reports sign-in complete; a fresh protected dashboard request still redirects to Sign in in the connected Chrome profile. Exact authenticated tab/URL requested; unlocked vault has no matching saved login.
+- RouteNote validation reported “Password field is required” after Codex clicked Sign in. The correct tab is open and the password remains unavailable; no matching saved login was found in the unlocked vault.
 - Use Brando Miranda from direct chat approval; conflicting coworker report preserved in the setup log.
 - Account creation reported by user, not yet independently verified; no distributor upload, purchase or release submission.
 ## Next steps
-- [p 10/10] After sign-in, run `git fetch origin`; verify the RouteNote dashboard, then continue the authorized release. Prepared login tab retained; verification challenge now loads.
+- [p 10/10] After password entry, submit the existing login form once and verify the dashboard, then run `git fetch origin` and continue the authorized release. Recheck verification state if it expires.
 - Incoming MP3 received and compared; resume `docs/spotify-setup.md` without repeating audio preparation. Codex still owns execution and email follow-up.
 - Email follow-up `ultimate-music-spotify-release-notifications` runs every six hours; notify once on verified submission and once with the live Spotify link, then delete it. Codex owns delivery; both notices pending.
 ## Brando to-do
-- Paste the exact URL or attach the authenticated RouteNote tab via @Chrome to resolve the discrepancy with the connected session.
+- Enter the existing RouteNote password directly in the prepared Chrome form, then tell Codex it is entered. Do not put the password in chat or repository files.
 
 ## Log
 - 10-27-2026 10:06 PDT -- Prepared and verified local assets; corrected songwriter credits; waiting for user facts and action approval.
@@ -41,3 +41,4 @@ Last updated: 10-29-2026 14:02 PDT
 - 10-29-2026 13:22 PDT -- Fresh dashboard request after reported sign-in still redirects to Login; requested the exact authenticated tab. Reverified audio checksum/format and artwork dimensions, confirmed existing email watch active, and saved the requested coworker continuation prompt. No upload or submission.
 - 10-29-2026 13:52 PDT -- Brando reported Slack delivery to ultimate_brando9 may take time and expects the song MP3 in this repo soon. Fetched origin/main: no incoming commit or MP3 yet; existing master and artwork remain available. Recorded the incoming-file check for the existing follow-up; no handoff or release submission claimed.
 - 10-29-2026 14:02 PDT -- Synced incoming commit bbb5583 and verified the supplied MP3 matches the prepared jazz recording; retained the existing upload master, published comparison evidence and corrected the bitrate note. RouteNote authentication remains unresolved; no upload, submission or email delivery claimed.
+- 10-29-2026 14:34 PDT -- Observed the verification checkbox completed, clicked Sign in as requested, and received “Password field is required.” Dismissed the warning and retained the form for existing-password entry. No authentication, upload or submission completed.
