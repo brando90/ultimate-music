@@ -10,6 +10,8 @@ Continue as ultimate_brando9 Scalable Coworker. Brando has explicitly authorized
 
 On 10-29-2026 Brando reported being signed in. Codex's connected Chrome Brando profile still redirects `https://www.routenote.com/rn/trends` to Sign in. Native Chrome and Firefox inspection found no dashboard. 1Password is unlocked, but searches for `routenote` and `route` and RouteNote's own autofill menu found no saved login. No RouteNote signup or verification message was found in the matching music mailbox. This does not disprove signup elsewhere: target the actual authenticated session Brando sees, or complete normal sign-in using a matching saved credential if one is available to you. An unlocked computer alone does not establish an authenticated website session.
 
+Later recovery check on 10-29-2026: RouteNote did not recognize the intended music email or three other known addresses. The authorized free signup is prepared again; creation remains unverified. If Brando identifies another registered email, recover that account; otherwise finish the authorized setup while respecting the current tool's required user handoff for new authentication credentials.
+
 No distributor upload, draft, submission or payment has been verified. Preserve any existing release discovered in the account and continue it instead of creating a duplicate.
 
 ## Files and metadata
