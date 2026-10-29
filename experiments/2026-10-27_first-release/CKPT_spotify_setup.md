@@ -5,14 +5,14 @@
 **TLDR:** Publication authorized; Claude consulted. Spotify-only RouteNote Free selected, no license purchase. Vault unlocked, but no saved RouteNote login found; dashboard verification awaits sign-in.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 10-29-2026 13:22 PDT
+Last updated: 10-29-2026 13:52 PDT
 
 ## Goal
 - Prepare the first Spotify release following `prompts/codex-spotify.md`.
 ## What ran
 - Claude consultation completed; publication approved. RouteNote Free pricing and Spotify cover policy rechecked 10-29-2026: no upfront/annual fee or separate license purchase; artist keeps 85% of net revenue.
 ## Results
-- Audio hash matches; stereo, 44.1 kHz, 16-bit, 181.92 seconds; cover 3000 × 3000.
+- Existing audio hash matches; stereo, 44.1 kHz, 16-bit, 181.92 seconds; cover 3000 × 3000. Brando expects an incoming MP3 from ultimate_brando9; absent from fetched origin/main at this update.
 - Premier verified; exact original audio blob in `brandomiranda` commit `deae315` on 05-07-2026. Suno expressly retains prior paid rights; current Free download access does not invalidate them. Historical download channel unaudited.
 - Suno parent traced to Brando's account; full-waveform comparison strongly matches documented Sibelius playback. See `provenance-comparison-10-29-2026.json`.
 ## Stuck / blocked
@@ -21,7 +21,7 @@ Last updated: 10-29-2026 13:22 PDT
 - Account creation reported by user, not yet independently verified; no distributor upload, purchase or release submission.
 ## Next steps
 - [p 10/10] After sign-in, run `git fetch origin`; verify the RouteNote dashboard, then continue the authorized release. Prepared login tab retained; verification challenge now loads.
-- Resume from `docs/spotify-setup.md`; requested coworker fallback is ready in `prompts/cowork-routenote-release.md`. No transfer of execution or email ownership has occurred.
+- On the next fetch, inspect incoming audio/coworker notes and compare any new MP3 with the prepared candidate; resume `docs/spotify-setup.md`. Codex still owns execution and email follow-up.
 - Email follow-up `ultimate-music-spotify-release-notifications` runs every six hours; notify once on verified submission and once with the live Spotify link, then delete it. Codex owns delivery; both notices pending.
 ## Brando to-do
 - Paste the exact URL or attach the authenticated RouteNote tab via @Chrome to resolve the discrepancy with the connected session.
@@ -39,3 +39,4 @@ Last updated: 10-29-2026 13:22 PDT
 - 10-29-2026 12:28 PDT -- Rechecked user-owned Chrome tabs and refreshed RouteNote after another dashboard report; Sign in persists. Requested exact tab/URL. Verified Suno transition language preserves earlier paid commercial rights; no new subscription needed solely due to current Free download display. Email watch remains active; no upload.
 - 10-29-2026 13:09 PDT -- Verified vault unlock; RouteNote/route searches and site autofill found no saved item. Music-mail searches found no signup message; verification challenge recovered after reload. Retained prepared login for existing password entry; no upload or submission.
 - 10-29-2026 13:22 PDT -- Fresh dashboard request after reported sign-in still redirects to Login; requested the exact authenticated tab. Reverified audio checksum/format and artwork dimensions, confirmed existing email watch active, and saved the requested coworker continuation prompt. No upload or submission.
+- 10-29-2026 13:52 PDT -- Brando reported Slack delivery to ultimate_brando9 may take time and expects the song MP3 in this repo soon. Fetched origin/main: no incoming commit or MP3 yet; existing master and artwork remain available. Recorded the incoming-file check for the existing follow-up; no handoff or release submission claimed.
