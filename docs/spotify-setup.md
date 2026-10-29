@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/spotify-setup.md>
 
-**TLDR:** Publication is authorized. RouteNote Free to Spotify only is the selected route, with no separate mechanical-license purchase. Use Brando Miranda per the direct chat instruction; historical name reports are retained below. Signup credentials, source eligibility and the final listening check remain pending.
+**TLDR:** Publication is authorized. RouteNote Free to Spotify only is the selected route: no upfront or annual distribution fee and no separate mechanical-license purchase; Brando keeps 85% of net revenue. Signup is reported complete, but account access remains unverified. Use Brando Miranda per the direct chat instruction; source eligibility and the final listening check remain pending.
 
 ## Assignment and current state
 
@@ -36,7 +36,7 @@ Folder: `experiments/2026-10-27_first-release/`.
 ## Remaining execution sequence
 
 1. Public artist name and Suno plan at creation are confirmed. Complete the download-date evidence and Brando’s full listen.
-2. Account setup was authorized directly on 10-27-2026. Reuse the existing Spotify listener account. RouteNote registration is prepared in Chrome; the user must enter the new password/security answer and complete submission. Verify the result and any email verification afterward.
+2. Account setup was authorized directly on 10-27-2026 and signup was reported complete on 10-28-2026. Reuse the existing Spotify listener account. Sign in to the existing RouteNote account, verify the dashboard and complete any matching email verification. Do not repeat signup just because the current browser is logged out.
 3. Optional license step: only if selected and explicitly authorized, inspect Affordable Song Licensing’s live terms and total. Existing cap: one-time total at most $30, no recurring purchase. Brando approved the one-time payment on 10-28-2026, within the existing $30 total cap; checkout still stops for his card entry.
 4. Draft step: confirm title from the profile, all four songwriters, Suno disclosure, artwork rights, supported store/territory combination, and a release date at least seven days ahead. Brando explicitly authorized publishing this song on 10-28-2026; this includes the upload and submission sequence, subject to verified eligibility and any action-time tool requirements.
 5. Submission step: present the completed release for review, act on clear authorization for submission, then verify the actual receipt and update track status.
@@ -95,3 +95,9 @@ The prepared RouteNote signup was reopened with username and music email. New pa
 Brando reported completing RouteNote signup and requested verification and continuation. The retained registration tab still displayed the registration form; a separate visit to the official login page displayed a logged-out sign-in form. This does not disprove account creation. Searches in the matching music Gmail account for `from:routenote.com` and `in:anywhere routenote` found no RouteNote confirmation or verification message (the broader search returned one unrelated message).
 
 The password-manager icon led to a real 1Password unlock prompt for the matching music account. A vault unlock or direct RouteNote sign-in is required before authenticated verification can continue. The existing-account login tab is retained with the prepared username; no password was read or saved. Brando was asked to unlock 1Password or sign in, and to identify a different signup account if applicable. No duplicate signup, password reset, upload, purchase or release submission was attempted. Resume at the account dashboard, complete any matching email-verification challenge, then continue the already authorized Spotify-only release. Screenshot: `exports/the-day-that-never-comes-bebop/routenote-login-10-28-2026.png` (local, ignored).
+
+## Status and cost confirmation (10-29-2026 10:58 PDT)
+
+Brando reiterated the goal of uploading the song to Spotify, ideally with only a one-time rights payment. The current Chrome tab still shows RouteNote's sign-in form, an empty password field and an unchecked verification challenge. The native 1Password app is locked. Signup remains reported complete but not independently verified; no release has been uploaded or submitted. The login tab is retained for direct sign-in, followed by dashboard verification. Screenshot: `exports/the-day-that-never-comes-bebop/routenote-login-10-29-2026.png` (local, ignored).
+
+Rechecked RouteNote's official [pricing](https://support.routenote.com/kb-article/how-much-does-routenote-cost/) and [cover store/territory guidance](https://support.routenote.com/kb-article/how-do-i-format-stores-and-territories-for-a-cover-release-without-a-mechanical-license/). RouteNote Free has no upfront or annual fee; the artist receives 85% of net revenue. Spotify is exempt from the mechanical-license country exclusions, so the selected Spotify-only route needs no separate mechanical-license purchase under that policy. Premium introduces an annual renewal and is outside the selected route. This store policy does not establish the eligibility of the particular Suno source material; retain the source check before making a rights attestation.

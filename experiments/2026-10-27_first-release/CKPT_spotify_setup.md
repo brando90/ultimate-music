@@ -5,17 +5,17 @@
 **TLDR:** Publication authorized; Claude consulted. Spotify-only RouteNote Free selected, no license purchase. Signup reported complete; authenticated verification awaits vault unlock or sign-in.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 10-28-2026 09:35 PDT
+Last updated: 10-29-2026 10:58 PDT
 
 ## Goal
 - Prepare the first Spotify release following `prompts/codex-spotify.md`.
 ## What ran
-- Claude consultation completed; publication approval and Spotify-only route recorded 10-28-2026.
+- Claude consultation completed; publication approved. RouteNote Free pricing and Spotify cover policy rechecked 10-29-2026: no upfront/annual fee or separate license purchase; artist keeps 85% of net revenue.
 ## Results
 - Audio hash matches; stereo, 44.1 kHz, 16-bit, 181.92 seconds; cover 3000 × 3000.
 - Premier verified; exact original audio blob already in `brandomiranda` commit `deae315` on 05-07-2026; download channel unverified.
 ## Stuck / blocked
-- User reports signup complete; RouteNote is logged out and 1Password is locked. Awaiting vault unlock or direct sign-in, then source/listening checks.
+- User reports signup complete; RouteNote remains logged out and 1Password locked on 10-29-2026. Awaiting direct sign-in or vault unlock, then source/listening checks.
 - Use Brando Miranda from direct chat approval; conflicting coworker report preserved in the setup log.
 - Account creation reported by user, not yet independently verified; no distributor upload, purchase or release submission.
 ## Next steps
@@ -32,3 +32,4 @@ Last updated: 10-28-2026 09:35 PDT
 - 10-27-2026 19:01 PDT -- Evening attempt found no RouteNote session or matching confirmation email. Reopened and prepared signup in Chrome; credentials remain a user-only step. Deleted the one-time automation.
 - 10-28-2026 09:33 PDT -- Brando authorized publication and one-time payment. Consulted Claude; selected Spotify-only RouteNote Free at $0, restored signup handoff and recorded source-history evidence.
 - 10-28-2026 09:35 PDT -- User reported signup complete. Login is logged out; no confirmation mail found; saved-login access reached a 1Password unlock prompt. Retained login handoff.
+- 10-29-2026 10:58 PDT -- Rechecked account access: login form and locked vault persist. Retained login handoff and confirmed the selected free route has no upfront/annual fee, artist keeps 85% of net revenue, and Spotify requires no separate mechanical-license purchase under RouteNote's policy. No upload, submission or payment.
