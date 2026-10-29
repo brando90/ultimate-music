@@ -1,0 +1,108 @@
+{
+  "method": "Decode original MP3 via macOS afconvert and Suno downloaded Opus/MP4 via AVFoundation AVAssetReader, both 24000 Hz 16-bit stereo; full-recording FFT coarse lag +/-2 seconds followed by 33-sample fine search using middle 60 s; compute centered Pearson correlation and least-squares gain/residual on entire overlap. No normalization before comparison.",
+  "sample_rate_hz": 24000,
+  "suno_frames": 8279356,
+  "sibelius_frames": 8278936,
+  "suno_seconds": 344.97316666666666,
+  "sibelius_seconds": 344.9556666666667,
+  "lag_samples_suno_delayed_vs_sibelius": -1,
+  "lag_seconds": -4.1666666666666665e-05,
+  "overlap_seconds": 344.955625,
+  "stereo_pearson": 0.9952576099166326,
+  "left_pearson": 0.9951925170280068,
+  "right_pearson": 0.9953109720921913,
+  "best_gain_sibelius_to_suno": 0.9722550213097173,
+  "residual_signal_to_noise_db": 20.23997961783648,
+  "negative_control_10_second_shift_pearson": 0.0009419316545378594,
+  "windows": [
+    {
+      "start_seconds": 0.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9984146233267494,
+      "left_pearson": 0.9983983082927477,
+      "right_pearson": 0.9984282773135083
+    },
+    {
+      "start_seconds": 30.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9971894642603113,
+      "left_pearson": 0.9971014242639138,
+      "right_pearson": 0.9972543991628633
+    },
+    {
+      "start_seconds": 60.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9956453330358342,
+      "left_pearson": 0.9955673075897955,
+      "right_pearson": 0.9957103862566542
+    },
+    {
+      "start_seconds": 90.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9951458738232012,
+      "left_pearson": 0.9952182249884376,
+      "right_pearson": 0.9950795742318256
+    },
+    {
+      "start_seconds": 120.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9950221694198905,
+      "left_pearson": 0.9949942883602586,
+      "right_pearson": 0.9950456345031957
+    },
+    {
+      "start_seconds": 150.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9961150485865452,
+      "left_pearson": 0.9960654834742642,
+      "right_pearson": 0.9961586449527083
+    },
+    {
+      "start_seconds": 180.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9951952162911822,
+      "left_pearson": 0.9951584003856205,
+      "right_pearson": 0.9952250774098189
+    },
+    {
+      "start_seconds": 210.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9944342724657762,
+      "left_pearson": 0.9944687559740186,
+      "right_pearson": 0.9944052172494574
+    },
+    {
+      "start_seconds": 240.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9949199254123441,
+      "left_pearson": 0.9945499759287284,
+      "right_pearson": 0.9951869672671332
+    },
+    {
+      "start_seconds": 270.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9944553606554329,
+      "left_pearson": 0.9942130724257463,
+      "right_pearson": 0.9946513395519744
+    },
+    {
+      "start_seconds": 300.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9947404450548244,
+      "left_pearson": 0.9946810595577555,
+      "right_pearson": 0.9947875596180848
+    },
+    {
+      "start_seconds": 330.0,
+      "duration_seconds": 14.955625,
+      "stereo_pearson": 0.994362235129461,
+      "left_pearson": 0.9936830468499089,
+      "right_pearson": 0.9948032153787811
+    }
+  ],
+  "source_sha256": {
+    "/Users/sanmikoyejo-mba-1/Downloads/The Day That Never Comes MP3.m4a": "0451cd38455c39a42804db363aff68fe14c2014b58aa64e8b5940a291d33c917",
+    "/Users/sanmikoyejo-mba-1/brandomiranda/experiments/00_metallica_goes_jazz/The Day That Never Comes MP3.mp3": "230b48cded2ac993ee293a2c5cd00ad9a5ac5d9a2e2150ab9fe9305cb0797160"
+  },
+  "limitations": "Not bit-identical due to different lossy codecs, decode/resampling, possible leading/trailing padding. Establishes signal similarity, not composition ownership, sample-library license, permission to upload to Suno, or historic download timing. Descriptive full-recording comparison; no inferential population claim or p-value."
+}

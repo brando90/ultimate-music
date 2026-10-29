@@ -15,7 +15,7 @@
 - Suno song page (public): https://suno.com/s/hoKp4qmYVfWsQsog (resolves to https://suno.com/song/f991d6df-ade7-4c1a-9561-2dedaa4179c7)
 - Suno title as shown on the page: "The Day That Never Comes MP3". The "MP3" is part of the Suno title only. For a release the title must be the exact original title, **The Day That Never Comes**.
 - Related: Brando's 2010 school-orchestra arrangement of the same song in `tracks/metallica-orchestra/`, and the jazz prompt family in `experiments/2026-10-27_suno-beautify/source-jazz-prompts-from-website.md`.
-- Which audio input (if any) was uploaded to Suno for this take was not recorded. Fill it in when Brando remembers.
+- Source traced on 10-29-2026: Suno identifies parent `47a53f0a-a374-4232-95c2-2e18017b84dd` in the same `brandojazz` account. A full waveform comparison strongly matches that parent's official download to the documented Sibelius playback. See [measurements and limitations](../experiments/2026-10-27_first-release/provenance-comparison-10-29-2026.json) and [setup log](../docs/spotify-setup.md). Recording provenance does not itself clear composition or Suno submission permissions.
 
 ## Prompt and settings
 

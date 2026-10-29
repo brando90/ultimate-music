@@ -5,7 +5,7 @@
 **TLDR:** Publication authorized; Claude consulted. Spotify-only RouteNote Free selected, no license purchase. Signup reported complete; authenticated verification awaits vault unlock or sign-in.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 10-29-2026 10:58 PDT
+Last updated: 10-29-2026 12:00 PDT
 
 ## Goal
 - Prepare the first Spotify release following `prompts/codex-spotify.md`.
@@ -14,8 +14,9 @@ Last updated: 10-29-2026 10:58 PDT
 ## Results
 - Audio hash matches; stereo, 44.1 kHz, 16-bit, 181.92 seconds; cover 3000 × 3000.
 - Premier verified; exact original audio blob already in `brandomiranda` commit `deae315` on 05-07-2026; download channel unverified.
+- Suno parent traced to Brando's account; full-waveform comparison strongly matches documented Sibelius playback. See `provenance-comparison-10-29-2026.json`.
 ## Stuck / blocked
-- User reports signup complete; RouteNote remains logged out and 1Password locked on 10-29-2026. Awaiting direct sign-in or vault unlock, then source/listening checks.
+- User now reports seeing a dashboard, but connected Chrome's existing/fresh RouteNote tabs and main-site navigation show Login. Awaiting browser/device location; no dashboard in available Chrome/Firefox windows.
 - Use Brando Miranda from direct chat approval; conflicting coworker report preserved in the setup log.
 - Account creation reported by user, not yet independently verified; no distributor upload, purchase or release submission.
 ## Next steps
@@ -23,7 +24,7 @@ Last updated: 10-29-2026 10:58 PDT
 - Resume at the remaining execution sequence in `docs/spotify-setup.md`; do not repeat completed preparation.
 - The user-requested 7 p.m. follow-up ran on 10-27-2026; the one-time automation was deleted afterward. Resume on a user reply.
 ## Brando to-do
-- Unlock 1Password or sign in to RouteNote; identify a different signup email/username if used.
+- Bring the reported dashboard into this Mac's connected Chrome profile, or identify its browser/device.
 
 ## Log
 - 10-27-2026 10:06 PDT -- Prepared and verified local assets; corrected songwriter credits; waiting for user facts and action approval.
@@ -33,3 +34,4 @@ Last updated: 10-29-2026 10:58 PDT
 - 10-28-2026 09:33 PDT -- Brando authorized publication and one-time payment. Consulted Claude; selected Spotify-only RouteNote Free at $0, restored signup handoff and recorded source-history evidence.
 - 10-28-2026 09:35 PDT -- User reported signup complete. Login is logged out; no confirmation mail found; saved-login access reached a 1Password unlock prompt. Retained login handoff.
 - 10-29-2026 10:58 PDT -- Rechecked account access: login form and locked vault persist. Retained login handoff and confirmed the selected free route has no upfront/annual fee, artist keeps 85% of net revenue, and Spotify requires no separate mechanical-license purchase under RouteNote's policy. No upload, submission or payment.
+- 10-29-2026 12:00 PDT -- Brando reported dashboard access and reaffirmed upload authorization; connected browser still exposes Login. Traced Suno parent and verified strong waveform match to documented Sibelius playback; recorded current jazz-download dialog without unlocking it. Saved provenance evidence; no distributor upload or payment.
