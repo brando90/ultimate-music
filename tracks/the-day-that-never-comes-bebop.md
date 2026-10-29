@@ -9,6 +9,7 @@
 - **Date released:** not released
 - **Release title:** The Day That Never Comes (Jazz Quintet Suite) (Brando, Oct 27); track title stays The Day That Never Comes
 - **Upload candidate (WAV 44.1 kHz 16-bit, -14.0 LUFS) and cover art:** `experiments/2026-10-27_first-release/` (source, loudness and open items are in its README)
+- **MP3 copy (as sent by Brando, 10-29-2026; 64 kbps, 48 kHz, stereo, 4.2 MB), kept so all agents can reach it:** `experiments/2026-10-27_first-release/The Day That Never Comes.mp3`. Not the upload master; the WAV above is.
 
 ## Source material
 
