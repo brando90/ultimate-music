@@ -1,0 +1,62 @@
+{
+  "source_commit": "bbb55832212707d8786506159c0a8b93cafa5df7",
+  "input_bytes": 4319044,
+  "source_sha256": {
+    "experiments/2026-10-27_first-release/The Day That Never Comes.mp3": "4796d616d2c5a65d3449f660bb43b33dea1f2f7188d046ffee033859f825163c",
+    "experiments/2026-10-27_first-release/the-day-that-never-comes-bebop-44k-16bit.wav": "a62cdf9b01bbda212341d869ff8ee26c211a6a8f4cfa4eb4220a74b2cb3e3f8a"
+  },
+  "incoming_original_encoding": "MP3, 48000 Hz stereo; afinfo estimated bitrate 188562 bits/second",
+  "incoming_afinfo_estimated_duration_seconds": 181.968,
+  "prepared_original_encoding": "WAV, 44100 Hz 16-bit stereo",
+  "prepared_original_duration_seconds": 181.92,
+  "method": "macOS afconvert decoded both to 24000 Hz 16-bit stereo; full-recording fast Fourier transform coarse lag search +/-2 seconds, then sample refinement using middle 60 seconds; centered Pearson over all overlapping stereo samples and 30-second windows; 10-second misalignment control.",
+  "decoded_incoming_seconds": 181.9335,
+  "decoded_prepared_seconds": 181.92,
+  "lag_samples_incoming_delayed_vs_prepared": 0,
+  "lag_seconds": 0.0,
+  "overlap_seconds": 181.92,
+  "stereo_pearson": 0.9974924992429232,
+  "left_pearson": 0.9974851013335737,
+  "right_pearson": 0.9975008111111286,
+  "gain_prepared_to_incoming": 1.0379771342956368,
+  "residual_signal_to_noise_db": 23.000767698915908,
+  "negative_control_10_second_shift_pearson": 0.005599368279593583,
+  "windows": [
+    {
+      "start_seconds": 0.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9984824156637162
+    },
+    {
+      "start_seconds": 30.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9979188780875027
+    },
+    {
+      "start_seconds": 60.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9973108062392773
+    },
+    {
+      "start_seconds": 90.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9968563530044698
+    },
+    {
+      "start_seconds": 120.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.9973368223652483
+    },
+    {
+      "start_seconds": 150.0,
+      "duration_seconds": 30.0,
+      "stereo_pearson": 0.997566125320028
+    },
+    {
+      "start_seconds": 180.0,
+      "duration_seconds": 1.92,
+      "stereo_pearson": 0.9985481819239886
+    }
+  ],
+  "limits": "Descriptive complete-recording comparison, no population estimate or significance test; differing codec, gain, resampling and padding prevent byte identity. Recording identity does not establish distribution rights."
+}

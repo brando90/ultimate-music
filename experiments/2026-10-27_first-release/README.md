@@ -8,8 +8,14 @@ Brando's "jazz Metallica": his 2010 school-orchestra arrangement of Metallica's 
 |---|---|
 | `the-day-that-never-comes-bebop-44k-16bit.wav` | **The upload candidate.** WAV, 44.1 kHz, 16-bit, stereo, 3:01.92, 32 MB |
 | `cover_3000.jpg` | Cover art, 3000 x 3000 JPG, upscaled from Suno's 1024 x 1024 image |
+| `The Day That Never Comes.mp3` | Copy sent by Brando and added in commit `bbb5583` on 10-29-2026; strongly matches the prepared jazz recording |
+| `incoming-audio-comparison-10-29-2026.json` | File hashes, encoding, duration, full-waveform identity comparison and limitations |
 
 SHA-256 of the WAV: `a62cdf9b01bbda212341d869ff8ee26c211a6a8f4cfa4eb4220a74b2cb3e3f8a`
+
+## Incoming audio verified on 10-29-2026
+
+The newly supplied MP3 is a matching copy of the prepared jazz take, supported by a full-recording waveform comparison. The existing WAV remains the upload candidate. The incoming file contains 4,319,044 bytes; macOS reports 48,000 samples per second, stereo, 181.968 seconds and an estimated average 188,562 bits per second. The initial 64-kilobit-per-second note was incorrect. See the [full comparison](incoming-audio-comparison-10-29-2026.json) and [current execution log](../../docs/spotify-setup.md).
 
 ## Source and why it is the best available
 
@@ -39,10 +45,10 @@ It meets `docs/release-checklist.md` section 1 on format, peaks (under 0 dB, tru
 - The cover art is a simple Lanczos upscale of a 1024 x 1024 image, so it looks soft at 3000 px. A sharper original would be better.
 - Resampling 48 to 44.1 kHz is a small, standard loss.
 
-## Open items before any upload
+## Current release state (10-29-2026)
 
-1. **Suno plan.** Songs made on the free plan are for personal, non-commercial use only. Which plan made this song is not recorded. See `docs/for-profit-vs-nonprofit.md` section 5.
-2. **Cover license.** It is a Metallica cover. Brando said about $12 for the mechanical license is fine; nothing has been bought. See section 4 of the same doc.
-3. **Release and artist name.** Release title chosen by Brando on Oct 27: *The Day That Never Comes (Jazz Quintet Suite)* (final; he may drop "Suite"); the track title stays exactly *The Day That Never Comes* because RouteNote requires covers to carry the original title. Artist name not set; suggested default: Brando Miranda.
+1. **Suno plan.** Premier coverage at creation on 05-07-2026 was verified from the matching account receipt; original-file possession that day is also documented. Use the already-held audio. Current Free download access does not invalidate earlier paid rights; source permissions and actual distributor declarations remain separate checks. See the [execution log](../../docs/spotify-setup.md).
+2. **Distribution and cover licensing.** Brando authorized upload and submission. Selected route: RouteNote Free, Spotify only, worldwide; under RouteNote's verified guidance this selection needs no separate mechanical-license purchase. No payment, distributor upload or submission has been verified. The remaining access issue is recorded in the checkpoint.
+3. **Release and artist name.** Public artist: Brando Miranda, directly approved in this chat. Preferred release title: *The Day That Never Comes (Jazz Quintet Suite)*; track title: *The Day That Never Comes*. Honor the actual single-release form's title requirements.
 4. **Rights note on this repo.** The repo is public and holds an arrangement of a copyrighted song plus this recording; the open question in `experiments/2026-10-27_suno-beautify/README.md` still stands.
 5. **AI disclosure.** The recording is Suno AI output made from Brando's own arrangement; if a distributor or Spotify asks, say so.
