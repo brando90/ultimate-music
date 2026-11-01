@@ -1,5 +1,7 @@
 # Release checklist
 
+**Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/release-checklist.md>
+
 Copy this list into the song's notes file under `tracks/` and tick it off for each release.
 
 ## 1. Audio
@@ -26,9 +28,9 @@ Copy this list into the song's notes file under `tracks/` and tick it off for ea
 ## 4. Rights
 
 - [ ] **Original song:** I own it (or it is clearly mine to release), and any AI tool terms allow distribution
-- [ ] **Cover song:** cover-song license (DistroKid sells one; RouteNote does not, so get a mechanical license elsewhere, e.g. Affordable Song Licensing, or exclude the USA, Canada, Mexico, India and Pakistan; see docs/for-profit-vs-nonprofit.md); original songwriters credited
+- [ ] **Cover song:** arrangement and source rights checked; original songwriters credited; license requirements verified for the selected stores and territories. RouteNote permits eligible Spotify-only covers without a separately purchased mechanical license; do not apply other-store territory exclusions to Spotify. See [cover rights](spotify-cover-rights.md).
 - [ ] Samples and loops cleared, if any
-- [x] Suno plan and terms checked for the first song: paid plan at the time (Brando, 10-27-2026), so commercial release rights apply; for later songs, confirm the plan before uploading (songs made on a free plan are non-commercial only)
+- [ ] Suno plan **and input permissions** established: Premier coverage for the first candidate is verified, but permission for Suno's use of the underlying composition remains unresolved. Paid-plan status alone does not clear third-party material. See [historical terms assessment](spotify-cover-rights.md).
 
 ## 5. Distributor steps
 
@@ -36,7 +38,7 @@ Copy this list into the song's notes file under `tracks/` and tick it off for ea
 
 - [ ] Sign in to RouteNote and start a new release
 - [ ] Upload the WAV and the cover art
-- [ ] Fill in the metadata and choose Spotify (and other stores)
+- [ ] Fill in the metadata and choose only the authorized stores (Spotify only for the first release)
 - [ ] Pick the free tier (RouteNote keeps a share of earnings) and submit
 - [ ] Wait for approval and the live date; save the confirmation email
 

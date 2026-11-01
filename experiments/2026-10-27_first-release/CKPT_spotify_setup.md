@@ -2,23 +2,23 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/experiments/2026-10-27_first-release/CKPT_spotify_setup.md>
 
-**TLDR:** RouteNote login verified; uploading is paused at Brando's request until his final WAV and explicit go-ahead. Spotify-only RouteNote Free has no upfront or annual fee; eligibility remains conditional.
+**TLDR:** RouteNote login verified; uploading remains paused pending Brando's final WAV and go-ahead. The free Spotify-only route is supported for eligible covers, but permission for Suno's use of Metallica's composition is not established; the evidence and recommendation are saved in the rights assessment and Google Doc.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 11-01-2026 13:44 PST
+Last updated: 11-01-2026 14:27 PST
 
 ## Goal
 - Release The Day That Never Comes under Brando Miranda after final-file approval.
 ## What ran
 - Verified authenticated RouteNote account on 11-01-2026; no release created or uploaded. Paused existing automation after Brando said stop.
-- Saved cost and rights explanation in docs/spotify-cover-rights.md and its linked Google Doc.
+- Expanded docs/spotify-cover-rights.md with primary-law analysis and archived Suno terms; verified matching text and headings in the existing Google Doc.
 ## Results
 - RouteNote Free: $0 upfront/annual; 85% of net revenue to artist. Spotify-only cover distribution requires no separately purchased mechanical license under RouteNote policy.
-- Prior Premier/source evidence remains in docs/spotify-setup.md. Final-file and arrangement eligibility are not blanket-cleared.
+- Premier/source evidence establishes plan and recording provenance, not all composition permissions. Archived 03-26-2026 Suno terms identify the concrete input-rights issue; no infringement finding is asserted.
 ## Stuck / blocked
-- Explicit user hold pending final WAV; older prepared masters must not be substituted.
+- Explicit final-WAV hold; older masters must not be substituted. Suno input permission, final arrangement eligibility and reference-MIDI provenance remain unresolved.
 ## Next steps
-- [p 10/10] Wait for final WAV and explicit go-ahead. Then safely sync, check for existing releases, verify the final file and finish the authorized Spotify-only flow.
+- [p 10/10] Preserve the upload hold. When Brando supplies the final WAV/go-ahead, safely sync and read docs/spotify-cover-rights.md; resolve the specific permissions and assess the final arrangement before any rights attestation or submission.
 - Keep automation ultimate-music-spotify-release-notifications PAUSED until renewed authorization; submission/live-link emails remain pending.
 ## Brando to-do
 - Supply the final WAV and tell Codex when to proceed.
@@ -42,3 +42,4 @@ Last updated: 11-01-2026 13:44 PST
 - 10-29-2026 14:51 PDT -- Brando could not find the password. RouteNote recovery did not recognize four known emails; no reset link issued. Prepared the authorized free signup with the intended music identity and handed off new credentials/verification/terms/submission as required by the browser tool. Account creation and music upload remain unverified.
 - 10-29-2026 15:18 PDT -- Checked browser All Vaults search, generated-password history, native Archive and Recently Deleted: no RouteNote credential found. Fresh official recovery submission again rejected the intended music email. Signup has empty credential/security fields and remains retained; asked for the matching item title/vault. No upload or submission.
 - 11-01-2026 13:44 PST -- Verified RouteNote login, then honored explicit upload stop. Paused automation; documented costs, licensing limits and final-WAV hold in repository and Google Doc. No upload or submission.
+- 11-01-2026 14:27 PST -- Researched the handmade-score question using primary law and archived Suno terms; documented the input-permission gap without declaring infringement. Updated the existing Google Doc and verified readback; corrected current track/checklist state. Final-WAV hold preserved; no external messages, upload or purchase.

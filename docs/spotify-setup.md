@@ -2,14 +2,14 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/spotify-setup.md>
 
-**TLDR:** Publication is authorized. RouteNote Free to Spotify only is the selected route: no upfront or annual distribution fee and no separate mechanical-license purchase; Brando keeps 85% of net revenue. Signup is reported complete, but account access remains unverified. Use Brando Miranda per the direct chat instruction; source eligibility and the final listening check remain pending.
+**TLDR:** RouteNote login is verified, but Brando paused uploading pending his final WAV and renewed go-ahead. Spotify-only RouteNote Free remains the proposed route; Premier coverage and independent recording provenance do not establish permission for Suno's use of the underlying composition. See the [rights assessment](spotify-cover-rights.md).
 
 ## Assignment and current state
 
 - Source: `prompts/codex-spotify.md` at incoming commit `ea60b73`; scheduled checks every 15 minutes until noon on 10-27-2026, America/Los_Angeles.
 - Public release title and draft biography: [artist profile](artist-profile.md). Track title: The Day That Never Comes.
 - Local preparation completed 10-27-2026 10:06 PDT. No distributor draft, upload, payment or submission has been verified.
-- Latest account check, 10-29-2026: 1Password is unlocked, but no matching saved login was found; RouteNote still requires sign-in. See the dated findings below.
+- Latest account check, 11-01-2026: authenticated RouteNote welcome page verified. Uploading and the notification automation are paused at Brando's request. Historical access failures below are retained as history.
 
 ## Verified assets
 
@@ -34,6 +34,8 @@ Folder: `experiments/2026-10-27_first-release/`.
 4. [Suno’s rights pages](https://help.suno.com/en/categories/550145) distinguish free-plan use, paid-plan distribution and download rights. Confirm both generation and download details for this take before deciding the route. No rights conclusion is inferred from “for fun.”
 
 ## Remaining execution sequence
+
+**Current hold, 11-01-2026:** The earlier upload approval is superseded by Brando's instruction to wait for his final WAV and go-ahead. The sequence below is conditional on that instruction and the [specific rights assessment](spotify-cover-rights.md); no old master may be substituted. Account sign-in is already verified.
 
 1. Public artist name and Suno plan at creation are confirmed. Use the already-held paid-period audio file and preserve its receipt/history evidence. Complete the content and rights checks needed for the actual distributor declarations; today's Free download screen alone does not invalidate earlier rights.
 2. Account setup was authorized directly on 10-27-2026 and signup was reported complete on 10-28-2026. Reuse the existing Spotify listener account. Sign in to the existing RouteNote account, verify the dashboard and complete any matching email verification. Do not repeat signup just because the current browser is logged out.
@@ -169,3 +171,9 @@ The upload assets and authorization remain ready. No distributor upload, submiss
 ## Login verified; final-file hold (11-01-2026)
 
 RouteNote authenticated account and welcome page were verified. Codex inspected the release creation form and catalog but did not create a release, upload audio or submit. Brando explicitly stopped uploading pending his final WAV. The existing notification automation is PAUSED. Do not use earlier masters without renewed approval. See [Spotify costs and rights](spotify-cover-rights.md) for the verified policy explanation and Google Doc companion.
+
+## Hand-entered arrangement and historical Suno terms (11-01-2026)
+
+Brando requested a substantive assessment, retaining responsibility for his decision. The [rights assessment](spotify-cover-rights.md) now distinguishes independent recording rights, the underlying composition, cover-arrangement scope, Suno input permission and Spotify distribution licensing. An archived official Suno page captured 08-31-2026 identifies revision 03-26-2026; its input-rights conditions and conditional paid-output grant materially limit the earlier paid-plan conclusion. Applicability on the May creation date is a documented inference, not an exact-day archive verification.
+
+The free Spotify-only route remains supported for eligible covers. Full clearance of this specific production is not established by the evidence. Updated the existing Google Doc and current track/checklist state. No release, rights-holder contact, payment or milestone email was initiated. Uploading remains on Brando's final-file hold.

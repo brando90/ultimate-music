@@ -2,14 +2,14 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/tracks/the-day-that-never-comes-bebop.md>
 
-- **Status:** prepared candidate; artist name Brando Miranda selected from direct chat approval, paid Suno plan at creation (Brando, 10-27-2026; Premier receipt found); RouteNote sign-in verification and full listening check pending; nothing submitted
+- **Status:** upload paused on 11-01-2026 pending Brando's final WAV and go-ahead; RouteNote login verified; Premier receipt found; specific Suno input permission and final arrangement assessment remain unresolved; nothing submitted
 - **Type:** cover (original artist: Metallica; composition by James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo; verified against Metallica’s official song catalog)
 - **Created with:** Suno (account `brandojazz`)
 - **Date started:** 2026-05-07
 - **Date released:** not released
 - **Release title:** The Day That Never Comes (Jazz Quintet Suite) (Brando, Oct 27); track title stays The Day That Never Comes
 - **Upload candidate (WAV 44.1 kHz 16-bit, -14.0 LUFS) and cover art:** `experiments/2026-10-27_first-release/` (source, loudness and open items are in its README)
-- **MP3 copy sent by Brando, 10-29-2026:** `experiments/2026-10-27_first-release/The Day That Never Comes.mp3`; 48,000 samples per second, stereo, 181.968 seconds reported, 4,319,044 bytes, estimated average 188,562 bits per second. Full-recording comparison strongly matches the prepared jazz take; the WAV above remains the upload master. [Comparison evidence](../experiments/2026-10-27_first-release/incoming-audio-comparison-10-29-2026.json).
+- **MP3 copy sent by Brando, 10-29-2026:** `experiments/2026-10-27_first-release/The Day That Never Comes.mp3`; 48,000 samples per second, stereo, 181.968 seconds reported, 4,319,044 bytes, estimated average 188,562 bits per second. Full-recording comparison strongly matches the prepared jazz take. These are preserved candidates; wait for Brando's final WAV. [Comparison evidence](../experiments/2026-10-27_first-release/incoming-audio-comparison-10-29-2026.json).
 
 ## Source material
 
@@ -63,7 +63,7 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 
 ## Release
 
-- Distributor: RouteNote free tier (Spotify-only route selected; upload and submission authorized 10-28-2026, nothing uploaded)
+- Distributor: RouteNote Free, Spotify only; earlier approval superseded by the 11-01-2026 final-file hold; nothing uploaded
 - ISRC / UPC: assigned by the distributor
 - Cover art file: `experiments/2026-10-27_first-release/cover_3000.jpg`; verified 3000 × 3000 pixels.
 - Spotify link: none
@@ -71,8 +71,8 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 
 ## Rights (open items, must be settled before upload)
 
-1. **Cover license.** This is a new recording of Metallica's composition, so it is a cover. Per `docs/for-profit-vs-nonprofit.md`: RouteNote can send a cover to Spotify without a mechanical license, but the release then has to exclude the USA, Canada, Mexico, India and Pakistan for other stores, or carry a mechanical license (current price and terms require verification; see `docs/for-profit-vs-nonprofit.md`). Per RouteNote’s current cover metadata guidance, Metallica goes in the C line, all four original songwriters go in publishing details, and the approved performing artist goes in the P line.
-2. **Suno plan terms.** Premier coverage on 05-07-2026 is verified by a receipt covering 05-07-2026 through 06-07-2026. The receipt arrived at 12:17 p.m.; the signed-in song page displays creation at 12:26 p.m. that day. Current account status is Free (10-27-2026). Historical download date and final rights checks remain pending; see `docs/spotify-setup.md`.
+1. **Composition and distribution.** An eligible cover can reach Spotify through RouteNote Free without a separately purchased mechanical license; do not apply other-store territory exclusions to Spotify. This does not clear broader uses or an arrangement outside the cover privilege. Per RouteNote's cover metadata guidance, Metallica goes in the composition copyright line, all four original songwriters in publishing details, and the approved performing artist in the recording copyright line. See the [rights assessment](../docs/spotify-cover-rights.md).
+2. **Suno plan and input rights.** Premier coverage on 05-07-2026 is verified by a receipt covering 05-07-2026 through 06-07-2026. The receipt arrived at 12:17 p.m.; the signed-in song page displays creation at 12:26 p.m. that day. The archived terms also require permission for Suno's use of submitted material. Independent Sibelius playback does not establish that permission for Metallica's composition. See the [historical terms assessment](../docs/spotify-cover-rights.md) and `docs/spotify-setup.md` for provenance limits.
 3. **AI disclosure.** Check the distributor's current rule on AI-generated music when filling in the release form, and answer it truthfully.
 
 ## Notes
@@ -91,9 +91,9 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 - [ ] Historical download date established.
 - [ ] Brando listens in full and confirms the start and ending.
 - [x] Free account setup authorized; existing Spotify listener account found.
-- [ ] RouteNote signup completed and verified after the user credential step.
+- [x] RouteNote authenticated account verified on 11-01-2026.
 - [ ] Rights, store selection and any license settled before upload.
-- [x] Upload and submission authorized by Brando on 10-28-2026.
+- [ ] Final WAV received and upload go-ahead renewed after Brando's 11-01-2026 hold.
 - [ ] Actual upload and submission verified.
 
 Execution log: [Spotify setup](../docs/spotify-setup.md).
