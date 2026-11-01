@@ -165,3 +165,7 @@ Brando said the password should be in 1Password. The unlocked native app and Chr
 A fresh submission of the intended music email through RouteNote's official recovery form again returned **This Email address has not been recognised**. No reset link, account creation or dashboard access was verified. Asked Brando for the saved item title and vault name, without sending the password in chat. The prepared signup remains retained with empty password and security-answer fields; the browser tool requires user entry and submission of new credentials if signup is needed. The signup verification challenge was completed after Brando explicitly approved it, but it may expire before submission. Terms remain unchecked. Screenshot: `exports/the-day-that-never-comes-bebop/routenote-email-recheck-10-29-2026.png` (local, ignored).
 
 The upload assets and authorization remain ready. No distributor upload, submission, purchase or completion email occurred. Codex still owns the release and existing email follow-up.
+
+## Login verified; final-file hold (11-01-2026)
+
+RouteNote authenticated account and welcome page were verified. Codex inspected the release creation form and catalog but did not create a release, upload audio or submit. Brando explicitly stopped uploading pending his final WAV. The existing notification automation is PAUSED. Do not use earlier masters without renewed approval. See [Spotify costs and rights](spotify-cover-rights.md) for the verified policy explanation and Google Doc companion.

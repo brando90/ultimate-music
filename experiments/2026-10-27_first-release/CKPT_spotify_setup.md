@@ -2,29 +2,26 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/experiments/2026-10-27_first-release/CKPT_spotify_setup.md>
 
-**TLDR:** Publication authorized; Spotify-only RouteNote Free selected. Expanded 1Password checks found no RouteNote credential; official recovery again rejected the intended music email. Need the matching login item or completed free signup.
+**TLDR:** RouteNote login verified; uploading is paused at Brando's request until his final WAV and explicit go-ahead. Spotify-only RouteNote Free has no upfront or annual fee; eligibility remains conditional.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 10-29-2026 15:18 PDT
+Last updated: 11-01-2026 13:44 PST
 
 ## Goal
-- Prepare the first Spotify release following `prompts/codex-spotify.md`.
+- Release The Day That Never Comes under Brando Miranda after final-file approval.
 ## What ran
-- Claude consultation completed; publication approved. RouteNote Free pricing and Spotify cover policy rechecked 10-29-2026: no upfront/annual fee or separate license purchase; artist keeps 85% of net revenue.
+- Verified authenticated RouteNote account on 11-01-2026; no release created or uploaded. Paused existing automation after Brando said stop.
+- Saved cost and rights explanation in docs/spotify-cover-rights.md and its linked Google Doc.
 ## Results
-- Incoming MP3 from `bbb5583` strongly matches the prepared jazz take; evidence in `incoming-audio-comparison-10-29-2026.json`. Existing 44.1 kHz, 16-bit stereo master and 3000 × 3000 cover remain the upload assets.
-- Premier verified; exact original audio blob in `brandomiranda` commit `deae315` on 05-07-2026. Suno expressly retains prior paid rights; current Free download access does not invalidate them. Historical download channel unaudited.
-- Suno parent traced to Brando's account; full-waveform comparison strongly matches documented Sibelius playback. See `provenance-comparison-10-29-2026.json`.
+- RouteNote Free: $0 upfront/annual; 85% of net revenue to artist. Spotify-only cover distribution requires no separately purchased mechanical license under RouteNote policy.
+- Prior Premier/source evidence remains in docs/spotify-setup.md. Final-file and arrangement eligibility are not blanket-cleared.
 ## Stuck / blocked
-- Native and browser 1Password searches, generated-password history, Archive and Recently Deleted yielded no RouteNote match. Official recovery freshly rejected the intended music email; earlier checks rejected three other known addresses. No account or dashboard verified.
-- Use Brando Miranda from direct chat approval; conflicting coworker report preserved in the setup log.
-- Account creation reported by user, not yet independently verified; no distributor upload, purchase or release submission.
+- Explicit user hold pending final WAV; older prepared masters must not be substituted.
 ## Next steps
-- [p 10/10] Use the matching 1Password item if Brando identifies its title/vault, or verify his completed signup. Run `git fetch origin`, verify dashboard access and continue the authorized release; recover a different registered email if supplied.
-- Incoming MP3 received and compared; resume `docs/spotify-setup.md` without repeating audio preparation. Codex still owns execution and email follow-up.
-- Email follow-up `ultimate-music-spotify-release-notifications` runs every six hours; notify once on verified submission and once with the live Spotify link, then delete it. Codex owns delivery; both notices pending.
+- [p 10/10] Wait for final WAV and explicit go-ahead. Then safely sync, check for existing releases, verify the final file and finish the authorized Spotify-only flow.
+- Keep automation ultimate-music-spotify-release-notifications PAUSED until renewed authorization; submission/live-link emails remain pending.
 ## Brando to-do
-- Identify the saved RouteNote item by title/vault, or complete the prepared free signup. Do not paste passwords into chat. The browser tool requires user entry and submission of new credentials.
+- Supply the final WAV and tell Codex when to proceed.
 
 ## Log
 - 10-27-2026 10:06 PDT -- Prepared and verified local assets; corrected songwriter credits; waiting for user facts and action approval.
@@ -44,3 +41,4 @@ Last updated: 10-29-2026 15:18 PDT
 - 10-29-2026 14:34 PDT -- Observed the verification checkbox completed, clicked Sign in as requested, and received “Password field is required.” Dismissed the warning and retained the form for existing-password entry. No authentication, upload or submission completed.
 - 10-29-2026 14:51 PDT -- Brando could not find the password. RouteNote recovery did not recognize four known emails; no reset link issued. Prepared the authorized free signup with the intended music identity and handed off new credentials/verification/terms/submission as required by the browser tool. Account creation and music upload remain unverified.
 - 10-29-2026 15:18 PDT -- Checked browser All Vaults search, generated-password history, native Archive and Recently Deleted: no RouteNote credential found. Fresh official recovery submission again rejected the intended music email. Signup has empty credential/security fields and remains retained; asked for the matching item title/vault. No upload or submission.
+- 11-01-2026 13:44 PST -- Verified RouteNote login, then honored explicit upload stop. Paused automation; documented costs, licensing limits and final-WAV hold in repository and Google Doc. No upload or submission.
