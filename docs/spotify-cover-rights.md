@@ -93,6 +93,16 @@ DistroKid's mechanical license covers content it distributes and is not offered 
 
 **Decision:** Both distributors offer credible routes for eligible covers. Keep RouteNote Free as the selected route under current instructions; DistroKid is a reasonable alternative if Brando later chooses its recurring pricing. No account, purchase or distributor change was made during this comparison. The final-WAV upload hold remains in effect. Private conversation excerpts were not copied into these public notes.
 
+## Audio format and avoiding an unnecessary subscription: 11-01-2026
+
+The existing jazz candidate is already a WAV (Waveform Audio File Format): `experiments/2026-10-27_first-release/the-day-that-never-comes-bebop-44k-16bit.wav`, 44,100 samples per second, 16-bit stereo, 181.92 seconds. Its current checksum matches the recorded candidate. If this is still Brando's intended take, no new Suno subscription is needed merely to obtain a WAV. This is a file-format finding, not a new listening approval or rights determination.
+
+The attached `The Day That Never Comes MP3.m4a` is a different asset: its checksum exactly matches the saved Suno parent download, previously traced to the Sibelius playback, approximately 344.97 seconds. Despite its filename, it contains Opus audio in an MP4 container, not MP3 audio. Preserve it as source evidence rather than substituting it for the jazz candidate. The separate repository MP3 is approximately 188.6 kilobits per second at 48,000 samples per second. See [recording provenance](../experiments/2026-10-27_first-release/provenance-comparison-10-29-2026.json) and [jazz-file identity](../experiments/2026-10-27_first-release/incoming-audio-comparison-10-29-2026.json).
+
+RouteNote's standard upload guidance specifies stereo FLAC (Free Lossless Audio Codec), or 320-kilobit-per-second MP3, at 44,100 samples per second, with 16-bit lossless audio. Its WAV guidance recommends FLAC delivery. The appropriate preparation is to encode the approved existing WAV losslessly to FLAC and verify identical decoded samples; this requires no new Suno download. Converting compressed audio to WAV does not recover detail already discarded. [RouteNote requirements](https://support.routenote.com/kb-article/what-are-the-audio-file-requirements/); [WAV-to-FLAC guidance](https://support.routenote.com/kb-article/what-is-wav/).
+
+Suno lists new WAV downloads as a Pro/Premier feature. A subscription would therefore be relevant to a new download or different final take, not necessary simply because a usable WAV already exists locally. No subscription, audio conversion or upload was performed in this check. [Suno download formats](https://help.suno.com/en/articles/13926081).
+
 ## Current decision and next step
 
 RouteNote account access was verified on 11-01-2026. No release was created, audio uploaded, or release submitted by Codex. Brando then explicitly stopped uploading until he supplies the final WAV file. The six-hour follow-up is PAUSED.

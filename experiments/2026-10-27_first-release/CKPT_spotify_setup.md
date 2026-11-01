@@ -5,7 +5,7 @@
 **TLDR:** RouteNote login verified; uploading remains paused pending Brando's final WAV and go-ahead. The free Spotify-only route is supported for eligible covers, but permission for Suno's use of Metallica's composition is not established; the evidence and recommendation are saved in the rights assessment and Google Doc.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 11-01-2026 15:46 PST
+Last updated: 11-01-2026 15:54 PST
 
 ## Goal
 - Release The Day That Never Comes under Brando Miranda after final-file approval.
@@ -16,6 +16,7 @@ Last updated: 11-01-2026 15:46 PST
 - RouteNote Free: $0 upfront/annual; 85% of net revenue to artist. Spotify-only cover distribution requires no separately purchased mechanical license under RouteNote policy.
 - Premier/source evidence establishes plan and recording provenance, not all composition permissions. Archived 03-26-2026 Suno terms identify the concrete input-rights issue; no infringement finding is asserted.
 - DistroKid accepts eligible covers/generated music; current instructions require generated-content answers/credits. Advertised one-artist/one-cover cost is $36.99/year before taxes/extras, outside the existing one-time budget.
+- Existing jazz WAV reverified; attached M4A is the source parent, not the jazz candidate. Use approved WAV-to-FLAC conversion for RouteNote; no new Suno subscription needed for this format step.
 ## Stuck / blocked
 - Explicit final-WAV hold; older masters must not be substituted. Suno input permission, final arrangement eligibility and reference-MIDI provenance remain unresolved.
 ## Next steps
@@ -45,3 +46,4 @@ Last updated: 11-01-2026 15:46 PST
 - 11-01-2026 13:44 PST -- Verified RouteNote login, then honored explicit upload stop. Paused automation; documented costs, licensing limits and final-WAV hold in repository and Google Doc. No upload or submission.
 - 11-01-2026 14:27 PST -- Researched the handmade-score question using primary law and archived Suno terms; documented the input-permission gap without declaring infringement. Updated the existing Google Doc and verified readback; corrected current track/checklist state. Final-WAV hold preserved; no external messages, upload or purchase.
 - 11-01-2026 15:46 PST -- Checked DistroKid's cover, pricing, generated-content credits and license-scope policies; added the comparison to the rights notes and existing Google Doc. Private chat text was not published. No distributor switch, purchase or upload; final-WAV hold remains.
+- 11-01-2026 15:54 PST -- Rechecked file formats and checksums; identified the attached M4A as the previously traced source parent. Existing jazz WAV is intact. Corrected RouteNote delivery to FLAC and documented that a new subscription is unnecessary for the existing take; no conversion, purchase or upload.

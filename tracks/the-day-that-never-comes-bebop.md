@@ -10,6 +10,7 @@
 - **Release title:** The Day That Never Comes (Jazz Quintet Suite) (Brando, Oct 27); track title stays The Day That Never Comes
 - **Upload candidate (WAV 44.1 kHz 16-bit, -14.0 LUFS) and cover art:** `experiments/2026-10-27_first-release/` (source, loudness and open items are in its README)
 - **MP3 copy sent by Brando, 10-29-2026:** `experiments/2026-10-27_first-release/The Day That Never Comes.mp3`; 48,000 samples per second, stereo, 181.968 seconds reported, 4,319,044 bytes, estimated average 188,562 bits per second. Full-recording comparison strongly matches the prepared jazz take. These are preserved candidates; wait for Brando's final WAV. [Comparison evidence](../experiments/2026-10-27_first-release/incoming-audio-comparison-10-29-2026.json).
+- **Attachment identified, 11-01-2026:** `The Day That Never Comes MP3.m4a` exactly matches the saved Suno parent download by checksum; it is the approximately 344.97-second source traced to Sibelius playback, not the 181.92-second jazz candidate. The existing jazz WAV remains available without a new subscription; RouteNote delivery should use a lossless FLAC conversion after approval. [Audio-format findings](../docs/spotify-cover-rights.md#audio-format-and-avoiding-an-unnecessary-subscription-11-01-2026).
 
 ## Source material
 

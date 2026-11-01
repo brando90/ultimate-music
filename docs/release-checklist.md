@@ -7,6 +7,7 @@ Copy this list into the song's notes file under `tracks/` and tick it off for ea
 ## 1. Audio
 
 - [ ] Final mix exported as a **WAV, 44.1 kHz, 16-bit**, stereo
+- [ ] For RouteNote standard delivery, encode the approved WAV losslessly as **FLAC (Free Lossless Audio Codec)** at the same sample rate, bit depth and channel count; verify identical decoded samples. See [audio requirements](https://support.routenote.com/kb-article/what-are-the-audio-file-requirements/).
 - [ ] **Peaks under 0 dB** (true peak about -1 dB is safer), no clipping
 - [ ] Loudness **about -14 LUFS** integrated (Spotify's reference level)
 - [ ] No silence at the start, no cut-off tail, clean fade or ending
@@ -37,7 +38,7 @@ Copy this list into the song's notes file under `tracks/` and tick it off for ea
 **First releases: RouteNote (free tier)**
 
 - [ ] Sign in to RouteNote and start a new release
-- [ ] Upload the WAV and the cover art
+- [ ] Upload the approved FLAC delivery file and the cover art
 - [ ] Fill in the metadata and choose only the authorized stores (Spotify only for the first release)
 - [ ] Pick the free tier (RouteNote keeps a share of earnings) and submit
 - [ ] Wait for approval and the live date; save the confirmation email
