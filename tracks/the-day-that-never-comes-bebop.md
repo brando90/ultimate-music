@@ -2,14 +2,14 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/tracks/the-day-that-never-comes-bebop.md>
 
-- **Status:** upload paused on 11-01-2026 pending Brando's final WAV and go-ahead; RouteNote login verified; Premier receipt found; specific Suno input permission and final arrangement assessment remain unresolved; nothing submitted
+- **Status:** DistroKid workflow requested on 11-01-2026; signed-in dashboard verified with no releases; user password creation and required contact number pending; exact payment approval required; nothing uploaded or submitted
 - **Type:** cover (original artist: Metallica; composition by James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo; verified against Metallica’s official song catalog)
 - **Created with:** Suno (account `brandojazz`)
 - **Date started:** 2026-05-07
 - **Date released:** not released
-- **Release title:** The Day That Never Comes (Jazz Quintet Suite) (Brando, Oct 27); track title stays The Day That Never Comes
+- **Release title:** The Day That Never Comes, selected in Brando's DistroKid instruction on 11-01-2026; earlier working title was The Day That Never Comes (Jazz Quintet Suite)
 - **Upload candidate (WAV 44.1 kHz 16-bit, -14.0 LUFS) and cover art:** `experiments/2026-10-27_first-release/` (source, loudness and open items are in its README)
-- **MP3 copy sent by Brando, 10-29-2026:** `experiments/2026-10-27_first-release/The Day That Never Comes.mp3`; 48,000 samples per second, stereo, 181.968 seconds reported, 4,319,044 bytes, estimated average 188,562 bits per second. Full-recording comparison strongly matches the prepared jazz take. These are preserved candidates; wait for Brando's final WAV. [Comparison evidence](../experiments/2026-10-27_first-release/incoming-audio-comparison-10-29-2026.json).
+- **MP3 copy sent by Brando, 10-29-2026:** `experiments/2026-10-27_first-release/The Day That Never Comes.mp3`; 48,000 samples per second, stereo, 181.968 seconds reported, 4,319,044 bytes, estimated average 188,562 bits per second. Full-recording comparison strongly matches the prepared jazz take. These candidates are preserved; the existing WAV is now selected for DistroKid preparation under the latest instruction. [Comparison evidence](../experiments/2026-10-27_first-release/incoming-audio-comparison-10-29-2026.json).
 - **Attachment identified, 11-01-2026:** `The Day That Never Comes MP3.m4a` exactly matches the saved Suno parent download by checksum; it is the approximately 344.97-second source traced to Sibelius playback, not the 181.92-second jazz candidate. The existing jazz WAV remains available without a new subscription; RouteNote delivery should use a lossless FLAC conversion after approval. [Audio-format findings](../docs/spotify-cover-rights.md#audio-format-and-avoiding-an-unnecessary-subscription-11-01-2026).
 
 ## Source material
@@ -64,7 +64,7 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 
 ## Release
 
-- Distributor: RouteNote Free, Spotify only; earlier approval superseded by the 11-01-2026 final-file hold; nothing uploaded
+- Distributor: DistroKid workflow now requested; Spotify only; no purchase, upload or submission verified. RouteNote Free remains the no-annual-fee alternative.
 - ISRC / UPC: assigned by the distributor
 - Cover art file: `experiments/2026-10-27_first-release/cover_3000.jpg`; verified 3000 × 3000 pixels.
 - Spotify link: none
@@ -94,7 +94,7 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 - [x] Free account setup authorized; existing Spotify listener account found.
 - [x] RouteNote authenticated account verified on 11-01-2026.
 - [ ] Rights, store selection and any license settled before upload.
-- [ ] Final WAV received and upload go-ahead renewed after Brando's 11-01-2026 hold.
+- [x] DistroKid preparation/upload intent renewed on 11-01-2026 with final or best available audio; existing jazz WAV selected for preparation, all charges subject to exact approval.
 - [ ] Actual upload and submission verified.
 
 Execution log: [Spotify setup](../docs/spotify-setup.md).

@@ -2,28 +2,28 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/experiments/2026-10-27_first-release/CKPT_spotify_setup.md>
 
-**TLDR:** RouteNote login verified; uploading remains paused pending Brando's final WAV and go-ahead. The free Spotify-only route is supported for eligible covers, but permission for Suno's use of Metallica's composition is not established; the evidence and recommendation are saved in the rights assessment and Google Doc.
+**TLDR:** Brando requested DistroKid preparation with exact approval before every charge. Its signed-in dashboard has no releases; upload access requires user-completed password creation and contact-number setup. No purchase or upload has occurred.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 11-01-2026 15:54 PST
+Last updated: 11-01-2026 16:02 PST
 
 ## Goal
-- Release The Day That Never Comes under Brando Miranda after final-file approval.
+- Release The Day That Never Comes under Brando Miranda; DistroKid now requested, Spotify only.
 ## What ran
-- Verified authenticated RouteNote account on 11-01-2026; no release created or uploaded. Paused existing automation after Brando said stop.
-- Expanded docs/spotify-cover-rights.md with primary-law analysis, archived Suno terms and the DistroKid alternative; mirrored the findings in the existing Google Doc.
+- Verified DistroKid dashboard, empty catalog and actual setup dependency; preserved the existing profile tab and retained a separate setup handoff tab.
+- Reverified 181.92-second jazz WAV checksum and encoding; prepared exact-title cover metadata in docs/spotify-setup.md.
 ## Results
-- RouteNote Free: $0 upfront/annual; 85% of net revenue to artist. Spotify-only cover distribution requires no separately purchased mechanical license under RouteNote policy.
-- Premier/source evidence establishes plan and recording provenance, not all composition permissions. Archived 03-26-2026 Suno terms identify the concrete input-rights issue; no infringement finding is asserted.
-- DistroKid accepts eligible covers/generated music; current instructions require generated-content answers/credits. Advertised one-artist/one-cover cost is $36.99/year before taxes/extras, outside the existing one-time budget.
-- Existing jazz WAV reverified; attached M4A is the source parent, not the jazz candidate. Use approved WAV-to-FLAC conversion for RouteNote; no new Suno subscription needed for this format step.
+- Current title: The Day That Never Comes. Four original writers and Creeping Death Music notice verified; truthful generated-audio credits prepared.
+- Published DistroKid estimate: $24.99/year plus $12/cover/year. Actual account plan and checkout total are not yet verified; no charge approved.
+- Existing jazz WAV is selected best available audio for preparation. Attached M4A is the source parent, not the jazz candidate.
 ## Stuck / blocked
-- Explicit final-WAV hold; older masters must not be substituted. Suno input permission, final arrangement eligibility and reference-MIDI provenance remain unresolved.
+- New-password entry/submission is a user-only step under the computer-use tool. Contact number is also required before upload access.
+- Suno input-permission question remains documented; do not invent permissions or make unsupported rights attestations.
 ## Next steps
-- [p 10/10] Preserve the upload hold. When Brando supplies the final WAV/go-ahead, safely sync and read docs/spotify-cover-rights.md; resolve the specific permissions and assess the final arrangement before any rights attestation or submission.
-- Keep automation ultimate-music-spotify-release-notifications PAUSED until renewed authorization; submission/live-link emails remain pending.
+- [p 10/10] Resume the retained DistroKid tab after account setup; inspect plan status, prepare the available form and stop before any charge for exact approval. Brando enters his card.
+- Keep the old RouteNote automation PAUSED; avoid duplicate releases. Submission and live-link emails remain pending.
 ## Brando to-do
-- Supply the final WAV and tell Codex when to proceed.
+- Complete new password and contact number in DistroKid; stop before payment. Review exact charges when available.
 
 ## Log
 - 10-27-2026 10:06 PDT -- Prepared and verified local assets; corrected songwriter credits; waiting for user facts and action approval.
@@ -47,3 +47,4 @@ Last updated: 11-01-2026 15:54 PST
 - 11-01-2026 14:27 PST -- Researched the handmade-score question using primary law and archived Suno terms; documented the input-permission gap without declaring infringement. Updated the existing Google Doc and verified readback; corrected current track/checklist state. Final-WAV hold preserved; no external messages, upload or purchase.
 - 11-01-2026 15:46 PST -- Checked DistroKid's cover, pricing, generated-content credits and license-scope policies; added the comparison to the rights notes and existing Google Doc. Private chat text was not published. No distributor switch, purchase or upload; final-WAV hold remains.
 - 11-01-2026 15:54 PST -- Rechecked file formats and checksums; identified the attached M4A as the previously traced source parent. Existing jazz WAV is intact. Corrected RouteNote delivery to FLAC and documented that a new subscription is unnecessary for the existing take; no conversion, purchase or upload.
+- 11-01-2026 16:02 PST -- Brando requested DistroKid upload preparation with exact charge approval. Verified signed-in empty catalog; upload requires phone and new-password setup. Retained the user-only credential handoff, preserved existing profile edits, and saved exact-title metadata; no purchase, upload or submission.

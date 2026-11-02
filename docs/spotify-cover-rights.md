@@ -4,7 +4,7 @@
 
 **Google Doc:** <https://docs.google.com/document/d/1c-MestBX5rs0qNdXYAID_XdxZeC4XPx_Aarg2X8WL8U/edit>
 
-**TLDR:** An eligible Spotify-only cover can use RouteNote Free without an upfront charge, annual fee or separately purchased mechanical license. Brando's independently rendered Sibelius arrangement helps establish recording provenance, but the available evidence does not establish permission for Suno's use of Metallica's composition; uploading remains paused pending resolution of that issue, the final WAV and Brando's go-ahead.
+**TLDR:** An eligible Spotify-only cover can use RouteNote Free without an upfront charge, annual fee or separately purchased mechanical license; DistroKid is the paid alternative Brando now asked to prepare. The Suno composition-permission question remains documented, and the current DistroKid workflow awaits user-completed account setup and exact charge approval.
 
 Verified: 11-01-2026.
 
@@ -105,9 +105,9 @@ Suno lists new WAV downloads as a Pro/Premier feature. A subscription would ther
 
 ## Current decision and next step
 
-RouteNote account access was verified on 11-01-2026. No release was created, audio uploaded, or release submitted by Codex. Brando then explicitly stopped uploading until he supplies the final WAV file. The six-hour follow-up is PAUSED.
+RouteNote access was verified on 11-01-2026, followed by Brando's final-file hold. His later instruction asks to proceed through DistroKid using the final or best supplied audio, with explicit approval before every charge. The DistroKid dashboard is signed in and shows no releases. Its upload flow requires a phone number; opening that settings step first requires the user to create an account password.
 
-Wait for that final file and explicit permission to proceed. Preserve older masters, but do not substitute them. On resumption, revisit the specific permission gap above, compare the final arrangement, and verify metadata, artwork and Spotify-only store selection. The intended artist is Brando Miranda. Email milestones remain pending. This research did not contact Suno, RouteNote or any rights holder.
+The existing 181.92-second jazz WAV is the best available candidate; the intended artist is Brando Miranda and the exact release title is The Day That Never Comes. Resume after user-completed password/contact setup, verify plan status and present the actual checkout total and renewal terms before any payment. No audio upload, release submission or purchase has occurred. The old RouteNote notification automation remains paused; submission/live-link emails remain pending. See the [execution log](spotify-setup.md) for prepared metadata and the concrete handoff.
 
 ## Primary sources
 

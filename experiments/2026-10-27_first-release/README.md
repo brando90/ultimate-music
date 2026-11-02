@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/experiments/2026-10-27_first-release/README.md>
 
-**TLDR:** These are preserved candidate assets; Brando paused uploading on 11-01-2026 until he supplies his final WAV and go-ahead. RouteNote login is verified, while permission for Suno's use of the composition and the final arrangement assessment remain unresolved; see the [rights assessment](../../docs/spotify-cover-rights.md).
+**TLDR:** These are preserved candidate assets; Brando later requested DistroKid preparation using the best supplied audio, with exact approval before every charge. The jazz WAV is reverified; DistroKid setup awaits user-completed password/contact information. See the [execution log](../../docs/spotify-setup.md) and [rights assessment](../../docs/spotify-cover-rights.md).
 
 Brando's "jazz Metallica": his 2010 school-orchestra arrangement of Metallica's *The Day That Never Comes*, recast as bebop jazz by Suno. This folder holds the audio, the cover art and the facts a release needs. The Codex prompt that uses it is `prompts/codex-spotify.md`.
 
@@ -51,8 +51,8 @@ It meets `docs/release-checklist.md` section 1 on format, peaks (under 0 dB, tru
 
 ## Current release state (11-01-2026)
 
-1. **Suno plan.** Premier coverage at creation on 05-07-2026 was verified from the matching account receipt; original-file possession that day is documented. This establishes the paid-plan condition, not all input permissions. Preserve these candidates and wait for the final WAV. See the [rights assessment](../../docs/spotify-cover-rights.md).
-2. **Distribution and cover licensing.** RouteNote login is verified. Brando paused the earlier upload/submission approval pending his final WAV and go-ahead. Proposed route: RouteNote Free, Spotify only; an eligible cover needs no separately purchased mechanical license under RouteNote's guidance. No payment, distributor upload or submission has been verified. The notification automation is paused.
-3. **Release and artist name.** Public artist: Brando Miranda, directly approved in this chat. Preferred release title: *The Day That Never Comes (Jazz Quintet Suite)*; track title: *The Day That Never Comes*. Honor the actual single-release form's title requirements.
+1. **Suno plan.** Premier coverage at creation on 05-07-2026 was verified from the matching account receipt; original-file possession that day is documented. This establishes the paid-plan condition, not all input permissions. The existing jazz WAV is selected for preparation under the latest instruction. See the [rights assessment](../../docs/spotify-cover-rights.md).
+2. **Distribution and cover licensing.** DistroKid is now requested, Spotify only, with cover licensing and truthful generated-content credits. Its signed-in catalog has no releases; user password/contact setup is required before upload access. Actual checkout amounts and plan status are unverified; exact approval is required before every charge. No payment, upload or submission occurred; the old RouteNote automation remains paused.
+3. **Release and artist name.** Public artist: Brando Miranda. Current release and track title: *The Day That Never Comes*, per the 11-01-2026 DistroKid instruction. The earlier working title was *The Day That Never Comes (Jazz Quintet Suite)*.
 4. **Rights note on this repo.** The repo is public and holds an arrangement of a copyrighted song plus this recording; the open question in `experiments/2026-10-27_suno-beautify/README.md` still stands.
 5. **AI disclosure.** The recording is Suno AI output made from Brando's own arrangement; if a distributor or Spotify asks, say so.

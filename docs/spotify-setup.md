@@ -2,14 +2,14 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/spotify-setup.md>
 
-**TLDR:** RouteNote login is verified, but Brando paused uploading pending his final WAV and renewed go-ahead. Spotify-only RouteNote Free remains the proposed route; Premier coverage and independent recording provenance do not establish permission for Suno's use of the underlying composition. See the [rights assessment](spotify-cover-rights.md).
+**TLDR:** Brando requested the DistroKid upload workflow on 11-01-2026, with explicit approval required before every charge. Its signed-in dashboard has no releases; upload access first requires a phone number and user-completed password creation. The existing jazz WAV and cover metadata are prepared locally; no upload, payment or submission has occurred.
 
 ## Assignment and current state
 
 - Source: `prompts/codex-spotify.md` at incoming commit `ea60b73`; scheduled checks every 15 minutes until noon on 10-27-2026, America/Los_Angeles.
 - Public release title and draft biography: [artist profile](artist-profile.md). Track title: The Day That Never Comes.
 - Local preparation completed 10-27-2026 10:06 PDT. No distributor draft, upload, payment or submission has been verified.
-- Latest account check, 11-01-2026: authenticated RouteNote welcome page verified. Uploading and the notification automation are paused at Brando's request. Historical access failures below are retained as history.
+- Latest account check, 11-01-2026: authenticated DistroKid dashboard verified, showing no releases. The earlier RouteNote login was verified too. DistroKid preparation is now requested; exact charge approval remains required and the old RouteNote automation remains paused.
 
 ## Verified assets
 
@@ -35,7 +35,7 @@ Folder: `experiments/2026-10-27_first-release/`.
 
 ## Remaining execution sequence
 
-**Current hold, 11-01-2026:** The earlier upload approval is superseded by Brando's instruction to wait for his final WAV and go-ahead. The sequence below is conditional on that instruction and the [specific rights assessment](spotify-cover-rights.md); no old master may be substituted. Account sign-in is already verified.
+**Current route, 11-01-2026:** Brando's later DistroKid instruction renews preparation/upload intent using the final or best supplied audio and requires approval before every charge. Use the verified 181.92-second jazz WAV as the best available candidate, not the source-parent attachment. The older RouteNote sequence below is historical; follow the latest DistroKid section and retain the [rights assessment](spotify-cover-rights.md) without inventing permissions.
 
 1. Public artist name and Suno plan at creation are confirmed. Use the already-held paid-period audio file and preserve its receipt/history evidence. Complete the content and rights checks needed for the actual distributor declarations; today's Free download screen alone does not invalidate earlier rights.
 2. Account setup was authorized directly on 10-27-2026 and signup was reported complete on 10-28-2026. Reuse the existing Spotify listener account. Sign in to the existing RouteNote account, verify the dashboard and complete any matching email verification. Do not repeat signup just because the current browser is logged out.
@@ -177,3 +177,30 @@ RouteNote authenticated account and welcome page were verified. Codex inspected 
 Brando requested a substantive assessment, retaining responsibility for his decision. The [rights assessment](spotify-cover-rights.md) now distinguishes independent recording rights, the underlying composition, cover-arrangement scope, Suno input permission and Spotify distribution licensing. An archived official Suno page captured 08-31-2026 identifies revision 03-26-2026; its input-rights conditions and conditional paid-output grant materially limit the earlier paid-plan conclusion. Applicability on the May creation date is a documented inference, not an exact-day archive verification.
 
 The free Spotify-only route remains supported for eligible covers. Full clearance of this specific production is not established by the evidence. Updated the existing Google Doc and current track/checklist state. No release, rights-holder contact, payment or milestone email was initiated. Uploading remains on Brando's final-file hold.
+
+## DistroKid requested; account setup handoff (11-01-2026 16:02 PST)
+
+Brando asked to upload through DistroKid and supplied a workflow requiring exact original title, cover licensing, original writer credits, truthful artificial-intelligence disclosure and explicit approval before every charge. He also asked whether RouteNote is preferable. RouteNote Free remains the better fit for avoiding annual fees; DistroKid is a viable paid alternative. No recurring purchase is authorized merely by initiating this workflow.
+
+The existing DistroKid session is signed in. The My Music dashboard displayed **No releases... yet**. Selecting Upload music showed a required phone-number step. Opening Add contact information led to **Set a password for your DistroKid account**. No password was entered or changed. The computer-use tool requires Brando to enter, confirm and submit new credentials himself; the retained browser tab is ready for that handoff, followed by the required contact number. An existing personal-profile tab with Brando's edits was preserved.
+
+Prepared choices, not yet entered into an upload form:
+
+| Field | Value / state |
+|---|---|
+| Release and track title | The Day That Never Comes |
+| Main artist | Brando Miranda, human artist |
+| Type / genre / language | Single; Jazz; English title; instrumental |
+| Cover | Another artist wrote it; original artist Metallica |
+| Songwriters | James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo |
+| Composition notice | © 2008 Creeping Death Music (Global Music Rights), verified in Metallica's official song catalog; do not invent ownership shares |
+| Recording | Existing 181.92-second, 44.1 kHz, 16-bit stereo jazz WAV; checksum reverified |
+| Generated-content credits | Disclose generated instrumental audio; preserve original human composition credits; use the actual form's applicable audio choices |
+| Artwork | Existing cover_3000.jpg, 3000 × 3000; no title text conflicts; previously noted upscale softness remains |
+| Stores | Spotify only, retaining the narrower established scope |
+| Plan and cover fee | Musician plan requested; published estimate $24.99/year plus $12/cover/year; account-specific checkout total and current paid-plan status not yet verified |
+| Payment | Stop before any charge; present exact total and renewal terms; Brando enters his own card |
+
+Sources: [Metallica's credits](https://www.metallica.com/songs/the-day-that-never-comes.html), [DistroKid track fields](https://support.distrokid.com/hc/en-us/articles/39974262480019-Entering-Track-Information-on-the-Upload-Form), [generated-content credits](https://support.distrokid.com/hc/en-us/articles/50784709021971-How-to-Fill-Out-AI-Credits).
+
+No audio upload, release draft, cover-license purchase, subscription purchase or submission is verified. A screenshot of the empty password-creation form is stored locally under ignored exports; credential-bearing URLs are not saved here. Resume after the user completes account setup, inspect current plan status, and advance to a concrete checkout or release-review screen. The existing notification automation remains paused to avoid the older RouteNote instructions running concurrently.

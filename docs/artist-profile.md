@@ -8,9 +8,9 @@ Source of truth for the public text on Spotify for Artists, RouteNote and any ot
 
 ## Release title (the only place it is written in full)
 
-- **Release title:** The Day That Never Comes (Jazz Quintet Suite)
+- **Release title:** The Day That Never Comes
 
-To drop "Suite", edit only that line, then use the new title wherever `prompts/codex-spotify.md`, `README.md`, `AGENTS.md`, `CLAUDE.md` and `tracks/the-day-that-never-comes-bebop.md` repeat it.
+Brando selected the exact original title for the DistroKid release on 11-01-2026. The earlier working title, "The Day That Never Comes (Jazz Quintet Suite)", remains in historical notes; it is not the current distributor title.
 
 - **Track title:** The Day That Never Comes (kept exactly, because it is a cover and distributors need the original song name)
 - **Release type:** single (one track)
@@ -42,8 +42,8 @@ It is a cover of a Metallica composition, made as a personal music project. Dist
 
 - **Audio:** Suno-generated, bebop jazz, ensemble described as a quintet. It is not an orchestra and not a studio recording. Length 3:01.92. File: `experiments/2026-10-27_first-release/the-day-that-never-comes-bebop-44k-16bit.wav`.
 - **Cover art:** `experiments/2026-10-27_first-release/cover_3000.jpg`, 3000 x 3000, a plain upscale of Suno's 1024 x 1024 image, so it is soft at full size. Replace it if a sharper image becomes available.
-- **Earnings:** none claimed. Brando said he is not making money from this release.
-- **Suno plan at creation:** paid. Brando confirmed on 10-27-2026: "I paid it, it was paid at the time", so Suno's commercial-use rights for songs made while subscribed apply. A receipt for Suno Premier supports this: it covers 05-07-2026 through 06-07-2026 and predates the displayed song-creation time on 05-07-2026. The account is Free as of 10-27-2026. Download date and final distribution checks remain pending; current Free status does not establish the historical plan.
+- **Earnings:** no revenue has been earned or verified for this unreleased recording. Brando is open to earning recording royalties from an eligible release.
+- **Suno plan at creation:** Premier coverage is verified by a receipt for 05-07-2026 through 06-07-2026, predating the displayed song-creation time on 05-07-2026. The account is Free as of 10-27-2026. This establishes the paid-plan condition; source permissions and other distribution conditions are separately documented in [the rights assessment](spotify-cover-rights.md).
 - **Credits to enter:** Original composition: James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo (as listed in [Metallica’s official song catalog](https://www.metallica.com/songs/the-day-that-never-comes.html)). Arrangement (2010 school-orchestra score): Brando Miranda. Audio generated with Suno.
 
 ## Images
