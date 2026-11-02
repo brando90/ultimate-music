@@ -2,29 +2,32 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/experiments/2026-10-27_first-release/CKPT_instagram_setup.md>
 
-**TLDR:** A separate artist signup is prepared; no account or new saved login is verified. Instagram accepts ultimatebrando.music as a valid username; Brando must complete new-credential entry and submission.
+**TLDR:** The separate artist account @ultimatebrandojazz is verified in a signed-in browser. The Ultimate Brando Facebook musician Page is created with the selected saxophone portrait, website and bio. Meta account linking is prepared and awaits its access confirmation; a saved 1Password login remains unverified.
 
 Created: 11-01-2026 16:23 PST
-Last updated: 11-01-2026 16:23 PST
+Last updated: 11-01-2026 16:52 PST
 
 ## Goal
-- Create Ultimate Brando as a separate Instagram artist account and save its login in 1Password on this laptop.
+- Establish separate Ultimate Brando artist profiles, connect Facebook and Instagram, and preserve the requested login in 1Password.
 ## What ran
 - Verified ultimate_brando9 is the existing personal account; preserved it and the unrelated club account.
-- Signed-in signup and Meta's add-account route looped to login; opened a separate Chrome Incognito signup session.
-- Filled display name Ultimate Brando; ultimatebrando was unavailable, while ultimatebrando.music displayed a valid-input checkmark.
+- Brando completed signup as @ultimatebrandojazz; the live profile shows Brando Miranda, artist bio and owner editing controls.
+- Created Ultimate Brando as a Facebook Musician/band Page after Brando explicitly approved Facebook's Page Terms.
+- Saved the selected saxophone portrait, personal website and artist bio; skipped WhatsApp linking and friend invitations, and disabled promotional emails.
 ## Results
-- No signup submitted, account created, new password entered or login item saved by Codex.
-- Native 1Password is unlocked; exact search for ultimatebrando.music returned no results.
-- Local proof: exports/artist-profile/instagram-signup-11-01-2026.jpg (ignored; empty password and birthday fields).
+- Instagram: https://www.instagram.com/ultimatebrandojazz/
+- Facebook: https://www.facebook.com/profile.php?id=61596193078228
+- Facebook category and bio are saved; no purchase or music release submission occurred in this profile task.
+- Chosen portrait preserved at exports/artist-profile/ultimate-brando-jazz_profile-selected_11-01-2026.png; SHA256 999d4609c9fbee1b84c263c33e4d77c4cd3fe93b31d7dbfa9df6a957cbdac2df.
 ## Stuck / blocked
-- New authentication credentials must be entered, confirmed and submitted by Brando under the computer-use tool policy.
-- Signup email choice and actual birthday remain unfilled; no private contact details are recorded here.
+- Meta's Connect dialog expands assigned managers' access across both profiles; browser policy requires action-time confirmation, requested in chat.
+- Saving the new Instagram login in 1Password is not verified. Never infer a saved item from successful sign-in.
 ## Next steps
-- [p 10/10] After Brando completes signup, inspect the live account through computer use, verify the username and saved 1Password item, and finish the applicable Creator/musician settings.
-- Reuse the current signup window; do not create duplicate accounts or change the personal profile. Username validation does not reserve the handle.
+- [p 10/10] On confirmation, click Connect, select @ultimatebrandojazz, complete supported professional-account setup, inspect automatic sharing options and verify their saved state.
+- Reuse the existing Facebook Page and signed-in artist Instagram; preserve the separate personal and club profiles.
 ## Brando to-do
-- Complete email, birthday and password in the prepared signup; review Instagram's terms and submit. Save the new password in 1Password as Ultimate Brando — Instagram, then report completion.
+- Confirm the prepared Meta connection's account-management access; any later human-only credential step remains Brando's.
 
 ## Log
 - 11-01-2026 16:23 PST -- Prepared separate artist signup and verified username validation plus unlocked 1Password; awaiting user-only credential creation/submission, with no new account or saved login claimed.
+- 11-01-2026 16:52 PST -- Verified @ultimatebrandojazz after Brando's signup; created Facebook Page 61596193078228, saved its musician category, selected portrait, website and bio, and prepared the Meta connection permission screen. Requested access confirmation; no link or automatic sharing claimed yet.

@@ -22,6 +22,23 @@ Brando selected the exact original title for the DistroKid release on 11-01-2026
 - **Artist name (public):** Brando Miranda. Selected on 10-28-2026 from Brando’s direct approval in the Codex chat. The conflicting coworker report is preserved in `docs/spotify-setup.md`.
 - **Website:** https://brando90.github.io/brandomiranda/
 
+### Artist social profiles (11-01-2026)
+
+- **Facebook Page:** [Ultimate Brando](https://www.facebook.com/profile.php?id=61596193078228), category Musician/band. Created and verified after Brando approved the Page Terms.
+- **Artist Instagram:** [@ultimatebrandojazz](https://www.instagram.com/ultimatebrandojazz/), display name Brando Miranda. This is separate from the personal @ultimate_brando9 account.
+- **Profile image selected by Brando:** `exports/artist-profile/ultimate-brando-jazz_profile-selected_11-01-2026.png`, preserved locally from his attachment. The matching jazz-club saxophone image is displayed on Facebook.
+- **Connection:** Meta account linking and automatic sharing are pending verification; see [the social-account checkpoint](../experiments/2026-10-27_first-release/CKPT_instagram_setup.md).
+- **Distribution artist name:** social-profile branding does not by itself change the distributor's artist metadata.
+
+Facebook bio saved:
+
+```text
+🎷 Jazz & Bachata from another angle.
+Saxophone • handwritten arrangements
+Human imagination × AI collaboration • Suno
+Old scores. New sounds.
+```
+
 ### Bio (draft)
 
 Brando Miranda is a doctoral student at Stanford University studying artificial intelligence and a musician with a longstanding interest in jazz. At sixteen, in 2010, he arranged Metallica's "The Day That Never Comes" for his school orchestra at Greengates. Working in Sibelius, he wrote parts for strings, brass, winds and percussion, exploring how a rock song could take shape in a different ensemble.
