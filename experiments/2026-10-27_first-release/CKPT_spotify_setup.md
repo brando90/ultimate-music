@@ -2,28 +2,28 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/experiments/2026-10-27_first-release/CKPT_spotify_setup.md>
 
-**TLDR:** Brando requested DistroKid preparation with exact approval before every charge. Its signed-in dashboard has no releases; upload access requires user-completed password creation and contact-number setup. No purchase or upload has occurred.
+**TLDR:** The DistroKid form is prepared as Ultimate Brando with the final WAV, selected portrait, cover credits and truthful generated-audio disclosure. Twenty-two stores are selected; annual cover-license payment approval is pending. No submission or charge is verified.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 11-01-2026 16:02 PST
+Last updated: 11-01-2026 17:30 PST
 
 ## Goal
-- Release The Day That Never Comes under Brando Miranda; DistroKid now requested, Spotify only.
+- Release The Day That Never Comes as Ultimate Brando through DistroKid, maximizing eligible included stores per Brando's 11-01-2026 instruction.
 ## What ran
-- Verified DistroKid dashboard, empty catalog and actual setup dependency; preserved the existing profile tab and retained a separate setup handoff tab.
-- Reverified 181.92-second jazz WAV checksum and encoding; prepared exact-title cover metadata in docs/spotify-setup.md.
+- Prepared existing Chrome tab 1438541225 at distrokid.com/new/; fixed missing artist mappings without creating a duplicate release.
+- Reverified the Downloads WAV matches the 181.92-second repository master; its filename and selected portrait are visible in the form.
 ## Results
-- Current title: The Day That Never Comes. Four original writers and Creeping Death Music notice verified; truthful generated-audio credits prepared.
-- Published DistroKid estimate: $24.99/year plus $12/cover/year. Actual account plan and checkout total are not yet verified; no charge approved.
-- Existing jazz WAV is selected best available audio for preparation. Attached M4A is the source parent, not the jazz candidate.
+- Cover of Metallica; four original writers entered; instrumental, Jazz; all audio generated and human artist selected.
+- No existing Spotify/Apple/YouTube Music artist selected; Instagram restored and verified Facebook numeric Page URL accepted without its earlier validation warning.
+- Current total $40.99: $9 annual cover license, $29 one-time Leave a Legacy, $2.99 one-time normalization. Minimal option is $9 without extras; renewal price after promotion is unverified (standard $12/year shown).
 ## Stuck / blocked
-- New-password entry/submission is a user-only step under the computer-use tool. Contact number is also required before upload access.
-- Suno input-permission question remains documented; do not invent permissions or make unsupported rights attestations.
+- Exact payment/annual-renewal approval pending in chat. User-selected rights and agreement checkboxes were already checked when inspected; no new agent assertion of legal clearance.
+- Apple/iTunes temporarily deselected: accurate performer credit for wholly generated audio unresolved. Snapchat/Roblox excluded because their composition-ownership declarations do not fit this cover.
 ## Next steps
-- [p 10/10] Resume the retained DistroKid tab after account setup; inspect plan status, prepare the available form and stop before any charge for exact approval. Brando enters his card.
+- [p 10/10] On Brando's charge choice, retain/remove optional extras accordingly, inspect actual total, submit once, and verify the distributor receipt before sending the authorized submission email.
 - Keep the old RouteNote automation PAUSED; avoid duplicate releases. Submission and live-link emails remain pending.
 ## Brando to-do
-- Complete new password and contact number in DistroKid; stop before payment. Review exact charges when available.
+- Approve either $9 or $40.99 now plus annual cover-license renewal, or decline; the exact options were presented in chat. Enter any newly required card details personally.
 
 ## Log
 - 10-27-2026 10:06 PDT -- Prepared and verified local assets; corrected songwriter credits; waiting for user facts and action approval.
@@ -48,3 +48,4 @@ Last updated: 11-01-2026 16:02 PST
 - 11-01-2026 15:46 PST -- Checked DistroKid's cover, pricing, generated-content credits and license-scope policies; added the comparison to the rights notes and existing Google Doc. Private chat text was not published. No distributor switch, purchase or upload; final-WAV hold remains.
 - 11-01-2026 15:54 PST -- Rechecked file formats and checksums; identified the attached M4A as the previously traced source parent. Existing jazz WAV is intact. Corrected RouteNote delivery to FLAC and documented that a new subscription is unnecessary for the existing take; no conversion, purchase or upload.
 - 11-01-2026 16:02 PST -- Brando requested DistroKid upload preparation with exact charge approval. Verified signed-in empty catalog; upload requires phone and new-password setup. Retained the user-only credential handoff, preserved existing profile edits, and saved exact-title metadata; no purchase, upload or submission.
+- 11-01-2026 17:30 PST -- Verified final WAV selected in the DistroKid form and user-selected saxophone portrait displayed. Brando explicitly confirmed Ultimate Brando and maximum included distribution. Fixed three first-release artist choices plus Instagram and Facebook mapping; verified cover, four writers, instrumental, all-generated audio and human artist. Prepared 22 stores, leaving Apple/iTunes pending accurate performer credit and excluding Snapchat/Roblox's incompatible ownership requirements. Preserved user-selected agreements and extras; requested exact $9-versus-$40.99 payment/renewal choice. Form retained; no charge, submission receipt or email claimed.

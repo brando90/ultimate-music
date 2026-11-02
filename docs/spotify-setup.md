@@ -2,14 +2,14 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/spotify-setup.md>
 
-**TLDR:** Brando requested the DistroKid upload workflow on 11-01-2026, with explicit approval required before every charge. Its signed-in dashboard has no releases; upload access first requires a phone number and user-completed password creation. The existing jazz WAV and cover metadata are prepared locally; no upload, payment or submission has occurred.
+**TLDR:** DistroKid's release form is prepared for The Day That Never Comes as Ultimate Brando, with the final WAV, selected portrait, cover metadata and generated-audio disclosure. Twenty-two stores are selected. Exact payment and annual-renewal approval remain pending; no charge or distributor submission is verified.
 
 ## Assignment and current state
 
 - Source: `prompts/codex-spotify.md` at incoming commit `ea60b73`; scheduled checks every 15 minutes until noon on 10-27-2026, America/Los_Angeles.
 - Public release title and draft biography: [artist profile](artist-profile.md). Track title: The Day That Never Comes.
-- Local preparation completed 10-27-2026 10:06 PDT. No distributor draft, upload, payment or submission has been verified.
-- Latest account check, 11-01-2026: authenticated DistroKid dashboard verified, showing no releases. The earlier RouteNote login was verified too. DistroKid preparation is now requested; exact charge approval remains required and the old RouteNote automation remains paused.
+- Local preparation completed 10-27-2026 10:06 PDT; the actual DistroKid form now displays the selected WAV and artwork. No completed distributor submission or payment is verified.
+- Latest account check, 11-01-2026 17:30 PST: upload access works. The prior password/contact setup dependency is resolved. See the latest release-form section below; the old RouteNote automation remains paused.
 
 ## Verified assets
 
@@ -204,3 +204,28 @@ Prepared choices, not yet entered into an upload form:
 Sources: [Metallica's credits](https://www.metallica.com/songs/the-day-that-never-comes.html), [DistroKid track fields](https://support.distrokid.com/hc/en-us/articles/39974262480019-Entering-Track-Information-on-the-Upload-Form), [generated-content credits](https://support.distrokid.com/hc/en-us/articles/50784709021971-How-to-Fill-Out-AI-Credits).
 
 No audio upload, release draft, cover-license purchase, subscription purchase or submission is verified. A screenshot of the empty password-creation form is stored locally under ignored exports; credential-bearing URLs are not saved here. Resume after the user completes account setup, inspect current plan status, and advance to a concrete checkout or release-review screen. The existing notification automation remains paused to avoid the older RouteNote instructions running concurrently.
+
+## Release form prepared; exact charge decision (11-01-2026 17:30 PST)
+
+Brando explicitly requested **Ultimate Brando** as the release artist and maximum included distribution. The signed-in DistroKid upload form is accessible. The supplied `Downloads/The Day That Never Comes (Jazz Cover).wav` matches the repository master byte for byte; both have SHA-256 `a62cdf9b01bbda212341d869ff8ee26c211a6a8f4cfa4eb4220a74b2cb3e3f8a`. The filename is visibly attached to the form. The chosen jazz-club saxophone portrait is displayed as the release artwork. This verifies preparation, not completed distributor submission or delivery.
+
+| Field | Verified form state |
+|---|---|
+| Title / artist | The Day That Never Comes / Ultimate Brando |
+| Recording | Instrumental; Jazz; all audio performed by artificial intelligence; human artist or group |
+| Cover credits | Metallica; James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo |
+| New artist pages | No existing Spotify, Apple Music or YouTube Music artist selected; no listener-profile identifier used |
+| Social mapping | https://www.instagram.com/ultimatebrandojazz/ and https://www.facebook.com/61596193078228; the latter was opened and verified as Ultimate Brando before entry |
+| Stores selected | Spotify; Instagram & Facebook; TikTok & other ByteDance stores; YouTube Music; Amazon; Pandora; Deezer; Tidal; iHeartRadio; Qobuz; Saavn; Boomplay; Anghami; NetEase; Tencent; MassiveMusic; Claro Música; Joox; Kuack Media; Adaptr; Flo; MediaNet |
+| Cover license | $9 now, billed annually under the displayed promotion; standard $12/year shown; later renewal price not independently established |
+| User-selected optional extras | Leave a Legacy, $29 once; loudness normalization, $2.99 once; other extras unchecked |
+| Current displayed total | $40.99; removing both optional extras gives $9 |
+| Submission state | Continue not clicked by Codex after these corrections; no receipt, charge or live link verified |
+
+Apple Music and iTunes were temporarily deselected because the form's original Brando Miranda/Saxophone credit conflicts with the wholly generated recording. The required performer field needs an accurate accepted credit; no invented performer or instrument was entered. DistroKid's [generated-content instructions](https://support.distrokid.com/hc/en-us/articles/50784709021971-How-to-Fill-Out-AI-Credits) support the all-audio/human-artist disclosure but do not resolve that separate field. [Apple's specification](https://help.apple.com/itc/musicspec/en.lproj/static.html#recommended-contributor-roles) calls for the actual performed role or instrument. These stores can be revisited after clarification.
+
+[Snapchat](https://support.distrokid.com/hc/en-us/articles/360063786913-Submitting-Your-Music-to-Snapchat) and [Roblox](https://support.distrokid.com/hc/en-us/articles/32623398062739-Delivering-Your-Music-to-Roblox) require ownership of the underlying composition, so neither was selected for this Metallica cover. Included-store selection does not guarantee store acceptance; the [documented rights questions](spotify-cover-rights.md) remain separate.
+
+The user-selected distribution agreement and rights checkboxes were already checked when inspected. Codex preserved those choices without representing that the prior rights assessment had established full clearance. A single charge-choice question was presented: approve $9 with annual cover-license renewal and remove extras, approve $40.99 with annual renewal and retain extras, or hold. This is required because the previous payment authorization excluded recurring charges and capped one-time spending at $30. No new card information was entered or stored.
+
+Local proof: `exports/artist-profile/distrokid-review-11-01-2026.png`. Resume the retained existing release form, apply the user's charge choice, verify the total, submit once, and save the actual distributor confirmation before sending the authorized submission email. Do not describe the recording as live until a direct listening link is verified.

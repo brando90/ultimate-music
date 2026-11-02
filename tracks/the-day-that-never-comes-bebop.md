@@ -2,7 +2,8 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/tracks/the-day-that-never-comes-bebop.md>
 
-- **Status:** DistroKid workflow requested on 11-01-2026; signed-in dashboard verified with no releases; user password creation and required contact number pending; exact payment approval required; nothing uploaded or submitted
+- **Status:** DistroKid form prepared on 11-01-2026 with final WAV and portrait attached; exact payment/annual-renewal approval pending; no distributor submission or charge verified
+- **Artist:** Ultimate Brando, explicitly confirmed by Brando on 11-01-2026; human artist Brando Miranda
 - **Type:** cover (original artist: Metallica; composition by James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo; verified against Metallica’s official song catalog)
 - **Created with:** Suno (account `brandojazz`)
 - **Date started:** 2026-05-07
@@ -64,9 +65,9 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 
 ## Release
 
-- Distributor: DistroKid workflow now requested; Spotify only; no purchase, upload or submission verified. RouteNote Free remains the no-annual-fee alternative.
+- Distributor: DistroKid; 22 included stores prepared under Brando's maximum-distribution instruction. Apple/iTunes await accurate generated-performance credit; Snapchat/Roblox excluded for composition-ownership requirements. No purchase or submission verified.
 - ISRC / UPC: assigned by the distributor
-- Cover art file: `experiments/2026-10-27_first-release/cover_3000.jpg`; verified 3000 × 3000 pixels.
+- Cover art: user-selected jazz-club saxophone portrait is displayed in the current DistroKid form. Its preserved reference is `exports/artist-profile/ultimate-brando-jazz_profile-selected_11-01-2026.png`. Earlier `experiments/2026-10-27_first-release/cover_3000.jpg` remains preserved.
 - Spotify link: none
 - Cover licensing: depends on stores and territories; see "Rights" and `docs/spotify-setup.md`.
 
@@ -87,7 +88,7 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 - [x] Stereo audio format and duration verified locally.
 - [x] Artwork dimensions and appearance inspected; upscale softness remains.
 - [x] All four songwriter names verified with [Metallica](https://www.metallica.com/songs/the-day-that-never-comes.html).
-- [x] Public artist name selected: Brando Miranda, per direct chat approval; conflicting coworker report preserved in setup log.
+- [x] Public artist name selected: Ultimate Brando, per the latest direct chat approval on 11-01-2026; earlier choices remain in the setup log.
 - [x] Suno Premier coverage at creation verified from the matching account’s receipt.
 - [ ] Historical download date established.
 - [ ] Brando listens in full and confirms the start and ending.

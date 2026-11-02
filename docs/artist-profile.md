@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/artist-profile.md>
 
-**TLDR:** Draft public profile; Brando Miranda is the confirmed artist name, and the song was made on a paid Suno plan. Distribution checks remain pending. Songwriter credits have been checked against Metallica’s official song catalog.
+**TLDR:** Ultimate Brando is the confirmed distribution artist name as of 11-01-2026; Brando Miranda is the human artist. Facebook and @ultimatebrandojazz are linked. The DistroKid release form is prepared, with payment and submission still pending.
 
 Source of truth for the public text on Spotify for Artists, RouteNote and any other page. Copy from here; do not retype. Proofread before use: the name is spelled Miranda.
 
@@ -19,7 +19,7 @@ Brando selected the exact original title for the DistroKid release on 11-01-2026
 
 ## Artist
 
-- **Artist name (public):** Brando Miranda. Selected on 10-28-2026 from Brando’s direct approval in the Codex chat. The conflicting coworker report is preserved in `docs/spotify-setup.md`.
+- **Artist name (public):** Ultimate Brando. Explicitly selected for the DistroKid release by Brando on 11-01-2026; this supersedes the earlier Brando Miranda distribution name. The human artist and producer is Brando Miranda.
 - **Website:** https://brando90.github.io/brandomiranda/
 
 ### Artist social profiles (11-01-2026)
@@ -27,8 +27,8 @@ Brando selected the exact original title for the DistroKid release on 11-01-2026
 - **Facebook Page:** [Ultimate Brando](https://www.facebook.com/profile.php?id=61596193078228), category Musician/band. Created and verified after Brando approved the Page Terms.
 - **Artist Instagram:** [@ultimatebrandojazz](https://www.instagram.com/ultimatebrandojazz/), display name Brando Miranda. This is separate from the personal @ultimate_brando9 account.
 - **Profile image selected by Brando:** `exports/artist-profile/ultimate-brando-jazz_profile-selected_11-01-2026.png`, preserved locally from his attachment. The matching jazz-club saxophone image is displayed on Facebook.
-- **Connection:** Meta account linking and automatic sharing are pending verification; see [the social-account checkpoint](../experiments/2026-10-27_first-release/CKPT_instagram_setup.md).
-- **Distribution artist name:** social-profile branding does not by itself change the distributor's artist metadata.
+- **Connection:** Meta confirmed that Ultimate Brando is connected to @ultimatebrandojazz on 11-01-2026. Instagram is now a Creator account displaying Musician/band. Automatic sharing remains unverified: the source-profile settings fail on both Meta Accounts Center hosts. See [the social-account checkpoint](../experiments/2026-10-27_first-release/CKPT_instagram_setup.md).
+- **Distribution artist name:** Ultimate Brando, now separately authorized in Brando's direct release instruction.
 
 Facebook bio saved:
 
