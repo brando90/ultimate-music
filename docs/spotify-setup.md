@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/spotify-setup.md>
 
-**TLDR:** DistroKid submission of The Day That Never Comes by Ultimate Brando is verified on 11-01-2026. It is processing; the Spotify link lookup has no release yet. The six-hour follow-up is active for this existing release, and the submission email has a verified Sent receipt.
+**TLDR:** DistroKid submission of The Day That Never Comes by Ultimate Brando is verified on 11-01-2026. Files are processed and transfer to 22 stores is underway; the Spotify link lookup has no release yet. The six-hour follow-up is active for this existing release, and the submission email has a verified Sent receipt.
 
 ## Assignment and current state
 
@@ -249,3 +249,11 @@ These drafts are not sent. Use them only after verifying Spotify publication and
 **Bachata group:** Hey dance fam! 🎷 My first release as Ultimate Brando is on Spotify! It’s a jazz cover of Metallica’s “The Day That Never Comes,” based on an arrangement I wrote in high school in 2010 and brought to life with Suno. A little jazz between bachatas 😄 Would love for you to hear it! [SPOTIFY_LINK]
 
 **Deck / Hala’s Deck group:** Hey everyone! I finally released some music 🎷 “The Day That Never Comes” is on Spotify under Ultimate Brando—a jazz take on Metallica, made with Suno from an arrangement I wrote back in high school in 2010. Pretty wild hearing that old score come alive. Give it a listen! [SPOTIFY_LINK]
+
+## Distributor transfer check (11-02-2026 00:03 PST)
+
+The authenticated release dashboard reports that the files were successfully processed and the single is being transferred to stores. All 22 submitted destinations are confirmed, including Spotify and Instagram/Facebook; this does not establish live availability in either service. Universal Product Code (UPC): `700149599211`. The dashboard displays upload date 11-02-2026; the original submission was observed on 11-01-2026 in Pacific time.
+
+The dashboard lists the cover-song license, Leave a Legacy and loudness normalization as attached extras. Separate license approval and the actual charge remain unverified. Spotify identifier lookup still reports no releases found; the public HyperFollow page offers Spotify Pre-Save only. The connected mailbox has the already-sent submission notification and no new matching distributor status email. No live-link email or promotional post was sent.
+
+Synced coworker [launch drafts](promotion/launch-drafts.md) and [promotion log](promotion/promotion-log.md) from incoming commit `2357b7c`; the log records no published posts. Use those records to coordinate the live campaign. Existing monitoring continues at its six-hour cadence.

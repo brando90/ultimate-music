@@ -5,22 +5,22 @@
 **TLDR:** DistroKid submission is verified for The Day That Never Comes by Ultimate Brando. Spotify publication and a direct listening link are pending; the submission email is sent and the existing six-hour watch is active.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 11-01-2026 18:00 PST
+Last updated: 11-02-2026 00:03 PST
 
 ## Goal
 - Verify the submitted release goes live, email its direct Spotify listening link and deliver promotion drafts for Brando to post.
 ## What ran
-- Authenticated DistroKid success screen independently verified after Brando submitted; one song, processing for streaming platforms.
+- Authenticated release dashboard now confirms files processed and transfer to 22 stores underway, including Spotify and Instagram/Facebook; Universal Product Code (UPC): `700149599211`.
 - Release identifier: `05E43806-5482-42DC-AE5A916C71A0C713`; HyperFollow: <https://distrokid.com/hyperfollow/ultimatebrando/the-day-that-never-comes>.
 ## Results
 - Spotify identifier lookup shows no releases yet; no direct Spotify listening link or live status verified.
 - Submission milestone email sent after Sent deduplication, with verified Gmail Sent receipt stored privately in `exports/artist-profile/submission-email-receipt-11-01-2026.json`.
 - Existing `ultimate-music-spotify-release-notifications` updated to ACTIVE, every six hours, monitoring DistroKid only.
 ## Stuck / blocked
-- Awaiting distributor processing, cover licensing and store publication; actual amount charged and final stores are unverified.
+- Awaiting store publication. Cover-license extra is listed, but license approval and actual amount charged are not independently verified. Spotify lookup still has no release; HyperFollow offers pre-save only.
 ## Next steps
 - [p 10/10] Monitor the existing release and <https://distrokid.com/uri/spotify/>; verify title, artist and playable publication before the live-link email. Do not create or submit another release.
-- Substitute the verified link in the saved promotion drafts; Brando posts to his groups. Delete the watch after live email receipt and draft delivery.
+- Use coworker drafts in `docs/promotion/launch-drafts.md` and check `docs/promotion/promotion-log.md` before promotion; no posts logged yet. Delete the watch after live email receipt and draft delivery.
 ## Brando to-do
 - None currently required; any new distributor request will be surfaced.
 
@@ -50,3 +50,4 @@ Last updated: 11-01-2026 18:00 PST
 - 11-01-2026 17:30 PST -- Verified final WAV selected in the DistroKid form and user-selected saxophone portrait displayed. Brando explicitly confirmed Ultimate Brando and maximum included distribution. Fixed three first-release artist choices plus Instagram and Facebook mapping; verified cover, four writers, instrumental, all-generated audio and human artist. Prepared 22 stores, leaving Apple/iTunes pending accurate performer credit and excluding Snapchat/Roblox's incompatible ownership requirements. Preserved user-selected agreements and extras; requested exact $9-versus-$40.99 payment/renewal choice. Form retained; no charge, submission receipt or email claimed.
 
 - 11-01-2026 18:00 PST -- Verified user-completed DistroKid submission and pending Spotify link; restored the six-hour watch for this existing release and sent the deduplicated submission email with a verified Sent receipt.
+- 11-02-2026 00:03 PST -- Synced coworker promotion drafts; verified processed files, transfer to 22 stores and UPC 700149599211. Spotify lookup still empty and HyperFollow pre-save only; no duplicate email or publication.
