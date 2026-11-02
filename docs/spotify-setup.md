@@ -2,14 +2,14 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/spotify-setup.md>
 
-**TLDR:** DistroKid's release form is prepared for The Day That Never Comes as Ultimate Brando, with the final WAV, selected portrait, cover metadata and generated-audio disclosure. Twenty-two stores are selected. Exact payment and annual-renewal approval remain pending; no charge or distributor submission is verified.
+**TLDR:** DistroKid submission of The Day That Never Comes by Ultimate Brando is verified on 11-01-2026. It is processing; the Spotify link lookup has no release yet. The six-hour follow-up is active for this existing release, and the submission email has a verified Sent receipt.
 
 ## Assignment and current state
 
 - Source: `prompts/codex-spotify.md` at incoming commit `ea60b73`; scheduled checks every 15 minutes until noon on 10-27-2026, America/Los_Angeles.
 - Public release title and draft biography: [artist profile](artist-profile.md). Track title: The Day That Never Comes.
-- Local preparation completed 10-27-2026 10:06 PDT; the actual DistroKid form now displays the selected WAV and artwork. No completed distributor submission or payment is verified.
-- Latest account check, 11-01-2026 17:30 PST: upload access works. The prior password/contact setup dependency is resolved. See the latest release-form section below; the old RouteNote automation remains paused.
+- DistroKid submission verified 11-01-2026 17:58 PST after Brando completed the form. The release is processing; the amount charged and final store list are not independently verified.
+- Latest check, 11-01-2026 17:58 PST: DistroKid success screen confirmed; Spotify link lookup reports no releases yet. The existing automation now monitors this DistroKid release every six hours; do not submit through RouteNote or create a duplicate.
 
 ## Verified assets
 
@@ -35,7 +35,7 @@ Folder: `experiments/2026-10-27_first-release/`.
 
 ## Remaining execution sequence
 
-**Current route, 11-01-2026:** Brando's later DistroKid instruction renews preparation/upload intent using the final or best supplied audio and requires approval before every charge. Use the verified 181.92-second jazz WAV as the best available candidate, not the source-parent attachment. The older RouteNote sequence below is historical; follow the latest DistroKid section and retain the [rights assessment](spotify-cover-rights.md) without inventing permissions.
+**Current route, 11-01-2026:** The DistroKid release is submitted. Monitor its licensing, store delivery and direct Spotify listening link; no further submission is needed. The numbered preparation sequence below is historical and superseded by the latest submission section. Retain the [rights assessment](spotify-cover-rights.md); submission acceptance is not blanket legal clearance.
 
 1. Public artist name and Suno plan at creation are confirmed. Use the already-held paid-period audio file and preserve its receipt/history evidence. Complete the content and rights checks needed for the actual distributor declarations; today's Free download screen alone does not invalidate earlier rights.
 2. Account setup was authorized directly on 10-27-2026 and signup was reported complete on 10-28-2026. Reuse the existing Spotify listener account. Sign in to the existing RouteNote account, verify the dashboard and complete any matching email verification. Do not repeat signup just because the current browser is logged out.
@@ -229,3 +229,23 @@ Apple Music and iTunes were temporarily deselected because the form's original B
 The user-selected distribution agreement and rights checkboxes were already checked when inspected. Codex preserved those choices without representing that the prior rights assessment had established full clearance. A single charge-choice question was presented: approve $9 with annual cover-license renewal and remove extras, approve $40.99 with annual renewal and retain extras, or hold. This is required because the previous payment authorization excluded recurring charges and capped one-time spending at $30. No new card information was entered or stored.
 
 Local proof: `exports/artist-profile/distrokid-review-11-01-2026.png`. Resume the retained existing release form, apply the user's charge choice, verify the total, submit once, and save the actual distributor confirmation before sending the authorized submission email. Do not describe the recording as live until a direct listening link is verified.
+
+## DistroKid submission verified (11-01-2026 17:58 PST)
+
+Brando completed submission and pasted the success screen. Codex independently read the authenticated page confirming **The Day That Never Comes — Ultimate Brando**, one song, processing for streaming platforms. Release identifier: `05E43806-5482-42DC-AE5A916C71A0C713`. Actual charges and final selected stores were not independently verified after submission; the earlier form total is not a payment receipt.
+
+The [HyperFollow page](https://distrokid.com/hyperfollow/ultimatebrando/the-day-that-never-comes) is promotional, not a direct Spotify listening link. The authenticated [Spotify identifier lookup](https://distrokid.com/uri/spotify/) reports no releases found and says delivery may not have occurred yet. Spotify publication is therefore unverified, with no direct listening link available from that lookup.
+
+The confirmation screen advises at least five business days for Spotify. [DistroKid's cover guidance](https://support.distrokid.com/hc/en-us/articles/360013648953-Uploading-Cover-Songs-to-DistroKid) separately allows up to 14 business days to secure the cover license before delivery. Roughly one to four weeks is a planning estimate, not a promised release date.
+
+The existing `ultimate-music-spotify-release-notifications` automation was updated and verified ACTIVE at its existing six-hour cadence. It now monitors this submitted DistroKid release, verifies the correct artist and live playback before emailing the direct Spotify link, and prepares promotion drafts for Brando to post. It stops after the live notification and drafts are delivered. The submission milestone email was sent with a Gmail Sent receipt after checking Sent for duplicates; receipt details remain private under ignored exports. No live-link email has been sent.
+
+Local evidence: `exports/artist-profile/distrokid-submission-confirmed-11-01-2026.png`, `exports/artist-profile/spotify-link-pending-11-01-2026.png`, and private `exports/artist-profile/submission-email-receipt-11-01-2026.json`.
+
+### Promotion drafts for verified publication
+
+These drafts are not sent. Use them only after verifying Spotify publication and replacing `[SPOTIFY_LINK]` with the direct listening link; Brando will post them.
+
+**Bachata group:** Hey dance fam! 🎷 My first release as Ultimate Brando is on Spotify! It’s a jazz cover of Metallica’s “The Day That Never Comes,” based on an arrangement I wrote in high school in 2010 and brought to life with Suno. A little jazz between bachatas 😄 Would love for you to hear it! [SPOTIFY_LINK]
+
+**Deck / Hala’s Deck group:** Hey everyone! I finally released some music 🎷 “The Day That Never Comes” is on Spotify under Ultimate Brando—a jazz take on Metallica, made with Suno from an arrangement I wrote back in high school in 2010. Pretty wild hearing that old score come alive. Give it a listen! [SPOTIFY_LINK]

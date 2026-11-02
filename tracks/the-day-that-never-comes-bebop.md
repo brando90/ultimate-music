@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/tracks/the-day-that-never-comes-bebop.md>
 
-- **Status:** DistroKid form prepared on 11-01-2026 with final WAV and portrait attached; exact payment/annual-renewal approval pending; no distributor submission or charge verified
+- **Status:** DistroKid submission verified 11-01-2026; processing, awaiting approval and Spotify publication. Submission email sent with verified receipt; live-link notification pending.
 - **Artist:** Ultimate Brando, explicitly confirmed by Brando on 11-01-2026; human artist Brando Miranda
 - **Type:** cover (original artist: Metallica; composition by James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo; verified against Metallica’s official song catalog)
 - **Created with:** Suno (account `brandojazz`)
@@ -65,10 +65,10 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 
 ## Release
 
-- Distributor: DistroKid; 22 included stores prepared under Brando's maximum-distribution instruction. Apple/iTunes await accurate generated-performance credit; Snapchat/Roblox excluded for composition-ownership requirements. No purchase or submission verified.
+- Distributor: DistroKid; submission verified 11-01-2026. Twenty-two included stores were prepared before Brando submitted; final store list and actual charge remain unverified. Existing release identifier: `05E43806-5482-42DC-AE5A916C71A0C713`.
 - ISRC / UPC: assigned by the distributor
 - Cover art: user-selected jazz-club saxophone portrait is displayed in the current DistroKid form. Its preserved reference is `exports/artist-profile/ultimate-brando-jazz_profile-selected_11-01-2026.png`. Earlier `experiments/2026-10-27_first-release/cover_3000.jpg` remains preserved.
-- Spotify link: none
+- Spotify link: not available in the authenticated lookup as of 11-01-2026 17:58 PST; publication unverified. [HyperFollow promotional page](https://distrokid.com/hyperfollow/ultimatebrando/the-day-that-never-comes).
 - Cover licensing: depends on stores and territories; see "Rights" and `docs/spotify-setup.md`.
 
 ## Rights (open items, must be settled before upload)
