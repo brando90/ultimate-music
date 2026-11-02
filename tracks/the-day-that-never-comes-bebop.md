@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/tracks/the-day-that-never-comes-bebop.md>
 
-- **Status:** DistroKid files processed and transfer to 22 stores underway, verified 11-02-2026 00:03 PST. Spotify publication remains unverified. Submission email sent with verified receipt; live-link notification pending.
+- **Status:** DistroKid is securing the cover-song license before store delivery, verified 11-02-2026 08:50 PST after refreshing the dashboard. Spotify publication remains unverified. Submission email sent with verified receipt; live-link notification pending.
 - **Artist:** Ultimate Brando, explicitly confirmed by Brando on 11-01-2026; human artist Brando Miranda
 - **Type:** cover (original artist: Metallica; composition by James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo; verified against Metallica’s official song catalog)
 - **Created with:** Suno (account `brandojazz`)
@@ -65,10 +65,10 @@ The short view on the page shows only: bebop jazz, jazz, virtuosic jazz saxophon
 
 ## Release
 
-- Distributor: DistroKid; submission verified 11-01-2026. Transfer to the 22 selected stores is confirmed, including Spotify and Instagram/Facebook; actual charge remains unverified. Existing release identifier: `05E43806-5482-42DC-AE5A916C71A0C713`.
+- Distributor: DistroKid; submission verified 11-01-2026. The 22 selected destination badges include Spotify and Instagram/Facebook; current banner says delivery waits for the cover license. Actual charge remains unverified. Existing release identifier: `05E43806-5482-42DC-AE5A916C71A0C713`.
 - Universal Product Code (UPC): `700149599211`, verified in DistroKid. International Standard Recording Code (ISRC): not yet recorded.
 - Cover art: user-selected jazz-club saxophone portrait is displayed in the current DistroKid form. Its preserved reference is `exports/artist-profile/ultimate-brando-jazz_profile-selected_11-01-2026.png`. Earlier `experiments/2026-10-27_first-release/cover_3000.jpg` remains preserved.
-- Spotify link: not available in the authenticated lookup as of 11-02-2026 00:03 PST; publication unverified. [HyperFollow promotional page](https://distrokid.com/hyperfollow/ultimatebrando/the-day-that-never-comes).
+- Spotify link: not available in the authenticated lookup as of 11-02-2026 08:50 PST; publication unverified. [HyperFollow promotional page](https://distrokid.com/hyperfollow/ultimatebrando/the-day-that-never-comes).
 - Cover licensing: depends on stores and territories; see "Rights" and `docs/spotify-setup.md`.
 
 ## Rights (open items, must be settled before upload)

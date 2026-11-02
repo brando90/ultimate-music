@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/spotify-setup.md>
 
-**TLDR:** DistroKid submission of The Day That Never Comes by Ultimate Brando is verified on 11-01-2026. Files are processed and transfer to 22 stores is underway; the Spotify link lookup has no release yet. The six-hour follow-up is active for this existing release, and the submission email has a verified Sent receipt.
+**TLDR:** DistroKid submission of The Day That Never Comes by Ultimate Brando is verified on 11-01-2026. The refreshed dashboard now explicitly awaits the cover license before store delivery; the Spotify link lookup has no release yet. The six-hour follow-up is active for this existing release, and the submission email has a verified Sent receipt.
 
 ## Assignment and current state
 
@@ -257,3 +257,9 @@ The authenticated release dashboard reports that the files were successfully pro
 The dashboard lists the cover-song license, Leave a Legacy and loudness normalization as attached extras. Separate license approval and the actual charge remain unverified. Spotify identifier lookup still reports no releases found; the public HyperFollow page offers Spotify Pre-Save only. The connected mailbox has the already-sent submission notification and no new matching distributor status email. No live-link email or promotional post was sent.
 
 Synced coworker [launch drafts](promotion/launch-drafts.md) and [promotion log](promotion/promotion-log.md) from incoming commit `2357b7c`; the log records no published posts. Use those records to coordinate the live campaign. Existing monitoring continues at its six-hour cadence.
+
+## Cover-license queue confirmed (11-02-2026 08:50 PST)
+
+After refreshing the authenticated release dashboard, the current message explicitly says DistroKid is securing the cover-song license before sending the single to stores. This more specific state supersedes the earlier generic transfer banner. The 22 destination badges still say submitted, but they do not establish completed store delivery or license approval.
+
+The Spotify identifier lookup still has no release, and HyperFollow still offers Spotify Pre-Save without a direct listening link. No new matching distributor email was found in the connected mailbox; the existing submission-email receipt remains the only milestone notification. There is no rejection or requested user action. Continue the existing watch without a duplicate submission, email or promotion.

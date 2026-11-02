@@ -5,19 +5,19 @@
 **TLDR:** DistroKid submission is verified for The Day That Never Comes by Ultimate Brando. Spotify publication and a direct listening link are pending; the submission email is sent and the existing six-hour watch is active.
 
 Created: 10-27-2026 10:06 PDT
-Last updated: 11-02-2026 00:03 PST
+Last updated: 11-02-2026 08:50 PST
 
 ## Goal
 - Verify the submitted release goes live, email its direct Spotify listening link and deliver promotion drafts for Brando to post.
 ## What ran
-- Authenticated release dashboard now confirms files processed and transfer to 22 stores underway, including Spotify and Instagram/Facebook; Universal Product Code (UPC): `700149599211`.
+- Refreshed authenticated dashboard: release queued while DistroKid secures the cover license, before store delivery. The 22 destination badges remain; Universal Product Code (UPC): `700149599211`.
 - Release identifier: `05E43806-5482-42DC-AE5A916C71A0C713`; HyperFollow: <https://distrokid.com/hyperfollow/ultimatebrando/the-day-that-never-comes>.
 ## Results
 - Spotify identifier lookup shows no releases yet; no direct Spotify listening link or live status verified.
 - Submission milestone email sent after Sent deduplication, with verified Gmail Sent receipt stored privately in `exports/artist-profile/submission-email-receipt-11-01-2026.json`.
 - Existing `ultimate-music-spotify-release-notifications` updated to ACTIVE, every six hours, monitoring DistroKid only.
 ## Stuck / blocked
-- Awaiting store publication. Cover-license extra is listed, but license approval and actual amount charged are not independently verified. Spotify lookup still has no release; HyperFollow offers pre-save only.
+- Awaiting cover-license approval, then store delivery/publication. Fresh dashboard wording supersedes the earlier generic transfer banner; Spotify lookup remains empty and HyperFollow offers pre-save only.
 ## Next steps
 - [p 10/10] Monitor the existing release and <https://distrokid.com/uri/spotify/>; verify title, artist and playable publication before the live-link email. Do not create or submit another release.
 - Use coworker drafts in `docs/promotion/launch-drafts.md` and check `docs/promotion/promotion-log.md` before promotion; no posts logged yet. Delete the watch after live email receipt and draft delivery.
@@ -51,3 +51,4 @@ Last updated: 11-02-2026 00:03 PST
 
 - 11-01-2026 18:00 PST -- Verified user-completed DistroKid submission and pending Spotify link; restored the six-hour watch for this existing release and sent the deduplicated submission email with a verified Sent receipt.
 - 11-02-2026 00:03 PST -- Synced coworker promotion drafts; verified processed files, transfer to 22 stores and UPC 700149599211. Spotify lookup still empty and HyperFollow pre-save only; no duplicate email or publication.
+- 11-02-2026 08:50 PST -- Fresh dashboard explicitly says cover licensing is pending before store delivery; recorded this more specific status over the prior transfer banner. No Spotify link, new relevant email, rejection or user action; follow-up remains active.
