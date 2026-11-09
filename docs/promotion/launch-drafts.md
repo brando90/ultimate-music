@@ -36,7 +36,24 @@ Image: approved jazz-club saxophone portrait or the 3000 x 3000 cover art.
 - Slide 2: a screenshot of the 2010 Sibelius score, text "Written by hand in 2010."
 - Use the released track as Story music only if it shows in Instagram's music library (check first, do not claim it).
 
-## Instagram Reel idea (15 to 30 s)
+## Instagram Reel draft (20 s)
+
+Prepared November 9: vertical 1080 × 1920 video, 24 frames per second, using the approved saxophone portrait and the first 20 seconds of the supplied Suno recording. On-screen text includes the exact title, "2010 score. 2026 jazz." and "Suno-generated audio" throughout. The image is artwork, and the video does not depict a live performance. The media file is retained locally outside Git; this remains an unpublished draft. Instagram music-library availability has not been verified.
+
+Draft caption:
+
+```text
+An arrangement I wrote by hand in Sibelius in high school in 2010, brought into a new jazz world with Suno. 🎷
+
+The Day That Never Comes — my jazz cover of Metallica, out now as Ultimate Brando. This clip uses Suno-generated audio with my artist portrait.
+
+Listen and follow on Spotify: https://open.spotify.com/track/547tkBYnxsc3peaMILAcYB
+Share it if you enjoy it.
+
+#jazz #metallica #jazzcover #suno #newmusic
+```
+
+An alternative idea, not produced:
 
 Scroll through the 2010 Sibelius score pages, cut to the cover art with the first bars of the track under it. On-screen text: "2010: a school-orchestra score. 2026: a jazz reading." Caption: short version of the post caption.
 

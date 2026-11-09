@@ -79,7 +79,7 @@ Verification: YouTube displayed “Post created”; the Published tab showed the
 
 | Platform | Status as of November 9 |
 |---|---|
-| Artist Instagram @ultimatebrandojazz | Post, Story, optional Reel and bio link pending. Music-library availability and Story link-sticker support have not been checked. |
+| Artist Instagram @ultimatebrandojazz | Post, Story, optional Reel and bio link pending. A 20-second vertical Reel draft is prepared using the approved portrait and supplied Suno audio, with visible AI-audio disclosure; see launch drafts. Music-library availability and Story link-sticker support have not been checked. |
 | Facebook Page Ultimate Brando | Launch post pending. Check artist identity and existing posts before publishing; verify any automatic Instagram cross-post first. |
 | Personal Instagram @ultimate_brando9 | No launch post published in this campaign yet. |
 | Threads | A suitable personal or artist publishing account has not yet been verified in the accounts checked. |
