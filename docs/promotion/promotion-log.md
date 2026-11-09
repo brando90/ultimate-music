@@ -86,3 +86,7 @@ Verification: YouTube displayed “Post created”; the Published tab showed the
 | WhatsApp groups | Two drafts prepared for Brando to post himself; neither group was messaged. |
 
 No paid advertising, purchase or duplicate release submission was made. No new release-monitor schedule or live-release email was created.
+
+### November 9, 2026, noon checkpoint (PST)
+
+No additional Instagram or Threads launch content was published at this check. The artist Instagram post, Story, bio listening link and optional Reel remain pending, as does the personal Instagram announcement. Threads account ownership has not yet been verified. Instagram music-library availability and Story link-sticker support remain unchecked. The prepared media and captions remain unpublished drafts; the existing X, LinkedIn, YouTube and website announcements above were preserved without new copies.
