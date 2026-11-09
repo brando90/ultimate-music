@@ -50,6 +50,25 @@ Listen, follow Ultimate Brando, and share if you enjoy it: https://open.spotify.
 
 Verification: LinkedIn displayed “Post successful.” The public post was opened again and showed Brando as author, the complete announcement and a preview pointing to the correct Spotify track.
 
+### YouTube post — November 9, 2026, 00:25 PST
+
+Account: [Brando Miranda, @ultimate_brando9](https://www.youtube.com/@ultimate_brando9).
+
+Public post: https://www.youtube.com/post/UgkxMe4k2iT3OZ6tr0d_A2QH9neWleen6lxt
+
+Exact published copy:
+
+```text
+A little music between the research talks 🎷 My first single as Ultimate Brando is out on Spotify: “The Day That Never Comes,” a jazz cover of Metallica.
+
+I wrote the arrangement by hand in Sibelius in high school in 2010, then brought that old score into a new jazz world with Suno. The released audio is Suno-generated.
+
+Listen, follow Ultimate Brando, and share if you enjoy it:
+https://open.spotify.com/track/547tkBYnxsc3peaMILAcYB
+```
+
+Verification: YouTube displayed “Post created”; the Published tab showed the new text post, Brando as author and the correct Spotify destination. This is a text announcement, with no uploaded audio or video.
+
 ### Website — existing announcement verified November 9, 2026
 
 - [Metallica goes jazz](https://brando90.github.io/brandomiranda/2026/05/07/metallica-goes-jazz.html)
@@ -63,7 +82,7 @@ Verification: LinkedIn displayed “Post successful.” The public post was open
 | Artist Instagram @ultimatebrandojazz | Post, Story, optional Reel and bio link pending. Music-library availability and Story link-sticker support have not been checked. |
 | Facebook Page Ultimate Brando | Launch post pending. Check artist identity and existing posts before publishing; verify any automatic Instagram cross-post first. |
 | Personal Instagram @ultimate_brando9 | No launch post published in this campaign yet. |
-| Threads, YouTube | A suitable personal or artist publishing account has not yet been verified in the accounts checked. |
+| Threads | A suitable personal or artist publishing account has not yet been verified in the accounts checked. |
 | WhatsApp groups | Two drafts prepared for Brando to post himself; neither group was messaged. |
 
 No paid advertising, purchase or duplicate release submission was made. No new release-monitor schedule or live-release email was created.

@@ -2,7 +2,7 @@
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/promotion/launch-drafts.md>
 
-**Status (November 9, 2026):** Spotify release verified. X and LinkedIn announcements are published; see [promotion-log.md](promotion-log.md) for exact copy and public links. Website announcement already live. Instagram and Facebook copy below remains unpublished; the two WhatsApp messages are for Brando to post himself.
+**Status (November 9, 2026):** Spotify release verified. X, LinkedIn and YouTube announcements are published; see [promotion-log.md](promotion-log.md) for exact copy and public links. Website announcement already live. Instagram and Facebook copy below remains unpublished; the two WhatsApp messages are for Brando to post himself.
 
 ## Rules for every post
 
@@ -62,9 +62,9 @@ Original song by James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo.
 
 Audience fit: X @BrandoHablando and LinkedIn are Brando's research and professional channels. Each received one short personal-project announcement under his November 1 campaign authorization. Do not repost these announcements.
 
-X and LinkedIn: **published**, exact copy and links in [promotion-log.md](promotion-log.md).
+X, LinkedIn and YouTube: **published**, exact copy and links in [promotion-log.md](promotion-log.md).
 
-Threads, YouTube: a suitable account has not yet been verified in the sources checked; do not assume that an administered account is a personal promotional channel.
+Threads: a suitable account has not yet been verified in the sources checked; do not assume that an administered account is a personal promotional channel.
 
 ## Website announcement (brando90.github.io/brandomiranda)
 
