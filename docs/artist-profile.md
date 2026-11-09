@@ -1,5 +1,7 @@
 # Artist profile and release description
 
+**Latest release check — November 9, 2026:** [The Day That Never Comes by Ultimate Brando](https://open.spotify.com/track/547tkBYnxsc3peaMILAcYB) is released; Spotify lists November 2, 2026. Public preview playback verified. [Promotion log](https://github.com/brando90/ultimate-music/blob/main/docs/promotion/promotion-log.md) records published X and LinkedIn posts, the existing website announcement and remaining drafts. Older pending-release entries below are historical.
+
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/artist-profile.md>
 
 **TLDR:** Ultimate Brando is the confirmed distribution artist name as of 11-01-2026; Brando Miranda is the human artist. Facebook and @ultimatebrandojazz are linked. The DistroKid release form is prepared, with payment and submission still pending.

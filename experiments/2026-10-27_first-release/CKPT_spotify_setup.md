@@ -1,5 +1,7 @@
 # Spotify release follow-up checkpoint
 
+**Latest release check — November 9, 2026:** [The Day That Never Comes by Ultimate Brando](https://open.spotify.com/track/547tkBYnxsc3peaMILAcYB) is released; Spotify lists November 2, 2026. Public preview playback verified. [Promotion log](https://github.com/brando90/ultimate-music/blob/main/docs/promotion/promotion-log.md) records published X and LinkedIn posts, the existing website announcement and remaining drafts. Older pending-release entries below are historical.
+
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/experiments/2026-10-27_first-release/CKPT_spotify_setup.md>
 
 **TLDR:** DistroKid submission is verified for The Day That Never Comes by Ultimate Brando. Spotify publication and a direct listening link are pending; the submission email is sent and the existing six-hour watch is active.
