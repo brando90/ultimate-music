@@ -1,5 +1,40 @@
 # Artist profile and release description
 
+## Profile and credit update — November 9, 2026
+
+**Credits submitted; profile biography and links still pending.** DistroKid confirmed the updated credits for [The Day That Never Comes](https://open.spotify.com/track/547tkBYnxsc3peaMILAcYB) were saved and submitted to streaming services. Its confirmation says to allow around one week for them to go live. Display in Spotify has not yet been verified, and some services may omit certain credit types or notes.
+
+New entries submitted:
+
+| Credit | Name or text |
+|---|---|
+| Arranger | Brando Miranda |
+| Music | James Hetfield |
+| Music | Lars Ulrich |
+| Music | Kirk Hammett |
+| Music | Robert Trujillo |
+| Inspiration | Audio generated with Suno from Brando Miranda's 2010 Sibelius arrangement of Metallica's 'The Day That Never Comes.' Original songwriters: James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo. |
+
+The existing Audio / AI disclosure is preserved. The four writers were checked against [Metallica's official song catalog](https://www.metallica.com/songs/the-day-that-never-comes.html) and added individually through DistroKid's credit editor. No instrumental-performance credit was added for Brando. The artist name remains Ultimate Brando.
+
+### Current biography ready to publish
+
+Ultimate Brando is the music project of Brando Miranda, bringing handwritten arrangements into new jazz settings. He earned a music minor at MIT in 2014 and played in MIT jazz combos with bassist Keala Kaumeheiwa.
+
+His debut single, “The Day That Never Comes,” revisits an arrangement of Metallica’s song that he wrote in Sibelius in high school in 2010. Sixteen years later, he returned to that score to explore its possibilities as bebop jazz. The released audio is Suno-generated from his arrangement.
+
+Old scores. New sounds.
+
+The MIT minor and combo participation are Brando's own statements; his public CV also lists the minor. [MIT's faculty page](https://music.mit.edu/people/keala-kaumeheiwa/) confirms Kaumeheiwa's name and jazz-combo teaching. The arrangement history is in [Brando's release story](https://brando90.github.io/brandomiranda/2026/05/07/metallica-goes-jazz.html). The possible Berklee teacher detail is omitted until the name is confirmed.
+
+### Profile links ready to publish
+
+- Instagram: https://www.instagram.com/ultimatebrandojazz/
+- Facebook: https://www.facebook.com/61596193078228
+- Website reference: https://brando90.github.io/brandomiranda/
+
+Instagram and Facebook are supported in Spotify's More Info section. A general website is not among the supported social-link types listed in [Spotify's current instructions](https://support.spotify.com/us/artists/article/adding-social-media-links-to-your-spotify-artist-profile/); do not place it in another platform's field. The biography and social links above are prepared, not yet published. This section supersedes older pending-release wording below.
+
 **Latest release check — November 9, 2026:** [The Day That Never Comes by Ultimate Brando](https://open.spotify.com/track/547tkBYnxsc3peaMILAcYB) is released; Spotify lists November 2, 2026. Public preview playback verified. [Promotion log](https://github.com/brando90/ultimate-music/blob/main/docs/promotion/promotion-log.md) records published X and LinkedIn posts, the existing website announcement and remaining drafts. Older pending-release entries below are historical.
 
 **Doc link:** <https://github.com/brando90/ultimate-music/blob/main/docs/artist-profile.md>
