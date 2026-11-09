@@ -60,7 +60,7 @@ Original song by James Hetfield, Lars Ulrich, Kirk Hammett and Robert Trujillo.
 
 ## Other platforms (publication checked November 9, 2026)
 
-Audience fit: X @BrandoHablando and LinkedIn are Brando's research and professional channels. Each received one short personal-project announcement under his November 1 campaign authorization. Do not repost these announcements.
+Audience fit: X @BrandoHablando and LinkedIn are Brando's research and professional channels. X and LinkedIn each received one short personal-project announcement under his November 1 campaign authorization. His existing YouTube channel @ultimate_brando9 also received one tailored text post. Do not repost these announcements.
 
 X, LinkedIn and YouTube: **published**, exact copy and links in [promotion-log.md](promotion-log.md).
 

@@ -16,7 +16,7 @@ Records verified release links, exact published copy, dates and public post link
 
 ## Published posts
 
-### X — November 9, 2026
+### X — November 9, 2026, 00:14 PST
 
 Account: [Brando Miranda, @BrandoHablando](https://x.com/BrandoHablando).
 
